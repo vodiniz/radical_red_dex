@@ -36,6 +36,14 @@ fn introduction() {
 
 }
 
+fn get_input() -> String {
+    let mut input = String::new();
+    std::io::stdin().read_line(&mut input).unwrap();
+    
+    return input;
+
+}
+
 fn help() {
 
     let colors: [DynColors; 4] = [
@@ -68,7 +76,6 @@ USAGE: [OPTIONS] [NAME]
     eggvendors                  - POKEMONS OBTAINED THROUGH EGG VENDORS
     fossil                      - FOSSIL POKEMON OBTAINED THROUGH TRADE/RESTORING
     unobtainable                - LIST OF UNOBTAINABLE POKEMON
-
     "#;
 
     println!("{}", HELP_TEXT.color(colors[0]));
@@ -84,14 +91,13 @@ fn main() {
 
     while running {
 
-        let mut input = String::new();
-        std::io::stdin().read_line(&mut input).unwrap();
+        let mut input = get_input(); 
 
-        if input.trim() == "help" {
-            help();
-        } else {
-
-        }
+        match input.trim() {
+            "help" => help(),
+             _ => (),
+        } 
+        
     
         
 
