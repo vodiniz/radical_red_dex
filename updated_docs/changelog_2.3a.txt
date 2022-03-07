@@ -1,0 +1,2254 @@
+Changelog 2.3 to 2.3a:
+Changes:
+- New Wild Grass has been added to Viridian City and Pewter City for more early game diversity (and to ease nuzlocke/mono-type challenges)
+- Updated Red, May, Brendan front trainer sprites, and Brendan's backsprites (Credits to hyo_oppa!)
+- Changed Low Sweep TM to TM Thief in Diglett's Cave
+- Changed TM Thief in Mt Moon to Low Sweep TM
+- Can access Wild Grass on Route 3 a bit earlier
+- Can't receive Misty Seed from Wild Pokemon before beating Sabrina in Hardcore Mode
+- Pallet Town starter set to fateful encounter as location (so nuzlockers can also use a Pallet Town fishing encounter)
+
+Bug Fixes:
+- Fixed Night Evolutions not working properly, along with Lycanroc Dusk
+- Fixed Evolutions learning banned moves in Hardcore/Restricted Mode
+- Fixed being able to teach certain banned moves through move tutor in Hardcore/Restricted mode
+- Fixed AI overly favoring draining moves (Mega Drain, Drain Punch, etc)
+- Fixed Pikachu costume forms only giving 1 exp
+- Fixed Razor Shell description being outdated
+- Fixed Jumpluff not being able to learn Leaf Blade through tutor when it learns through Level Up
+- Fixed Clobbopus not being able to learn Low Sweep when it learns through Level Up
+- Fixed weather ability not working properly in hc champion fight
+- Fixed the first trainer on Nugget Bridge having scaled levels
+- Fixed Beat Up having outdated description
+- Fixed Aegislash-Blade not having updated HP
+
+Small Pokemon Changes:
+Buizel Ability 1 Swift Swim->Water Veil, Hidden Ability Water Veil->Technician (to be consistent with evo Floatzel)
+Snover Ability 1 Snow Warning->Soundproof (since it's a new early game mon snow warning would be too powerful early)
+
+More learnset additions/evolution modifications:
+- Rattata evolves to Raticate at Level 16 instead of Level 20
+- Rattata-A evolves to Raticate-A at Level 16 at Night instead of Level 20
+- Machop learns Bullet Punch at Level 3 instead of Focus Energy, Rock Tomb at Level 9 instead of Foresight
+- Gastly learns Ominous Wind at Level 10, Sludge at Level 16
+- Haunter learns Shadow Ball at Level 28 instead of Payback
+- Meowth/Persian learns Bullet Seed at Level 12 and can learn Bullet Seed from TM, Shock Wave at Level 28
+- Meowth-G learns Bullet Punch at Level 22
+- Exeggcute learns Psybeam at Level 1, Bullet Seed at Level 1, Stun Spore at Level 15, Mega Drain at Level 17 instead of Bullet Seed
+- Hoothoot evolves to Noctowl at Level 16 instead of Level 20, Noctowl learns Air Cutter on Evolution
+- Ponyta learns Stomp at Level 1 instead of Tackle, Flame Wheel at Level 8, Will-O-Wisp at Level 15
+- Ponyta-G learns Flame Wheel at level 8, Stomp at Level 1 instead of Tackle, Will-o-Wisp at Level 13
+- Slowpoke learns Water Pulse at Level 9 instead of Water Gun, Thunder Wave at Level 12, Psybeam at Level 14 instead of Confusion, Icy Wind at Level 20 instead of Water Pulse
+- Grimer learns Sludge at Level 4, Rock Tomb at Level 9, Mega Drain at Level 15, Poison Fang at Level 22 instead of 32
+- Grimer-A learns Rock Tomb at Level 9
+- Spinarak evolves to Ariados at Level 16 instead of Level 22
+- Snubbull Ability 2 Run Away->Strong Jaw
+- Removed Illuminate as possible ability on Chinchou/Lanturn
+- Marill learns Aqua Jet at Level 1 instead of Water Gun, learns Body Slam at Level 15
+- Azumarill learns Ice Punch on Evolution
+- Nuzleaf learns Fake Out on Evolution
+- Swablu learns Pluck at Level 1 instead of Peck, Icy Wind at Level 15
+- Meditite learns Fake Out at Level 1 instead of Bide, Rock Tomb at Level 11, Force Palm at Level 15 instead of Feint, Feint at Level 17 instead of Force Palm, Bullet Punch at Level 20 instead of Hidden Power
+- Spoink learns Thunder Wave at Level 1 instead of Splash
+- Kricketune learns Bulldoze at Level 20
+- Burmy evolves to Wormadam, Mothim at Level 16 instead of 20
+- Snover learns Ice Shard at Level 1 instead of Powder Snow, Giga Drain at Level 26 instead of Ice Shard
+- Patrat evolves to Watchog at Level 16 instead of Level 20
+- Sandile learns Bulldoze at Level 16 instead of Assurance, Assurance at Level 19 instead of Bulldoze, Rock Throw at Level 7
+- Mienfoo learns Force Palm at Level 1, Rock Tomb at Level 11
+- Yamask-G learns Shadow Sneak at Level 1 instead of Astonish, Will-O-Wisp at Level 14
+- Gothita evolves to Gothorita at Level 28 instead of 32
+- Axew learns Breaking Swipe at Level 10 instead of Dragon Rage, doesn't learn Dual Chop at Level 13
+- Fraxure learns Dual Chop on Evolution
+- Volcarona learns Safeguard at Level 1
+- Delphox learns Mind Blown at level 85 instead of 80
+- Espurr learns Thunder Wave at Level 1
+- Cubchoo learns Aqua Jet at Level 1, Ice Punch at Level 11
+- Flabebe evolves to Floette at Level 16 instead of Level 19, learns Magical Leaf at Level 15 instead of Razor Leaf, Dazzling Gleam at Level 22 instead of Magical Leaf
+- Floette learns Draining Kiss on Evolution
+- Pancham learns Bullet Punch at Level 10 instead of Work up, Bite at Level 15 instead of Comet Punch
+- Yungoos learns Rock Tomb at Level 10, Bite at Level 16 instead of Bide
+- Steenee Attack 40->70, SpA 40->70
+- Cutiefly learns Mega Drain at level 1 instead of Absorb
+- Sandygast learns Ominous Wind at Level 5 instead of Astonish, Will-O-Wisp at Level 10
+- Applin learns Mega Drain, DragonBreath at Level 1
+- Sinistea learns Ominous Wind at Level 1 instead of Astonish, Will-O-Wisp at Level 16
+
+Changelog 2.2b to v2.3:
+
+- Added an Easy Option, Minimal Grinding Option, Hardcore Mode, Restricted Mode
+●	- Easy Mode makes boss battles a level lower, allows items in boss battles, shift mode can be used, and boss battles have no EVs
+●	- Minimal Grinding makes all Pokemon have perfect IVs (Gift Pokemon, Wild Pokemon, Boss Pokemon (except slight tweaks for Hidden Power)), and EVs cannot be obtained. AI will also use no EVs. Trading is forbidden in Minimal Grinding Mode.
+●	Hardcore Mode makes boss battles harder and simply downright unfair while also restricting certain moves/abilities from the user (weather ability/moves, most stat-boosting moves, and more are prohibited with some exceptions).
+○	Egg Moves cannot be obtained from DexNav in this mode
+○	Some mandatory trainers in routes are also turned into minibosses, indicated by a pre-battle transition
+○	It's automatically complimented with Minimal Grinding mode to make this grueling experience less tedious
+○	Hardcore Mode has some minor modifications to the levels in Level Cap so that you can evolve your starter before Brock and get your final starter evolution before Lt Surge
+- Restricted Mode simply has the restrictions that Hardcore Mode has (Certain Abilities, Moves are forbidden) but with default Radical Red boss battles
+- The Stat Scanner has been updated with a graphical interface that also displays Happiness Level, Base Stats, and steps left for an egg to hatch (Please note the steps left counter is not an approximate amount!) Credits to Azimuth on WAH for this!
+- there is spanish on this screen ('atras' instead of 'back') and the iv/evs arent perfectly symmetrical atm... will try to fix when I can :p
+- Added pre-battle transitions for all boss battles (the panning thing you see before fighting the Elite Four/Champion)
+- A part of Diglett Cave is accessible before attaining Cut for more early game diversity (TM78 Low Sweep can be found in here)
+- Some evolution stones have been made available earlier around Cerulean City
+- Early game bosses (Falkner, Brock, Misty) have become slightly more difficult in tandem with these new options available in the early game
+- Updated attack animations for Cut (to better reflect its new Steel typing), Leech Life (to better reflect its 80 BP rather than its old 20 BP), Wicked Blow, Surging Strikes, Grassy Glide, Rising Voltage, Expanding Force, Flip Turn, Snap Trap, Scale Shot
+- Added text to Hall of Fame to reflect what version the game was completed on
+- Screen before the confetti also shows what game modes it was completed on (Easy, Hardcore, Randomizer, etc)
+- Low Sweep added to Striker boosted moves
+- A couple of Pokemon received updates to their battle sprites
+
+
+Item Changes:
+- Leek Stick now boosts Sirfetch'd crit rate by 2 (Vanilla functionality, still works as is for Farfetch-d/Farfetchd-G)
+
+Ability Changes:
+- Big Pecks has been removed, existing Pokemon with Big Pecks -> Frisk
+- Illuminate has been brought back with a new effect: Boosts accuracy by 1.2x. Also has its existing field effect (encounter rate increases by 100% if in first place of party) Affected Pokemon: Staryu/Starmie, Volbeat, Chinchou/Lanturn, Morelull/Shiinotic
+
+- Bull Rush now boosts Speed by 1.5x, Attack by 1.2x on First Turn (Used to do 1.5x attack on first turn)
+- Emergency Exit: Now only forces the switch at the END of the turn (Normally, if you reach the threshold for Emergency Exit to proc you must switch out immediately). Also doesn't force a flee in Wild Battles
+- Liquid Voice: Now also gives 1.2x boost to Sound Moves (like Aerilate/Pixilate/Refrigerate etc, buff to Mega Lapras/Primarina)
+- Solar Power: No longer buffs defenses in Sun
+- Strong Jaw: No longer buffs Fishious Rend
+- Zen Mode: Changes form regardless of health (So, becomes Zen Mode as soon as Darmanitan is switched in)
+
+This isn't new, but it's been undocumented throughout this game's release:
+- Quick Feet boosts Speed by 2x instead of 1.5x
+
+New Moves:
+- Sonic Slash (New broken Ninjask signature move) - 10 PP move Single Target Flying Physical Move: 140 BP if the user's speed is 3* the target's speed or greater, 120 BP if 2* the target's speed, 80 BP if less than 2* the target's speed
+(these are from Let's Go Pikachu & Eeevee with minor modifications)
+- Sappy Seed - 95 BP 100 Acc 5 PP Single Target Grass Physical Move: Deals damage and leaves Leech Seed(if applicable) on its target (Cradily, Parasect, Leafeon, Maractus)
+- Zippy Zap - 50 BP 100 Acc  5 PP Single Target Electric Physical Move: +1 Priority move that always results in a critical hit (Pikachu/Raichu, Zebstrika, Togedemaru, Morpeko)
+- Freezy Frost - 95 BP 100 Acc 5 PP Single Target Ice Special Move: Eliminates stat change after dealing damage. This effect occurs even if they are behind a sub, or if it faints the enemy Pokemon. (Cryogonal, Pikachu-Belle, Regice, Mr. Mime-G/Mr. Rime)
+- Sparkly Swirl - 95 BP 100 Acc 5 PP Single Target Fairy Special Move: Eliminates status conditions in the user's party after dealing damage. This effect occurs even if they are behind a sub, or if it faints the enemy Pokemon. (Aromatisse, Comfey, Shiinotic, Mr. Mime, Pikachu-Pop Star)
+- Bouncy Bubble - 90 BP 100 Acc 5 pp Single Target Water Special Move: Deals damage and 50% of the damage is restored to the user (Wailord, Milotic, Pikachu-Surfing, Pincurchin)
+
+Move Buffs:
+- Volt Tackle - Now does 25% recoil damage rather than 33%
+- Gear Grind Acc 85->100
+- Head Charge - Now has a 10% chance to lower Defense (so that it gets boosted by Sheer Force for Tauros)
+- Jaw Lock - No longer traps the user from switching out
+- Ice Hammer - Accuracy 90->100, No longer lowers the user's Speed
+- Low Sweep 65 BP->60 BP (Technician boosted), now also boosted by Striker
+- Luster Purge BP 70->85 5 PP->10 PP (Meloetta, Latios)
+- Mist Ball BP 70->85, 5 PP->10 PP (Meloetta, Latias)
+- Strength Sap - No longer uses up 2 PP
+- Snap Trap - Type Grass->Steel, 35 BP->100 BP, 100 Acc->85 Accuracy, PP 15->5 (Physical Steel Magma Storm)
+
+Pokemon Nerfs:
+- Goldeen, Seaking Ability Swift Swim->Rain Dish
+- Tapu Koko cannot learn Close Combat from Move Tutor
+- Corsola-G/Cursola learn Strength Sap at Level 85 instead of Level 35
+
+Pokemon Buffs:
+- Mega Blastoise SpA 125->135 (Back to vanilla stats. Mega Blastoise is absurd with Shell Smash, but pretty meh outside of it. Since it gets Shell Smash late anyway, along with it losing access to it in Hardcore Mode, this change is fair)
+- Mega Machamp Defense 100->110, SpDef 105->115
+- Mega Slowbro Defense 165->180 (Back to Vanilla stats), Battle Armor if base ability is Regenerator, Regenerator if base ability is Oblivious/Own Tempo
+- Mega Lapras Defense 85->90, SpDef 100->105, Lapras learns Wish at Level 60
+- Mega Houndoom Ability: Solar Power if base ability is Flash Fire, Dark Aura if base ability is Early Bird/Unnerve
+- Mega Absol Ability: Magic Bounce if base Ability is Pressure, Blademaster if base Ability is Super Luck/Justified
+- Mega Abomasnow Defense 100->105, SpDef 100->105, Speed 45->60
+- Mega Gallade Attack 155->165 (back to Vanilla stats), Ability Inner Focus if base ability is HA Justified
+- Mega Garbodor SpA 80->105, Garbodor can learn Earthquake, Superpower from TM, Ice Punch, Fire Punch, and Thunder Punch from Move Tutor
+- Mega Lucario Attack 135->145 (Back to Vanilla)
+- Mega Orbeetle Defense 115->125, SpD 120->130, Speed 95->100
+- Mega Duraludon HP 70->85
+- Charmander line Flame Body->Solar Power
+- Pikachu learns Zippy Zap at Level 57
+- Pikachu-Surfing gets Bouncy Bubble in initial moveset instead of Surf
+- Pikachu Pop Star (Fairy Pikachu) gets Sparkly Swirl in initial moveset instead of Draining Kiss
+- Pikachu-Flying gets Air Slash in initial moveset instead of Fly, can learn Hurricane from Move Tutor
+- Pikachu-PhD Electric->Electric/Psychic, gets Psychic in initial moveset instead of Electric Terrain, can learn Zen Headbutt from Move Tutor
+- Pikachu-Belle gets Freezy Frost instead of Extreme Speed in initial moveset (can choose between Freezy Frost or Icicle Crash as stab)
+- Raichu Attack 80->100 (to benefit from Zippy Zap)
+- Zubat line Ability 1 Inner Focus->Infiltrator, Hidden Ability Infiltrator->Corrosion
+- Parasect learns Sappy Seed at Level 44 instead of Leaf Blade
+- Primeape Attack 95->105 (Back to Vanilla stats)
+- Tentacool, Tentacruel can learn Flip Turn from TM
+- Golem-A Ability 2 Sturdy->Magnet Pull
+- Rapidash-G SpA 80->60, Speed 105->125
+- Farfetchd-G can learn Roost from TM
+- Doduo, Dodrio can learn U-turn from TM
+- A-Muk learns Parting Shot at Level 1, Sucker Punch at Level 63
+- Gengar Ability Cursed Body->Levitate (a fan favorite!)
+- Kingler learns Meteor Mash at Level 69, Ice Hammer at Level 75, can learn Close Combat from Move Tutor
+- Electrode SpA 80->100, can learn Weather Ball from Move Tutor
+- Exeggutor, Exeggutor-A can learn Weather Ball from Move Tutor
+- Staryu, Starmie Ability 2 None->Illuminate
+- Mr Mime learns Sparkly Swirl at Level 62
+- Mr Mime-G/Mr Rime learn Freezy Frost at Level 62
+- Tauros learns Head Charge (now boosted by Sheer Force!) at Level 76, can learn Play Rough, Flare Blitz from Move Tutor
+- Jolteon learns Spikes at Level 1
+- Aerodactyl can learn U-turn from TM
+- Articuno Attack 85->70 Attack, Speed 85->105, can learn Calm Mind from Move Tutor, Focus Blast from TM
+- Articuno-G Attack 85->70, Defense 85->95, Speed 95->100, can learn Focus Blast from TM
+- Chinchou, Lanturn Ability 2 None->Illuminate
+- Sunflora Speed 45->55
+- Umbreon can learn Knock Off from Move Tutor
+- Granbull Ability 2 Quick Feet->Strong Jaw
+- Murkrow can learn U-turn from TM, Knock Off from Move Tutor
+- Houndoom learns Fiery Wrath at Level 56 instead of Dark Pulse
+- Entei can learn Earthquake from TM
+- Zigzagoon-G learns Pursuit from Egg Moves
+- Shiftry Attack 100->120, SpA 90->110, learns Parting Shot on Evolution
+- Ninjask learns First Impression at Level 36, Sonic Slash at Level 54, can learn Drill Run from Move Tutor
+- Loudred HA Scrappy->Punk Rock (just to make early Brendan fight a little harder lol)
+- Exploud learns Overdrive at Level 63
+- Volbeat Ability 2 None->Illuminate
+- Wailord Ability 2 Thick Fat->Multiscale, HP 170->150, Attack 70->50, Defense 60->80, SpA 90->105, SpDef 60->80, Speed 60->50, learns Bouncy Bubble at Level 55, can learn Focus Blast from Move Tutor
+- Camerupt learns Slack Off at Level 63, Magma Storm at Level 72
+- Zangoose Defense 60->70, SpDef 60->70, Speed 90->100, learns Fake Out instead of X-Scissor at Level 40
+- Seviper can learn Ice Fang, Fire Fang, Thunder Fang from Move Tutor
+- Cradily learns Sappy Seed at Level 68
+- Kecleon HP 60->85
+- Glalie learns Quick Attack at Level 1, Fake Out at Level 45, can learn Hyper Voice from TM
+- Salamence learns Refresh at Level 1
+- Regirock Hidden Ability Sturdy->Solid Rock
+- Regice Hidden Ability Ice Body->Filter, learns Freeze Dry at Level 71, Freezy Frost at Level 75
+- Turtwig line Ability 2 None->Self-Sufficient, Turtwig/Grotle HA Battle Armor->Rock Head
+- Torterra Hidden Ability Self Sufficient->Rock Head, can learn High Horsepower from Move Tutor
+- Staraptor learns Double Edge at Level 65 (compatibility was removed on accident when it was removed from egg move)
+- Wormadam-Trash Attack 69->59, SpA 69->79
+- Lopunny Normal->Normal/Fighting, can learn Brick Break from TM (just to make normal lopunny more usable)
+- Honchkrow Speed 71->96, can learn U-Turn from TM, Knock Off from Move Tutor
+- Magmortar Attack 95->80, Speed 83->98, learns Magma Storm at Level 66
+- Leafeon learns Sappy Seed at Level 70
+- Probopass Hidden Ability Sand Force->Levitate
+- Froslass learns Freeze Dry at Level 58
+- Samurott Attack 100->108, SpA 108->95, Speed 70->100
+- Simisage can learn Power Gem from Move Tutor
+- Zebstrika learns Zippy Zap at Level 58
+- Sawk Defense 80->75, SpDef 80->75, Speed 95->85 (back to Vanilla stats) Hidden Ability Mold Breaker->Contrary, learns Hammer Arm at Level 55, Close Combat at Level 65 instead of 41
+- Lilligant can learn Power Gem from Move Tutor, Seed Flare at Level 70
+- Darmanitan can learn Trick Room, Teleport from TM (for Zen Mode)
+- Maractus learns Sappy Seed at Level 52
+- Swanna Speed 98->108
+- Deerling, Sawsbuck can learn Bullet Seed from TM
+- Jellicent SpA 60->75
+- Alomomola can learn Flip Turn from TM
+- Klinklang Attack 90->100 (back to Vanilla), learns Volt Tackle at Level 64, can learn Superpower from TM
+- Beartic learns Ice Hammer at Level 65
+- Cryogonal learns Freezy Frost at Level 63
+- Accelgor SpA 95->100 (back to Vanilla), can learn Taunt from TM
+- Stunfisk can learn Volt Switch from TM
+- Golurk HP 89->100, Defense 80->90, SpDef 80->90
+- Kyurem and its forms can learn Ice Punch from TM
+- Meloetta will keep her Form changes outside of battle (can stay in Pirouette form). Learns Extrasensory at Level 46, Luster Purge and Mist Ball at Level 68, can learn Rock Slide, Bulk Up from TM, Body Slam, Aura Sphere from Move Tutor
+- Tyrantrum learns Accelerock at Level 52, Scale Shot at Level 64
+- Floette line (including Floette-Eternal) Ability 2 None->Natural Cure
+- Aegislash HP 50->60 (back to Vanilla)
+- Aromatisse learns Sparkly Swirl at Level 61
+- Avalugg learns Icicle Crash on Evolution
+- Decidueye SpA 100->95, SpDef 100->85, Speed 70->100, learns Thousand Arrows at Level 65
+- Comfey learns Sparkly Swirl at Level 58
+- Toxapex learns Recover at Level 90
+- Shiinotic Ability 2 None->Illuminate, learns Sparkling Swirl at Level 60
+- Togedemaru learns Zippy Zap at Level 47
+- Xurkitree Attack 89->74, Speed 83->98
+- Guzzlord Ability 2 None->Dark Aura, HP 223->203, Defense 53->73, SpDefense 53->73, Speed 43->23, learns Pursuit at Level 1, Parting Shot at Level 50, Sucker Punch at Level 63, Dragon Hammer at Level 73 instead of Dragon Rush
+- Chewtle/Drednaw learns Aqua Jet at Level 1 instead of Water Pulse, can learn Flip Turn from TM
+- Cursola Speed 40->55
+- Sirfetch'd - Now receives +2 in crit ratio from Leek Stick, can learn Roost, Cut from TM/HM
+- Pincurchin Electric->Electric/Water, learns Bouncy Bubble at Level 63, can learn Volt Switch from TM
+- Morpeko learns Zippy Zap at Level 65
+- Dracovish Attack 80->90, SpDef 90->80 (Back to Vanilla stats)
+- Duraludon HP 70->85
+- Zamazenta (Current unobtainable) can learn Bulk Up, Body Press from TM
+- Zarude Ability 2 None->Defiant, learns Pursuit at Level 1
+- Glastrier learns Ice Hammer at Level 68
+
+Some Event/Gen 8 compatibilities added to learnsets:
+- Jirachi learns Meteor Mash at Level 49
+- Victini learns Bolt Strike, Blue Flare, Glaciate at Level 1
+- Genesect learns Extremespeed and Shift Gear at Level 1
+- Happiny can learn Wish from Egg Moves
+- Heatran(Currently unobtainable) learns Eruption at Level 1
+- Kyurem learns Freeze Dry at Level 1
+- Zygarde learns ExtremeSpeed at Level 1, Thousand Waves at Level 1, Thousand Arrows at Level 84
+- Farfetch'd can learn Wish from Egg Move
+- Drowzee can learn Wish from Egg Move
+- Exeggcute, Exeggcute-A can learn Wish from Egg Move
+- Lickitung can learn Wish from Egg Move
+- Kangaskhan can learn Wish from Egg Move
+- Absol can learn Wish from Egg Move
+- Orbeetle learns Iron Defense at Level 55
+
+More changes were made to early learnsets/Evolution levels to make early game more feasible:
+- Pidgey evolves to Pidgeotto at Level 16 instead of 18
+- Pidove evolves to Tranquill at Level 16 instead of 21
+- Poochyena evolves to Mightyena at Level 16 instead of 18
+- Zigzagoon evolves to Linoone at Level 16
+- Zigzagoon-G evolves to Linoone-G at Level 16
+- Yungoos evolves to Gumshoos at Level 16 instead of 20
+- Ledyba evolves to Ledian at Level 16 instead of 18
+- Oddish evolves to Gloom at Level 16 instead of 21
+- Nincada evolves to Ninjask at Level 16 instead of 20
+- Hoppip evolves to Skiploom at Level 16 instead of 18
+
+
+- Bulbasaur learns Magical Leaf at Level 9 instead of Vine Whip, Sludge at Level 15 instead of Take Down, Take Down at Level 23 instead of Sludge
+- Charmander learns Brick Break at Level 9 instead of Metal Claw, Ancient Power at Level 12
+- Charmeleon learns Incinerate on Evolution instead of Level 24, ThunderPunch at Level 24 instead of Incinerate
+- Squirtle learns Bubble at Level 7 instead of Water Gun, Rapid Spin at Level 10 instead of Withdraw, Water Pulse at 13 instead of Bubble, Fake Out at Level 19
+- Wartortle learns Icy Wind on Evolution
+- Blastoise learns Ice Beam at Level 44
+- Beedrill learns Cross Poison at Level 14 instead of Rage
+- Rattata, Rattata-A learns Bite at Level 1 instead of Tackle, learns Hyper Fang at Level 10 instead of Bite
+- Spearow learns Aerial Ace at Level 11 instead of 15, Fury Attack at Level 15 instead of 11
+- Pikachu learns Fake Out at Level 1, ExtremeSpeed at Level 36 instead of Slam
+- Hypno learns Psyshock on Evolution
+- Sandshrew learns Rock Throw at Level 5
+- Tentacool learns Rapid Spin at Level 1 instead of Poison Sting, Water Gun at Level 1 instead of 7
+- Staryu learns Aurora Beam at Level 16 instead of Swift
+- Diglett, Diglett-A learns Rock Throw at Level 7 instead of Astonish
+- Mankey learns Rock Tomb at Level 5 instead of Fury Swipes
+- Sentret learns Headbutt at Level 13 instead of Fury Swipes
+- Skiploom learns Mega Drain at evolution instead of Level 28
+- Lanturn learns Icy Wind at Level 1, Scald at Level 33 instead of Flail
+- Phanpy learns Rapid Spin at Level 1 instead of Tackle, Ice Shard at Level 8
+- Lotad, Lombre learn Aurora Beam at Level 12 instead of Natural Gift
+- Nosepass learns Rock Throw at Level 1 instead of Tackle, Bulldoze at Level 10 instead of Rock Throw
+- Seviper learns Mega Drain at Level 24 instead of Venom Drench, Venom Drench at Level 1 instead of Level 24
+- Kricketune learns Rock Tomb at Level 12, Mega Drain at Level 14 instead of Absorb, Double Hit at Level 26 instead of Slash
+- Budew learns Acid at Level 1
+- Buneary learns Fake Out at Level 1 instead of Splash
+- Yungoos learns Body Slam at Level 13 instead of Odor Sleuth
+- Pidove learns Wing Attack at Level 12 instead of 15
+- Pansage learns Magical Leaf at Level 10 instead of Vine Whip
+- Simisage learns Mega Drain on Evolution
+- Simisear learns Mythical Fire on Evolution
+- Panpour learns Water Pulse at Level 10 instead of Water Gun
+- Simipour learns Scald on Evolution
+- Joltik learns Mega Drain at Level 1 instead of Absorb
+- Scraggy learns Low Sweep at Level 1
+- Yamask learns Hex at Level 16 instead of 17
+- Yamask-G learns Magnitude at Level 1
+- Sandygast learns Sand Tomb at Level 7 instead of 14, learns Mud Shot at Level 14, Hex at Level 21
+- Noibat learns Bite at Level 1 instead of Tackle, Dragon Breath at Level 13 instead of Bite
+- Skowvet learns Bullet Seed at Level 13 instead of 35
+- Chewtle learns Bite at Level 1 instead of Tackle, Rock Throw at Level 7 instead of Bite
+
+Other small changes:
+- Starly line has a common chance of holding Charti Berry
+- Caterpie, Weedle have a rare chance of holding Coba Berry
+
+Bug Fixes:
+- Fixed Speed Ties not working correctly
+- Fixed EXP overflowing when leveling to Level Cap
+- Fixed Dexnav encounters potentially allowing you to skip mandatory events
+- Fixed Soul Robbery being Physical instead of Special, BP 105->90
+- Fixed Pokemon like Pyroar with gender palette differences having palettes bugged in the Evolution Scene
+- Fixed status moves not being 100% accurate with Lethal Precision if having a type advantage (important for Hypnosis Seviper)
+- Fixed being able to Knock Off some of the new Mega Stones
+- Fixed Poltergeist using 2 PP instead of 1
+- Fixed Flash having 50 BP instead of 60 as the last Changelog incorrectly specified
+- Fixed some of the Gen 8 DLC Pokemon/Megas having incorrect height/weight
+- Fixed Sheer Force not proccing Weakness Policy
+- Fixed BrightPowder and Metal Coat not giving type boosts
+- Fixed Castform causing a freeze when it switches in holding Smooth Rock
+- Fixed Thunderous Kick, Freezing Glare, and Fiery Wrath being unboosted by Sheer Force
+- Fixed Moltres-G being unable to learn Nasty Plot from Move Tutor
+- Fixed Tapu Fini, Tapu Lele being unable to learn Draining Kiss from TM
+- Fixed Latios, Latias being unable to learn Luster Purge, Mist Ball respectively
+- Fixed Darmanitan being able to learn Ice Fang, Ice Punch, Ice Beam, Blizzard
+- Fixed Porygon2 being able to learn Misty Explosion at Level 1
+- Fixed Mareep, Flaafy still being able to learn Parabolic Charge
+- Fixed Grimmsnarl line, Cursola, Dracovish being unable to learn Leech Life from TM
+- Fixed Kingler being unable to learn Flip Turn TM when Krabby can
+- Fixed Breloom being unable to learn Grassy Glide when Shroomish can
+- Fixed Boltund/Yamper being unable to learn Flame Charge
+- Fixed Acrobatics receiving a Technician boost when not having an item
+- Fixed a lot of the new DLC moves having incorrect power as a Max move
+- Fixed placeholder moves being called by Metronome
+- Fixed a number of Pokemon yielding incorrect EVs
+- Fixed Archer walking through a rock exiting Mt Moon
+- Fixed some TMs being able to be held by Pokemon
+
+HARDCORE/RESTRCITED MODE DOCUMENTATION
+
+The following moves are unable to be learned:
+.hword MOVE_SHELLSMASH
+.hword MOVE_QUIVERDANCE
+.hword MOVE_DRAGONDANCE
+.hword MOVE_CALMMIND
+.hword MOVE_BULKUP
+.hword MOVE_CURSE
+.hword MOVE_RAINDANCE
+.hword MOVE_SANDSTORM
+.hword MOVE_HAIL
+.hword MOVE_SUNNYDAY
+.hword MOVE_TAILWIND
+.hword MOVE_ELECTRICTERRAIN
+.hword MOVE_MISTYTERRAIN
+.hword MOVE_GRASSYTERRAIN
+.hword MOVE_PSYCHICTERRAIN
+.hword MOVE_TOXICSPIKES
+.hword MOVE_STICKYWEB
+.hword MOVE_SHIFTGEAR
+.hword MOVE_TAILGLOW
+.hword MOVE_COIL
+.hword MOVE_BELLYDRUM
+.hword MOVE_COTTONGUARD
+.hword MOVE_NORETREAT
+.hword MOVE_AMNESIA
+.hword MOVE_ACIDARMOR
+.hword MOVE_IRONDEFENSE
+.hword MOVE_COSMICPOWER
+.hword MOVE_STOCKPILE
+.hword MOVE_SWALLOW
+.hword MOVE_SPITUP
+.hword MOVE_GEOMANCY
+.hword MOVE_CLANGOROUSSOUL
+.hword MOVE_FELLSTINGER
+.hword MOVE_TRICKROOM
+.hword MOVE_STRENGTHSAP
+.hword MOVE_SKULLBASH
+.hword MOVE_METEORBEAM
+.hword MOVE_TAUNT
+.hword MOVE_PSYCHUP
+.hword MOVE_SNATCH
+.hword MOVE_MAGICCOAT
+.hword MOVE_PROTECT
+.hword MOVE_WIDEGUARD
+.hword MOVE_STEALTHROCK
+.hword MOVE_SPIKES
+.hword MOVE_PERISHSONG
+.hword MOVE_SUBSTITUTE
+.hword MOVE_NASTYPLOT
+.hword MOVE_SWORDSDANCE
+.hword MOVE_AGILITY
+.hword MOVE_AUTOTOMIZE
+.hword MOVE_ROCKPOLISH
+.hword MOVE_CHARM
+.hword MOVE_SCALESHOT
+.hword MOVE_POWERUPPUNCH
+.hword MOVE_CHARGEBEAM
+.hword MOVE_FLAMECHARGE
+.hword MOVE_GROWTH
+.hword MOVE_WORKUP
+.hword MOVE_HONECLAWS
+.hword MOVE_MEDITATE
+.hword MOVE_HOWL
+.hword MOVE_FIERYDANCE
+
+The following moves are restricted to less viable Pokemon:
+.hword MOVE_LEECHSEED
+.hword MOVE_DEFOG
+.hword MOVE_TOXIC
+
+The following abilities are banned for the player and are changed as follows:
+Drought -> Solar Power
+Sand Stream, Sand Spit -> Sand Force
+Snow Warning -> Slush Rush
+Drizzle -> Swift Swim
+Speed Boost -> Infiltrator
+Contrary, Defiant, Competitive -> Clear Body
+Terrain abilities -> Telepathy
+Moxie, Grim Neigh, Soul Heart, Beast Boost -> Unnerve
+Imposter-> Limber
+Magic Bounce->Magic Guard
+Storm Drain-> Water Absorb
+Lightningrod, Motor Drive -> Volt Absorb
+Blazing Soul->Flash Fire
+Triage->Natural Cure
+Trace->Synchronize
+Stamina->Inner Focus
+
+Weather/Terrain abilities used by AI last permanently. (Hardcore only)
+Defog does not remove terrain in this mode. (Hardcore only)
+Electric Seed is unobtainable from Wild Pokemon before beating Lt Surge (Hardcore only)
+Psychic Seed is unobtainable from Wild Pokemon before beating Koga. (Hardcore only)
+Weakness Policy, Throat Spray, and Weather Rocks cannot be obtained from Wild Pokemon.
+Rapid Spin does not boost Speed in this game mode.
+Omni boosting moves (Ancientpower, Silver Wind, Ominous Wind) have no chance of activating for the player.
+Shedinja cannot be obtained in this mode.
+
+
+
+Changelog from 2.2a to 2.2b:
+Additions/Changes:
+- Friendly Coach in Lavender Town now has an EV training option as well for $2000(battle against 6 Level 1 Pokemon that offer 3 EVs in its respective stat)
+- Moved Old Rod to Viridian City and Good Rod to Vermillion City, again tweaked wild Pokemon in early routes for slightly more diversity (mainly old rod fishing)
+- Elite Four members now play the R/S/E Elite Four battle theme rather than the Kanto Gym Leader theme
+- Any Pokemon that can learn Smart Strike can learn HM Cut (now a 75 BP Steel Move), TM106 Smart Strike replaced by TM106 Acrobatics
+- Modified some offensive dialogue
+
+Ability Changes:
+- Water Compaction: reduces Water type damage by 50% on top of its current functionality
+
+- Flower Gift:  boosts Speed by 1.5x in Sun instead of Special Defense, no longer boosts partner in Double Battles (1.5x Attack and 1.5x Speed in Sun)
+
+New Move:
+- Forbidden Spell (Chimecho Signature Move, learns at Level 50)
+ - Can call one of 8 random moves: Shell Smash, Healing Wish, Dark Hole, Tail Glow, Roar of Time, Quiver Dance, No Retreat, Soul Robbery (Special Psychic Type Spectral Thief)
+
+Move Changes:
+- Poison Fang BP 50->75
+- Needle Arm BP 50->95
+
+Pokemon Changes:
+note: any move bolded indicates a new compatibility
+- Audino HP EVs Yield 2->3
+
+- Budew starts with 140 friendship instead of 50
+
+- Mega Duraludon Defense 135->140, SpDef 75->90, Bad Company now prevents recoil on top of its current functionality (combos with Steel Beam)
+
+- Duraludon learns Steel Beam at Level 75
+
+- Mega Absol Attack 140->150
+
+- Fearow Attack 90->100, Speed 100->115, learns Double Hit on Evolution, Brave Bird at Level 48, can learn Brave Bird from ™
+
+- Ekans/Arbok learn Poison Tail at Level 15, Sucker Punch at Level 20 instead of Acid, Poison Jab on Evolution, Poison Fang at Level 28/32, Coil at Level 33/39 instead of Mud Bomb
+
+- Arbok Type Poison->Poison/Dark, Hidden Ability Corrosion->Strong Jaw, learns Jaw Lock at Level 44
+
+- Paras/Parasect learns Leafage at Level 11 instead of Absorb, Bug Bite at Level 14, Leech Life at Level 27 instead of Slash, Swords Dance at Level 33/37 instead of Growth, Leaf Blade at Level 38/44 instead of Giga Drain, Crabhammer at Level 40/47 instead of X-Scissor. Parasect learns Leech Seed on Evolution and at Level 1.
+
+- Parasect Attack 105->110, Defense 80->100
+
+- Victreebel,learns Power Whip on Evolution, Poison Jab at Level 47, can learn Gunk Shot from Move Tutor
+
+- Golduck SpA 95->100, Speed 85->100, learns Scald on Evolution
+
+- Tentacruel Defense 65->80, can learn Nasty Plot from Move Tutor, learns Scald on Evolution and at Level 1
+
+- Hitmonchan learns Mach Punch on Evolution, Brick Break at Level 26 instead of Vacuum Wave, Sucker Punch at Level 50 instead of Detect
+
+- Hitmonlee learns Sucker Punch at Level 29 instead of Brick Break
+
+- Aipom learns Quick Attack at Level 1 instead of Scratch, Fake Out at Level 12, Slam at Level 22 instead of Swift, Acrobatics at Level 27
+
+- Qwilfish HP 80->65, Ability 1 Poison Point->Prankster, removed Haze from Egg Moves
+
+- Hitmontop learns Sucker Punch at Level 28 instead of Counter
+
+- Mightyena learns Sucker Punch on Evolution instead of Snarl, Poison Fang at Level 20 instead of Swagger, Crunch at Level 32 instead of Emargo, Embargo at Level 40 instead of Crunch, Jaw Lock at Level 48 instead of Take Down
+
+- Plusle Ability 2 None->Lightningrod, HA Lightningrod->Transistor, Speed 95->110, can learn Weather Ball from Move Tutor, Surf from TM, can learn Knock Off from Move Tutor
+
+- Minun Ability 2 None->Lightningrod, HA Lightningrod->Galvanize, Attack 40->85, Defense 50->75, SpA 75->50, SpDef->40, Speed 95->110, learns Double Edge at Level 43 instead of Thunder, learns Extreme Speed at Level 50, can learn Surf from TM, can learn Knock Off from Move Tutor
+
+- Cacnea, Cacturne HA Water Absorb->Sand Rush, Attack 115->120, SpA 115->120 (still gets Water Absorb as Ability 2), learns Mega Drain at Level 16 instead of Needle Arm, Sucker Punch at Level 32/34 instead of 34/35, Needle Arm at Level 42/44 instead of Energy Ball, can learn Knock Off from Move Tutor
+
+- Volbeat Bug->Bug/Electric, HP 65->85, Speed 85->100, learns Thunder Wave at Level 1 instead of Tackle, Helping Hand at Level 22 instead of Tail Glow, Tail Glow at Level 36 instead of Helping Hand (slight nerf), Thunderbolt at Level 33 instead of Zen Headbutt, Encore at Level 43 instead of Play Rough. Compatible with TM Volt Switch
+
+- Illumise HP 65->85, Speed 85->100, learns Covet at Level 1 instead of Tackle, Bug Bite at Level 15 instead of Struggle Bug, Lunge at Level 33 instead of Zen Headbutt, Zen Headbutt at Level 40 instead of Lunge
+
+- Chimecho learns Forbidden Spell at Level 50
+
+- Wormadam Speed 36->50, learns Silver Wind at Level 23 instead of Confusion, Mega Drain at Level 26 instead of Razor Leaf, Giga Drain at Level 32 instead of Psybeam, Signal Beam at Level 38 instead of Flail
+
+- Wormadam Sandy Attack 79->59, SpA 59->79, Speed 36->50 learns Silver Wind at Level 23 instead of Confusion, Mud Shot at Level 26 instead of Rock Blast, Earth Power at Level 32 instead of Psybeam, Signal Beam at Level 38 instead of Flail, learns Power Gem at Level 47
+
+- Wormadam-Trash Attack 69->59, SpA 59->79, Speed 36->50 learns Silver Wind at Level 23 instead of Confusion, Flash Cannon at Level 32 instead of Psybeam, Signal Beam at Level 38 instead of Flail
+- Mothim learns Silver Wind at Level 23 instead of Confusion, Air Cutter at Level 26 instead of Gust, Signal Beam at Level 38 instead of Silver Wind, Bug Buzz at Level 47 instead of Lunge, Hurricane at Level 50 instead of Bug Buzz
+
+- Purugly Speed 85->112, learns Slack Off on Evolution and at Level 1, can learn Bulk Up from ™
+
+- Croagunk, Toxicroak learns Sludge at Level 8 instead of Poison Sting, learns Close Combat at Level 50/62 instead of Flatter, can learn Close Combat from Move Tutor
+
+- Cherrim signature Ability received buff, Attack 87->100, can learn X-Scissor from ™
+
+- Lumineon learns Scald on Evolution, Tailwind at Level 45, Tail Glow at Level 59, Hurricane at Level 64, can learn Hurricane, Hydro Pump from Move Tutor
+ - Worth noting it does not have access to Swift Swim in this game
+
+- Mismagius Ghost->Ghost/Fairy, learns Moonblast at Level 70
+
+- Spiritomb Hidden Ability Infiltrator->Intimidate, learns Parting Shot at Level 65
+
+- Watchog Hidden Ability Analytic->No Guard, Attack 85->100, Speed 50->77 learns Hypnosis on Evolution instead of Confuse Ray, Seed Bomb at Level 25 instead of After You, Body Slam at Level 29 instead of Focus Energy, Knock Off at Level 34, Mega Kick at Level 36 instead of Hyper Fang, Dynamic Punch at Level 50 instead of Slam
+
+- Pidove, Tranquill learn Slash at Level 22/23 instead of Detect
+
+- Unfezant Speed 93->108, learns Drill Peck on Evolution instead of Level 44, Night Slash at Level 38 instead of Razor Wind
+
+- Flabebe, Floette, Florges can learn Draining Kiss from TM
+
+- Malamar learns Psycho Boost at Level 60
+
+- Yamask, Cofagrigus, Yamask-G, Runerigus Hidden Ability None->Shadow Shield
+- Thievul learns Dark Pulse at Level 40 instead of Tail Slap, Mystical Fire at Level 42, can learn Mystical Fire from Move Tutor
+
+More slight learnset tweaks (mostly done to improve early-midgame viability, these are in a separate list as they don't specify new compatibilities like the above list does, and if they are new compatibilities they aren't super significant):
+- Raticate learns Swords Dance on Evolution instead of Scary Face, Zen Headbutt at Level 19 instead of Assurance
+
+- Raticate-A learns Swords Dance on Evolution instead of Scary Face, learns Knock Off at Level 1, Zen Headbutt at Level 19 instead of Assurance
+
+- Meowth learns Headbutt at Level 22 instead of Feint Attack
+
+- Ponyta-G/Rapidash-G learns Covet at Level 15 instead of Fairy Wind, Play Rough instead of Dazzling Gleam at Level 45/49, Flare Blitz at Level 50 instead of Flamethrower
+
+- Arcanine learns ExtremeSpeed on Evolution instead of Level 34, learns Flare Blitz, Retaliate, Helping Hand at Level 1
+
+- Goldeen, Seaking learn Aqua Jet at Level 15 instead of Water Pulse at 16
+
+- Grimer learns Poison Fang at Level 32 instead of Sludge Wave
+
+- Bellsprout, Weepinbell learn Sludge at Level 23/24 instead of Acid, Mega Drain at Level 27 instead of Knock Off, Knock Off at Level 29/32 instead of Sweet Scent
+
+- Oddish, Gloom learn Sludge at Level 23/24 instead of Lucky Chant
+
+- Vileplume learns Sludge Bomb on Evolution
+
+- Dodrio learns Drill Peck on Evolution instead of Tri Attack, Double Edge at Level 47 instead of Drill Peck, Brave Bird at Level 60
+
+- Venonat learns Struggle Bug at Level 1 instead of Tackle, Venomoth learns Bug Buzz on Evolution instead of Gust
+
+- Tentacool learns Water Gun at Level 7, Acid Spray at Level 19 instead of Wrap, Sludge at Level 22 instead of Acid Spray
+
+- Clefairy learns Thunder Wave at Level 19 instead of Bestow, Wish at Level 22 instead of Wake-Up-Slap, Softboiled at Level 43 instead of Moonlight
+
+- Jumpluff learns Double-Edge on Evolution, Leaf Blade at Level 59 instead of Giga Drain
+
+- Chinchou learns Shock Wave at Level 12 instead of Water Gun
+
+- Teddiursa learns Slash at Level 22 instead of Sweet Scent, learns Crunch at Level 29 instead of Slash
+
+- Ursaring learns Sucker Punch at Level 34 instead of Level 1, Close Combat at Level 62 instead of Hammer Arm
+
+- Azumarill learns Aqua Jet on Evolution
+
+- Smoochum/Jynx learns Icy Wind at Level 11 instead of Powder Snow, Psybeam at Level 21 instead of Heart Stamp, Jynx learns Ice Beam at Level 44 instead of Body Slam
+
+- Tyrogue learns Fake Out as an Egg Move
+
+- Murkrow learns Night Slash at Level 33 instead of Feint Attack
+
+- Politoed learns Scald on Evolution
+
+- Beautifly learns Stun Spore at Level 13 instead of 15, Air Cutter at Level 15 instead of 20
+
+- Dustox learns Struggle Bug at Level 12 instead of Confusion, Toxic instead of Poison Powder at Level 15, Sludge Bomb at Level 32 instead of Toxic
+
+- Swellow learns Facade on Evolution
+
+- Vigoroth learns Sucker Punch on Evolution and at Level 1
+
+- Slaking learns Body Slam on Evolution instead of Swagger
+
+- Medicham learns Zen Headbutt on Evolution
+
+- Skitty learns Round at Level 16 instead of Double Slap
+
+- Roselia learns Sludge at Level 19 instead of Magical Leaf, Sleep Powder at Level 31 instead of Sweet Scent
+- Swablu learns Dragon Breath at Level 20 instead of Natural Gift, Dual Wingbeat at Level 26 instead of Refresh
+
+- Altaria learns Dragon Pulse on Evolution instead of Dragon Breath, Dragon Claw at Level 40 instead of Dragon Pulse, Outrage at Level 63
+
+- Baltoy learns Mud Shot at Level 7 instead of Mud Slap
+
+- Bidoof learns Quick Attack at Level 1 instead of Tackle
+
+- Bibarel learns Aqua Jet on evolution instead of Water Gun, Skull Bash at Level 33 instead of Take Down
+
+- Glameow learns Headbutt instead of Fury Swipes at Level 20
+
+- Stunky learns Poison Tail at Level 9 instead of Fury Swipes, Poison Jab at Level 33 instead of Memento
+
+- Floatzel learns Icy Wind at Level 1
+
+- Finneon learns Water Pulse at Level 17 instead of Gust, Air Cutter at Level 22 instead of Water Pulse, Ominous Wind at Level 26 instead of Captivate, Silver Wind at Level 29 instead of Safeguard
+
+- Pachirisu learns Reflect, Light Screen at Level 17 instead of Endure
+
+- Yanmega learns Air Slash on Evolution, learns Bug Buzz at 54 instead of 57
+
+- Honchkrow learns Sucker Punch on Evolution, Drill Peck at Level 55 instead of Night Slash
+
+- Patrat learns Headbutt at Level 14
+
+- Swoobat learns Heat Wave at Level 55
+
+- Liepard learns Sucker Punch on Evolution instead of Level 55
+
+- Ducklett/Swanna learn Hydro Pump at Level 41/44 instead of Brave Bird
+
+- Gothorita learns Shadow Ball at Level 34 instead of Heal Block
+
+- Karrablast learns Bug Bite at Level 16 instead of Fury Attack
+
+- Joltik learns Struggle Bug at Level 18 instead of Bug Bite, Mega Drain at Level 23 instead of Gastro Acid, Silver Wind at Level 26 instead of Slash
+
+- Galvantula learns Discharge at Level 50 instead of 54, Bug Buzz at 54 instead of 60
+- Sandile learns Bulldoze instead of Mud Slap at Level 19
+
+- Audino learns Wish at Level 53 instead of Hyper Voice
+
+- Vivillon learns Air Slash at Level 21 instead of Supersonic, Signal Beam at Level 27
+
+- Pumpkaboo learns Absorb at Level 1
+
+- Updated Phantump & Trevenant to Gen 8 Learnsets (Gen 7 learnset was pretty awful, didn't get a physical grass move until level 40s), learns Shadow Claw at Level 20 instead of Hex. Trevenant learns Poltergeist on Evolution instead of Shadow Claw.
+
+- Morelull learns Fairy Wind at Level 4 instead of Astonish
+
+- Eldegoss learns Mega Drain at Level 23 instead of Leaf Tornado
+
+- Centiskorch learns X-Scissor on Evolution
+
+- Hattrem learns Thunder Wave on Evolution instead of Brutal Swing
+
+- Hatterene learns Psyshock on Evolution instead of Psycho Cut
+
+Some more egg/moveset removals (They still learn these moves elsewhere):
+- Removed Last Resort from Silicobra Egg Moves, Sandaconda learns Last Resort at Level 69
+- Removed Icicle Crash from Sandshrew-A Egg Moves
+- Removed Skull Bash from Bidoof Egg Moves
+- Removed Iron Tail from Patrat Egg Moves
+- Removed Flare Blitz from Litleo Egg Moves
+- Removed Close Combat, Double Edge from Snubbull Egg Moves
+- Removed High Jump Kick from Tyrogue Egg Moves
+
+Learnset Nerfs:
+- Butterfree learns Quiver Dance at Level 58 instead of 47
+- Poliwrath learns Surging Strikes at Level 66 instead of Level 43
+- Typhlosion learns Eruption at Level 100 instead of Level 82
+- Ampharos no longer learns Parabolic Charge, learns Dragon Pulse at Level 44 instead of 65
+
+Wild Held Item Changes:
+- Jynx, Milotic, Gorebyss can hold Heart Scales (common slot, to help Randomizer)
+- Magnemite line can hold Magnet instead of Metal Coat (rare slot)
+- Snubbull line can hold Pixie Plate (rare slot)
+- Machop line can hold Black Belt (rare slot, common slot for machamp)
+- Noibat line can hold Dragon Fang (rare slot)
+- Kricketot, Wurmple line can hold Silver Powder (rare slot)
+
+Bug Fixes:
+- Fixed Boss trainer Pokemon having their Abilities randomized in the Ability Randomizer
+- Fixed some incorrect moves showing up in move randomizer
+- Fixed Rollout/Ice Ball doing minimal damage on the final hit
+- Fixed Dig/Teleport not showing up in Field Move menu when the Pokemon has the move
+- Fixed Glastrier not showing up in Seafoam Islands Raid
+- Fixed Dynamaxed Flash/Cut having incorrect BP
+- Changed the cancel button when clicking on a Pokemon entered in a Tag Battle to Move Items as Cancel does not work properly
+- Fixed Pickup
+- Fixed Victory Road B2 puzzle not working as intended
+- Fixed text stating to order your team for a tag battle when the game prompts you to order for tag battle anyway
+- Fixed Silicobra backsprite gap
+- Fixed Brionne potentially changing Genders upon evolution
+- Fixed text cutting off by the seer in Route 16
+- Fixed Hidden Power modifier giving HP Ghost when asking for HP Steel
+- Fixed Obstruct accidentally being nerfed and not reducing Defense by 2 stages when hit by a contact move
+- Fixed Skull Bash having outdated text
+- Fixed Flash still being a Status move
+- Fixed Thunderous Kick targeting both enemies in doubles
+- Fixed Aura Wheel not working in Randomizer
+- Fixed Toxtricity Low Key being incompatible with TM Venoshock
+- Fixed Dark Hole having 1 Dmax BP
+- Fixed Calyrex forms, Spectrier, Glastrier giving 1 Exp
+- Fixed Wild Double battles occuring even when you only have 1 Pokemon
+- Fixed Slowking-G being incompatible with TM Scald, Teleport, and Fire Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changelog from 2.2 to 2.2a:
+- Fixed the prompt for randomizer ability/moves being reversed.
+- Fix Articuno being inaccessible, G-Moltres spawns being incorrect, and an incomplete area appearing
+- Fixedf Smart Strike ™ freezing the game
+- Fixed Pickup not working.
+- Fixed Pokemon that should have said item not having said item when caught.
+- Fixed Wonder Eggs not being random.
+- Fixed Roamer Legendaries not moving after battling them.
+- Fixed Agatha not scaling on rematch.
+- Fixed a minor tile error in Seafoam Islands.
+- Fixed Centiskite, Alcremite not being sorted with Mega Stones
+- Fixed Mom saying outdated text after becoming Champion
+- Consumable items DO NOT COME BACK ANYMORE after Wild Battles now (Focus Sash still does, however)
+
+Changelog from 2.1 to 2.2:
+Pastebin version: https://pastebin.com/bUCdwnZM
+New Pokemon:
+
+Slowking-Galar(Evolve from Slowpoke-G with King's Rock; Eerie Spell and New ability not in yet), Galarian Birds, Regieleki/drago, Spectrier, Glastrier, Calyrex (and its two forms, which are currently unobtainable)
+- Credits to SageDeoxys for the OW sprites for Galarian Birds, Leparagon and others contributing to the DS-style Gen VII and Beyond Pokémon Sprite Repository in 64x64)
+
+- Kubfu and Urshifu forms, Zarude now also obtainable!
+
+New Megas:
+Mega Copperajah (mega stone in Vermilion with Surf)
+Steel/Fighting
+Sheer Force
+122/155/94/100/94/20
+
+Mega Centiskorch (fight an Ace Trainer in Route 8 after you get Mega Ring)
+Fire/Bug
+Mountaineer (Immune to Rock moves and Stealth Rock damage)
+100/150/80/90/110/85
+
+Mega Sandaconda (Fight an ace trainer in route 15)
+Ground/Flying
+Aerilate
+72/140/160/85/90/81
+
+Mega Flapple (Fight some trainers in Celadon Hotel after you get Mega Ring)
+Grass/Dragon
+Dragon's Maw
+70/145/90/135/70/105
+
+Mega Appletun (Same Mega Stone as Flapple)
+Grass/Dragon
+Contrary
+110/105/100/135/100/40
+
+Mega Alcremie (Get ingredients for a girl's cake in Saffron)
+Fairy
+Self Sufficient (Heal 1/16 at the end of every turn)
+65/70/90/140/131/84
+
+New Signature Item:
+Reaper Cloth: when held by Dusknoir, ensures all his moves hit. Great combo with Hustle! (Can be found in Pokemon Tower behind smashable rocks)
+
+Changes/Additions:
+- Added learnset and ability randomizer option at the beginning of the game. They are generated based on the day of the week, so they rotate depending on the day of the week for extra fun!
+- Species Randomizer now also re-rolls depending on the Day of the week (This is to alleviate the problem of running into the same Pokemon in randomizer mode)
+- Can now rematch E4 (They will still have the same team rather than a rematch team, this is just to allow people to test different teams after they beat the game to mitigate the fact that there's still no post game :P )
+- Can catch Galarian Birds:
+ - They show up in their respective Kantonian counterparts area a day after you battle them (If you've already done them they should be there)
+- Wonder Eggs now hatch into Pokemon with Hidden Ability AND have 31 IVs in Attack, SpA, and Speed. Also removed a lot of useless Pokemon from the Wonder Egg pool.
+- Added a Hidden Power configurer in Saffron Nerd House; he can configure the IVs of your Pokemon for a specific Hidden Power, BUT the Pokemon must have at least 30 IVs in each stat
+- Kubfu can be obtained by fighting a trainer in Cerulean Cave after the Team Rocket event
+- Slightly tweaked some boss battles
+- Slight improvements to AI
+- Configured AI to utilize Hidden Power with specific typings
+- Updated some Gen 8 icon sprites (Credits to everyone who contributed to the DS-style Gen VII and Beyond Pokémon Sprite Repository in 64x64)
+- Updated Raid Battles and Tag Battles so that you can select the three Pokemon you'd like to send in to battle. There is a bug where the cancel button shows up and doesn’t do anything on an already selected Pokemon; don’t have a fix atm.
+- New TM117 Brave Bird
+ - Compatibility is its existing compatibilities + Noctowl, Togekiss, Altaria, Archeops, Empoleon (Can be found fighting trainers in Celadon hotel after obtaining Mega Ring)
+- New TM106 Smart Strike (Route 8)
+- Mom teaches Celebrate after you become Champion (compatibilities are existing compatible Pokemon + Kanto Vulpix line, Kanto Exeggcute line, Porygon line)
+- Most bosses heal you to full before the battle to prevent exploits (most notably getting free status for Guts boost)
+- Chuck gives Expert Belt on first defeat instead of Focus Sash, and gives Focus Sash instead of Expert Belt upon completing his quest
+- Updated Trainer Tips signs
+- Updated Stat Scanner sprite
+- Removed a bunch of field moves that show up in the party menu as it was just clogging up space (i.e Strength, Rock Smash, and even Rock Climb/Dive would show up if your pokemon learned it)
+
+New QOL:
+- New Poke Rider (replaces Fame Checker, which Gary gives you in the Rival Battle above Cerulean) - key item that allows you to Fly to previous locations
+ - HM Fly does not show up as a possible field move anymore (to make it the field move menu less cluttered)
+- Can now Press R in the move menu to view Trick Room, Weather, Terrain, and Screen Timers!!!
+- Only displays Screen Timers (Veil, Reflect, Light Screen) for the player as there is not     room for both :x
+- Focus Sash is now returned after being consumed in Wild/Raid battles, Focus Sash removed from Wild Machamp
+ - Basically a nerf to farming Focus Sash, making only one available per run
+- Moves now show their full proper name in areas where there is room (In battle text, when learning a new move, etc). Still shows the shortened name in the Battle Menu, Summary Screen, and TM selection
+- Pressing R on the regular battle menu (Fight, Bag, Pokemon, Run etc) will automatically run from battle
+- Can now Nickname Pokemon from the party menu
+- IV Perfecter can now perfect a single stat for 70k
+- Name Rater in Lavender Town replaced with a coach who lets you kill 6 of his Audinos for 10000
+- Eviolite now prevents evolution for convenience (Like Everstone)
+- I hate that this is necessary, but B Button now exits the Dexnav Menu back to the regular menu (along with the Left button)
+- Bag use now allowed for normal trainer battles, but still forced off in boss battles
+- Static, Effect Spore, Flame Body now cannot proc in Wild Battles to ease grinding
+- Changed Night Time encounters to start at 5 PM
+- Allowed Teleport Field Move use within caves
+- Slightly increased amount of money given from defeating trainers
+- Slightly increased Audino EXP yield
+- Slightly increased EXP yield of Pokemon in Viridian Forest to make it easier to grind before Falkner and Brock
+- Replaced all Light-Green/Light-Blue colored Text to Green (easier to read)
+- Polished in-battle type icons and also made it more visible in Double Battles
+- Brendan now gives two Lucky Eggs after his Rival Battle in Route 11
+- Slightly modified Wild Encounters in early routes to give more options for Falkner/Brock
+- Boosted money boost from the move Happy Hour from 2x to 3x (Happy Hour is found on the Costume Pikachus)
+- Updated Blazing Soul/Gale Wings description to reflect that they don't activate unless at full health
+- Lucky Egg and Weather Rocks sell for 10,000 now
+- Chingling, Chimecho can hold Cleanse Tag for 50% chance, Shell Bell for 5% chance
+- Electrike/Manectric can hold Yellow Shards for 50% chance
+
+
+Raid Changes:
+ - Viridian Forest 5 star encounters: Calyrex, Zarude, Shaymin
+ - Power Plant 5 star encounters Heliolisk->Regieleki
+ - Pokemon Mansion new 5 Star encounters: Spectrier, Necrozma, Regidrago
+ - Seafoam Islands 5 star encounter Abomasnow->Glastrier
+ - Victory Road 6 star encounter: Shaymin->Zygarde
+ - Pokemon Mansion 6 star encounter: Necrozma-> Genesect
+ - Pokemon Mansion 6 star Azelf raid->Tapu Lele
+ - Route 2 Shinx raid -> Seviper
+ - Route 8 Tauros raid -> Staryu (was a duplicate Tauros Raid encounter)
+ - Route 8 Venonat raid -> Drampa
+ - Route 11 Krabby raid -> Cramorant
+
+Move Changes:
+
+Jungle Healing now works as intended, added back to Zarude movepool (learns at Level 1 and Level 90)
+
+Nerfs:
+- King's Shield does not lower Attack on contact anymore (previously lowered Attack by two stages)
+- Wide Guard now can fail on consecutive usage (same formula as protect)
+- Strength Sap PP 10->5, also uses twice the amount of PP (each usage costs 2 PP instead of just 1)
+
+Buffs:
+- Overheat, Draco Meteor, Psycho Boost, Fleur Cannon, Leaf Storm accuracy 90->100
+- Inferno BP 100->120 (matches Zap Cannon)
+- Mega Drain BP 40->60 (Great for Technician Roserade, Sceptile)
+- Misty Explosion - Now also halves target's SpDef
+- Beat Up - Now a 2-5 multi hit move with 25 BP
+- Covet Type Normal->Fairy
+- Flash is now a special Electric attacking move with 60 BP, 100 Acc, 50% chance to Lower Attack
+- Rock Smash BP 40->60
+- Cut is now a Steel move with 75 BP 100 Acc
+- Razor Shell Accuracy 95->100, has a high chance of critical hit instead of 50% chance to lower Defense (buff to Blademaster Samurott and Kabutops)
+- Smart Strike removed from Blademaster boosted moves (didn't make sense, only had it there so Samurott and Doublade could use a Steel boosted move)
+
+Ability Changes:
+- Blademaster boost increased from 1.1x to 1.2x
+- Solar Power no longer decreases HP at end of turn in Sun
+- Iron Fist no longer boosts Wicked Blow, but boosts Sucker Punch (Hurts Wicked Blow pangoro, but helps Sucker Punch on Pangoro)
+
+New Abilities:
+- Fatal Precision: Super Effective Moves from this Pokemon can't miss and receive a 20% damage boost (Eelektross, Seviper, Heatmor, Drampa)
+ - Note: status moves also are affected (Hypnosis, Will-o-Wisp)
+- Bone Zone (Another ability from Pokemon Clover): Bone-based moves ignore immunities and also deal double damage on not very effective (Cubone, Marowak, Marowak-A)
+- Self Sufficient: - Heal 1/16 at the end of every turn (leftovers as an ability basically, Mega Alcremie and Torterra)
+
+Pokemon Changes:
+- Mega-Sceptile Rework: Adaptability->Technician Attack 110->135, SpA 130->110
+ - Notable boosted moves: Bullet Seed, Rock Tomb, Dual Chop, Scale Shot, Mega Drain (Now 60 BP), Dragon Breath, Double Kick, Hidden Power
+- Sceptile Grass->Grass/Dragon, Attack 85->105, SpA 105->85, learns Scale Shot at Level 80
+ - A lot of people requested Sceptile to be turned into a physical attacker as it fits his design and Adaptability was honestly just a lazy buff idea I came up with to make it busted since its Brendan's signature mon; Technician has pretty excellent synergy with a lot of his moves so the main reason for this change is that it's a bit cooler imo
+
+- Dusknoir new signature held item Reaper Cloth: when held by Dusknoir, ensures all his moves hit (Combos with Hustle!), learns Hammer Arm at Level 64 instead of Future Sight
+- Eelektross HA None->Fatal Precision, can learn Fire Blast from TM, Hydro Pump from Move Tutor
+- Heatmor HA White Smoke->Fatal Precision, Attack 97->90, Speed 85->100, learns Dynamic Punch at Level 73 can learn Power Whip from Move Tutor, Stone Edge from TM
+- Seviper HA Corrosion->Fatal Precision, HP 73->83, Defense 60->83, SpDef 60->83, Speed 80->85, learns Gunk Shot at Level 53, Hypnosis at Level 65, can learn Gunk Shot, Power Whip from Move Tutor, Fire Blast from TM
+- Drampa HA Cloud Nine->Fatal Precision, HP 88->103
+- Cubone, Marowak Lightningrod->Battle Armor, HA Battle Armor->Bone Zone
+- A-Marowak Cursed Body->Lightningrod, HA Lightningrod->Bone Zone
+- Torterra HA Battle Armor->Self-Sufficient, can learn Head Smash at Level 65
+- Mega Houndoom Attack 90->110
+- Mega Kingler Attack 145->150, Speed 105->110
+- Mega Drednaw Defense Attack 150->155, 115->125
+ - Jaw Lock BP 80->90, Type: Dark->Fighting (Mega form now has two STAB moves boosted by Strong Jaw!)
+- Mega Toxtricity Speed 100->111
+- Mega Banette Ghost->Ghost/Normal, Banette learns Poltergeist at Level 64 instead of Phantom Force
+- Mega Aggron Steel/Dragon->Steel, Ability Clear Body->Filter (reverted to vanilla)
+- Flapple learns Outrage at Level 55, Scale Shot at Level 72
+- Appletun learns Leaf Storm at Level 66
+- Aegislash HP 60->50
+- Sunflora Grass->Grass/Fire, Speed 30->45, learns Flame Burst on Evolution and at Level 1. Can learn Mystical Fire from Move Tutor, Flamethrower and Fire Blast from TM
+- Corsola-G, Cursola Ability 2 None->Unburden, Cursola Speed 30->40 and can learn Mystical Fire from Move Tutor
+- Electrode can learn Hyper Voice and Focus Blast from TM
+- Persian SpA 55->60, can learn Dazzling Gleam from TM, Surf from HM
+- A-Persian SpA 50->55, can learn Dazzling Gleam from TM, Surf from HM
+- Meowstic-M SpA 50->55, can learn Mystical Fire from Move Tutor
+- Meowstic-F SpA 50->55, can learn Mystical Fire from Move Tutor
+- Haxorus learns Scale Shot at Level 74 instead of Giga Impact
+- Chandelure HA Infiltrator->Shadow Tag
+- Lickilicky Ability Thick Fat->Unaware
+- Feraligatr line Torrent-> Sheer Force, HA Sheer Force ->Strong Jaw, learns Aqua Fang at Level 69, Jaw Lock at Level 72
+- Claydol learns Shore Up on Evolution and at Level 1
+- Rapidash learns Fire Lash on Evolution and at Level 1, Jump Kick at Level 55
+- Luvdisc can learn Dazzling Gleam from TM
+- Huntail can learn Liquidation from Move Tutor
+- Throh Inner Focus->Technician (Technician Storm Throw)
+- Pikachu-Belle Electric-> Electric/Ice, can learn Icicle Spear from Move Tutor
+- Pikachu-Rock Star Electric->Electric/Steel, can learn Iron Head from Move Tutor
+- Pikachu Pop Star Electric->Electric/Fairy, can learn Dazzling Gleam from TM
+- Pikachu Libre Electric->Electric/Fighting, can learn Close Combat from Move Tutor
+- Chesnaught learns Horn Leech at Level 41 instead of Mud Shot
+- Delphox learns Future Sight at Level 74 instead of Fire Blast, Mind Blown at Level 80 instead of Future Sight
+- Sawsbuck Speed 95->105
+- Cufant, Copperajah Ability Sheer Force->Heavy Metal, HA Heavy Metal->None
+- Copperajah learns Double Iron Bash at Level 80, can learn Flamethrower/Fire Blast, Focus Blast from TM
+- Swalot Attack Defense 83->88, SpDef 83->88, learns Earth Power from Move Tutor, Blizzard from TM, Focus Blast from TM, Hydro Pump from Move Tutor
+- Scizor learns Curse at Level 65
+- Stantler Attack 95->100, SpA 85->100, Speed 90->100, learns Horn Leech at Level 33 instead of Role Play, can learn Hyper Voice from TM, Play Rough from Move Tutor
+- Drifblim learns Strength Sap at Level 58
+- Cramorant learns Surf at Level 49 instead of Thrash
+- Roserade learns Ancient Power at Level 50, Silver Wind, Draining Kiss from TM, Clear Smog from Egg Move
+- Bronzor/Bronzong learns Teleport from TM
+- Archen, Archeops can learn Brave Bird from TM
+- Togekiss can learn Brave Bird from TM
+- Altaria can learn Brave Bird from TM
+- Hariyama can learn Drain Punch from TM
+- Ampharos learns Parabolic Charge(75 BP in this game) at Level 45 instead of Cotton Guard, learns Cotton Guard at Level 1. Flaafy learns at Level 43, Mareep learns at Level 36.
+- Lanturn learns Parabolic Charge at Level 43 instead of Take Down. Chinchou learns at Level 39.
+- Magmortar can learn Meteor Beam from TM
+- Aurorus learns Diamond Storm at Level 63 instead of Hyper Beam
+- Dedenne can learn Draining Kiss from TM
+- Moltres-G can learn Roost, Scorching Sands, Defog from TM
+- Articuno-G can learn Roost, Defog from TM
+- Zapdos-G can learn Defog, Dig, Roost from TM
+- Empoleon can learn Roost, Brave Bird from TM
+- Druddigon can learn Roost from TM
+- Bellsprout line, Kabutops, Yanma line, Genesect can learn Leech Life from TM
+- Oddish learns Strength Sap at Level 54, Gloom learns Strength Sap at Level 62, Vileplume learns Strength Sap at Level 67, Bellossom learns at Level 67.
+- Diancie, Skitty, Delcatty can learn TM Draining Kiss
+- Tyranitar can learn Power Gem from Move Tutor
+- Barbaracle can learn Ice Punch from Move Tutor
+- Bulbasaur line, Lycanroc forms can learn Dig
+- Jumpluff can learn Solar Blade from TM
+- Slakoth, Vigoroth, Slaking can learn Knock Off from Move Tutor
+- Not a new buff, but previously undocumented: Tapus are compatible with Play Rough move tutor
+- Kabuto Ability Swift Swim->Weak Armor, HA Swift Swim->Weak Armor (to be consistent with Kabutops)
+- Updated Charjabug to Evolve to Vikavolt through Thunder Stone rather than Level 36 (consistent with Gen 8)
+
+The following are minor changes to help the Pokemon in the early-mid game:
+- Charmander learns Metal Claw at 10 instead of 14, Fire Fang at Level 14, Incinerate at Level 24 instead of Fire Fang
+- Bulbasaur, Ivysaur learn Mega Drain at Level 19, 20 instead of Razor Leaf
+- Wartortle learns Rapid Spin at 20 instead of 21, Protect at 22 instead of 25, Water Pulse at Level 25 instead of 29, Icy Wind at Level 29. Blastoise learns Scald on Evolution and at Level 1
+- Kricketot Ability Shed Skin->Technician, Attack 25->40, SpA 25->40, learns Tackle at Level 1, can learn Bullet Seed from TM
+- Kricketune Def 61->71, SpDef 61->71, Speed 65->80, can learn Bullet Seed, Rock Tomb, Bulldoze from TM
+- Caterpie, Weedle learn Bug Bite at Level 7
+- Primeape learns Screech at Level 40 instead of 44, Stomping Tantrum at 44 instead of 48, Outrage at 47 instead of 53, Cross Chop at Level 53
+- Silicobra learns Rock Throw at Level 12
+- Sandaconda learns Rock Throw at Level 12, Earthquake at Level 55, Double-Edge at Level 65
+- Phanpy learns Magnitude at Level 15 instead of Natural Gift, learns Head Smash at Level 48. Donphan learns Stomping Tantrum at Level 30 instead of Magnitude, Head Smash at Level 53, Bonemerang at Level 65.
+- Swinub, Piloswine, Mamoswine learns Ice Shard at Level 8 instead of Powder Snow, Bulldoze at Level 18 instead of Mud Bomb, Ice Fang at Level 24 instead of Ice Shard
+- Houndour, Houndoom learns Bite at Level 15 instead of 16, Beat Up at Level 20 instead of Odor Sleuth, Flame Burst at Level 25/26 instead of Beat Up, Snarl at Level 32/34 instead of Feint Attack
+- Slowpoke, Slowbro, Slowking learns Disable at Level 17 instead of 19, Water Pulse at Level 20 instead of 28, Psybeam at Level 28
+- Snubull, Granbull learn Covet at Level 13 instead of Lick
+- Granbull learns Brick Break on Evolution and at Level 1, Jaw Lock at Level 47
+- Azurill, Marill, Azumarill learn Covet at Level 13 instead of Bubblebeam
+- Mawile learns Covet at Level 13 instead of Sweet Scent, Metal Claw at Level 17 instead of Vice Grip
+- Jigglypuff learns Covet at Level 17 instead of Double Slap, Lovely Kiss at Level 65, Wigglytuff learns Covet at Level 1 instead of Double Slap, Lovely Kiss at Level 65, Igglybuff learns Lovely Kiss at Level 65.
+- Swirlix, Slurpuff learn Covet at Level 13 instead of Round
+- Impidimp, Morgrem, Grimmsnarl learn Covet at Level 1 instead of Confide
+- Milcery, Alcremie learn Covet at Level 1 instead of Tackle
+- Mienfoo evolves to Mienshao at Level 40 instead of 50
+- Rufflet evolves to Braviary at Level 44 instead of 54
+- Vullaby evolves to Mandibuzz at Level 45 instead of 54
+
+Removals:
+- Removed Recover from Mareanie, Toxapex Learnsets
+- Removed TM Meteor Beam compatibility with 5th Gen Weather Trio
+- Removed TM Meteor Beam compatibility from Genesect
+- Removed Omastar learning Diamond Storm at Level 57
+- Removed TM Grass Knot compatibility from Typhlosion
+
+The following were removed/changed as they were very powerful in the early game(they can still learn the moves elsewhere or later on in the learnsets):
+- Removed Play Rough and Iron Head from Mawile at Level 1
+- Removed Close Combat as Egg Move for Mankey
+- Removed Pelipper learning Hurricane, Hydro Pump at Level 1
+- Removed Seed Bomb as Egg Move for Shroomish
+- Removed Brave Bird as Egg Move for Taillow
+- Removed Play Rough, High Horsepower, Head Smash as Egg Moves for Phanpy
+- Removed Strength Sap from Oddish Egg Move
+- Removed Leaf Storm and Nasty Plot as Egg Moves from Pansage
+- Removed Flare Blitz, Heat Wave, Nasty Plot as Egg Moves from Pansear
+- Removed Hydro Pump, Aqua Tail, Nasty Plot as Egg Moves from Panpour
+- Removed Brave Bird as Egg Move from Pidgey
+- Removed Brave Bird as Egg Move from Zubat
+- Removed Close Combat, Mega Kick from Hitmonlee at Level 1
+- Removed Close Combat from Hitmonchan at Level 1
+- Removed Hydro Pump from Surskit Egg Moves
+- Removed Quiver Dance and Bug Buzz from Masquerain at Level 1
+- Seaking learns Fishious Rend at Level 60 instead of Level 1
+- Sandshrew-A Ice Scales->Snow Cloak (Sandslash-A still has Ice Scales)
+- Removed Venomoth learning Quiver Dance at Level 1
+- Bellossom learns Petal Blizzard at Level 39 instead of Quiver Dance, Petal Dance at Level 49 instead of Petal Blizzard, Quiver Dance at Level 59 instead of Petal Dance
+
+The following were removed to give more significance as a drop in the game (they can still be obtained elsewhere):
+- Removed Focus Sash as possible held item on Wild Machamp
+- Removed Light Clay as a held item on Wild Pokemon
+- Removed Rocky Helmet as held item on Shelmet
+- Removed Metronome as held item on Chatot
+- Removed Life Orb as held item on Absol
+- Removed Power Herb from Seedot line, Hawlucha
+- Removed Grassy Seed from Bounsweet (Still can find on Tsareena, which is now a Route 15 encounter)
+
+Following abilities were removed to make room for new abilities (Fatal Pecision, As One(for both forms), Dragon's Maw, Transistor, Grim Neigh) :
+- Shell Armor -> Battle Armor
+- White Smoke  -> Clear Body
+- Air Lock         -> Cloud Nine
+- Power of Alchemy -> Receiver
+- Poison Point -> Poison Touch (yes, they're different abilities mechanically but they aren't significant which is why I made the change)
+
+Bug Fixes:
+- Fixed Type boosting items (Charcoal, Miracle Seed, etc) not giving a damage boost
+- Fixed Randomizer options going back to normal encounters right after a boss fight
+- Fixed stats overflowing/not updating immediately after using EV reducers/IV reducers, causing a potential freeze if attempting to use a healing item on them.
+- Fixed Gulp Missile not proccing when dying to a move in Gulping/Gorging form (test what happens when attacker dies from recoil)
+- Fixed Castform softlocking the game when sent in against Cloud Nine/Airlock
+- Neutered Seafoam Islands puzzle to fix soft locks
+- Fixed TM01 Focus Punch and TM101 Power-Up-Punch being one time use
+- Fixed some Pokemon not being able to learn TM Meteor Beam, Dual Wingbeat, Scorching Sands, and Poltergeist that should be compatible
+- Fixed nature changer saying nature has been changed when saying no
+- Fixed Kricketune not being able to learn Pin Missile, Ariados not being able to learn Gunk Shot from Move Tutor
+- Fixed Corvisquire's back sprite and not having a Shiny Palette
+- Fixed Diglett Cave having raid gem instead of Den
+- Fixed being able to walk through Den on Route 5
+- Fixed Yamper, Dottler, Applin, Pincurchin, Blipbug, Silicobra front sprites floating
+- Fixed not being able to walk in some areas in Cerulean Cave
+- Fixed Mimikyu having an incorrect item in trade
+- Fixed certain Mega Evos having Pokedex Number of 0
+- Fixed being able to talk to raid den from behind(seems to be the trigger of some bizarre sprite problems)
+- Fixed Pay Day not getting multiplier from Amulet Coin
+- Fixed Dexnav spawns showing up in unreachable areas in Pokemon Tower
+- Fixed certain areas in Cerulean Cave being unwalkable
+- Fixed Soul Dew having outdated item description
+- Fixed Morpeko being stuck in Hangry mode
+- Fixed incorrect text of Picnicker in Rock Tunnel saying there are Machops, Maniac saying there are Zubats, text in Celadon saying there are only 50 TMs, text in Cinnabar saying Eevee only has 3 evolved forms, Viridian Gym sign still saying Giovanni
+- Fixed grammar mistake with Misty, text being cut off with Lt. Surge rematch
+- Fixed Magneton evolving when leveled up in Rock Tunnel
+- Fixed Chilan Berry proccing when using or being hit by a non-damaging Normal-type move
+- Fixed HM05 Flash having outdated description
+- Fixed Shedinja not being able to learn TM75 Swords Dance
+- Fixed Wonder Egg givers walking around while talking to you
+- Fixed Basculin being incompatible with TM Flip Turn
+- Fixed Shiftry not learning Fake Out at Level 1
+- Fixed Metagross being incompatible with TM Body Press
+- Fixed Cinnabar Scientist not recognizing Silvally
+- Fixed Blaziken being incompatible with Solar Beam
+- Fixed Ambipom being incompatible with Triple Axel (was documented before as a buff)
+- Fixed Grapploct not being fishable in Seafoam Islands
+- Fixed Pansear, Panpour, Pansage appearing at Route 12, 13, 15 instead of Simisear Simipour and Simisage during the day
+- Fixed Pikachu-Belle gift knowing Hyper Space Hole instead of Icicle Crash
+
+
+Changelog from 2.0f to 2.1 (major facelift):
+
+Graphical Updates:
+- Updated battle backgrounds (Credits to NateRiver, Omega/WesleyFG)
+- Updated Bag UI (Credits to Nisarg, JK)
+- Updated Textbox (Credits to ! hackito)
+- Platinum style HP bar (Credits to  YoY-X)
+- Updated overworld sprites for a lotta shit... Raid Jewel->Raid Den (Creds to Delta231 for the FRLG HGGSS style sprites)
+- Now have overworld sprites for: Johto Gym Leaders, Archer, Ariana, Master Ball, Mega Stone, Legendary Swords of Justice) (Credits to Pokemonrater, thebrawlunit for archer/ariana/giovanni sprites, Jo7A for Johto Gym Leader Sprites)
+- Updated Sword Shield style Type Icons (credits to VentZX, DrSeuss )
+
+Changes/Additions:
+- MAX LEVEL HAS BEEN SET BACK TO 100. If you have Pokemon over Level 100 they will be set back to 100 after a battle.
+ - I originally set the max level to 250 for fun and didn't put much thought to it. With postgame around the corner, I've
+ decided a max level would deliver a far more enjoyable experience as having every Pokemon at a constant level would help
+ with consistent Speed tiers and reduce the amount of grinding necessary to get Pokemon up to speed.
+
+- When selecting a move, you can now view the types of each Pokemon on the battlefield (CFRU feature)
+ - Because of the extensive changes to a lot of Pokemon's typings, I figured this would be a very convenient feature to have
+
+- Poltergeist has been added as TM67 (Found in Victory Road)
+ - Compatibilities is all Ghost types except Aegislash line, Dragapult line, Mimikyu, Necrozma Dawn Wings
+- Scorching Sands has been added as TM110, found in Game Corner.
+ - Compatibilities is all SwSh compatibilities + Houndour, Houndoom, Sunflora, Sudowoodo, Cyndaquil line, Magmar line, Torchic line, Nosepass line, Salandit line, Amaura line, Tyrunt line, Fennekin line,
+ Dwebble line, Darumaka line, Slugma line, Numel line, Cacnea line, Chimchar line, Cranidos line, Shieldon line, Gible line,
+ Hippopotas line, Heatran
+- TM Body Press moved from left of Celadon to Cerulean Cave
+ - Move is extremely powerful with its cheesing potential when used in combination with Iron Defense or Bulk Up; Celadon is definitely way too early to receive this move
+
+- Pokemon do not automatically show Dex entry if its their first time being caught
+- Dual Wingbeat has been added as TM100 found in Route 16 (where TM body Press used to be)
+ - Combatibilities is all SwSh compatibilities + Pokemon that can learn Wing Attack
+ - Removed Dual Wingbeat from following Pokemon's level up learnset(THEY STILL LEARN THROUGH THIS TM):
+  Hydreigon, Archen, Archeops, Ducklett, Swanna, Scyther, Scizor, Clefable, Celebi,
+  Mothim, Moltres, Zapdos, Articuno, Murkrow, Honchkrow, Mew, Ledyba, Ledian, Emolga,
+  Rowlet, Dartrix, Decidueye
+
+- Added Tailwind, Megahorn to Cinnabar Move Tutor, Foul Play to Saffron Move Tutor, Psychic Fangs to Vermilion Move Tutor
+- Sword of Justice is now an overworld encounter (finally)
+ -If you already got them in your current save file and you update to 2.1 you can get them again.
+- Catch rate universally increased after becoming champion
+- Power items give 252 EVs in their respective stat after becoming champion
+- Macho Brace multiplier increases from 4x to 16x after becoming champion
+- Pokemon Mansion 6 star raid can now spawn Necrozma, Azelf, Diancie
+- Seafoam Island 6 star raid can now spawn Kyurem, Manaphy, Tapu_Fini
+- Power Plant 6 star raid can now spawn Zeraora, Tapu Koko, Genesect
+- Added EXP Boost if your Pokemon has above 220 points of affection
+- Kubfu, Zarude added to regular randomizer pool
+- Updated text on Dexnav menu to tell you to click left lmao
+- Updated text when the first Gym is closed to hint at going to the museum
+- Added Lance, Gold as new possible Raid Partners
+- Updated Nickit front sprite, Corvisquire backsprite, Rapidash-G backsprite
+- Attack Name Change: Fishy Rend -> FishiousRend
+- Attack Name Change: First Press-> FirstImpress
+
+Pokemon Changes:
+Corvisquire evolves into Corviknight at Level 60 instead of 38
+ - One of the cheesiest Pokemon in the game thanks to its typing, bulk, and access to Body Press (among many things).
+ I'm reluctant to nerf it at the moment, so I've made it irrelevant in the midgame with this late evolution + lack of early access to Body Press
+
+Rattled has been removed from the game (to make room for Unseen Fist).
+ - Cubchoo Rattled-> Swift Swim, Yamper Rattled->Competitive, Toxel Rattled->Lightningrod, Magikarp Rattled->Hydration, Bonsly/Sudowoodo Rattled->none,
+ Dunsparce Rattled->None, Snubbull Rattled->defiant, Poochyena Rattled->Moxie, Whismur Rattled->Scrappy, Clamperl Rattled->Hydration
+
+Zarude can learn Knock Off from Move Tutor, Sucker Punch at Level 70
+All Silvally Forms 95 stats in all -> 100 stats in all
+Geodude-A line Ability Sturdy->Rock Head (abuse head smash, volt tackle)
+Mega Slowbro Defense 180->165 (With Regen buff this thing is a crazy tank, so a stat nerf must be done to compensate)
+Granbull learns Hammer Arm at Level 55
+Gligar learns Earthquake at Level 60, Gliscor learns Earthquake at Level 70
+Espeon can learn TM Teleport
+Removed Strength Sap as Egg Move from Chikorita (cannot learn it anymore, was too powerful)
+Removed Shell Smash as Egg Move for Squirtle (Blastoise learns at Level 82 still)
+Removed Fly from Haxorus (cuz it bothered some of yall)
+Rotom Defense 77->70, SpDef 77->70 (Can abuse Eviolite in this game, hence why it's nerfed)
+Froslass Attack 55->95, SpA 105->95 (With the addition of poltergeist and triple axel froslass is actually better as a physical attacker)
+Mega Coalossal Defense 120->125, SpDef 100->105
+Mega Snorlax Attack 150->160, Defense 80->85
+Mega Machamp Defense 105->100, SpDef 110->105
+Ledian learns Close Combat at Level 70
+Floatzel Attack 95->90
+Emboar can learn Close Combat from Move Tutor
+Beartic can learn Close Combat from Move Tutor
+Sirfetch'd learns Sacred Sword at Level 75
+
+Bug Fixes:
+Fixed some end game raids not spawning certain Pokemon they were supposed to (Seafoam, Power Plant, Viridian Forest, Pokemon Mansion)
+Galarian Slowpoke/Slowbro now have icons (used kanto slowpoke/slowbro as placeholders before)
+Fixed Slowpoke-G, Snom, Rolycoly, Mr-Mime G, Zigzagoon-G, Meowth-G, Hatenna, Ponyta-G, Sizzlipede, Gossifleur, Skwovet, Wooloo having poor front sprite positioning (floating, or too low etc)
+ - More Gen 8 Pokemon still need to be polished, please feel free to report them! (Falinx, Chewtle, Dottler will be fixed next patch)
+Fixed Male Morelull evolving into Female Shiinotic
+Fixed back button not cancelling Dexnav encounter
+Fixed BlackGlasses not giving Dark Type boost
+Fixed being able to Thief partner in Raid Battles
+Fixed dialogue of Team Rocket Nugget Bridge trainer on post defeat
+Fixed Indeedee having incorrect backsprites
+Fixed Mime Jr (Galar) having no Icon
+Changed Ditto spawns in Randomizer to be less frequent
+AI will not try to Leech Seed anymore if you're behind a Substitute
+Fixed breeding giving an egg when parents are incompatible
+Fixed Rillaboom giving 3 HP EVs instead of 3 Attack
+Shortened Tinted Lens description text to better fit the screen
+Fixed Gen 8 Dragons being incompatible with TM Dragon Tail
+Removed text at beginning indicating randomizer can freeze, as it appears to be stable now
+Fixed Drowzee/Hypno not learning TM Teleport
+
+Changelog 2.0e - 2.0f:
+
+Changes:
+    Cramorant now has Gulp Missile(Gulp Missile Gorging Form reduces Speed instead of Defense)
+    Added a Randomizer Hard mode, which only allows randomizer to spawn less significant Pokemon (list can be found here: https://pastebin.com/nCJtm2J7)
+    Randomizer now randomizes raid partner and raid encounter, raid partner will use janky moves and the silhoutte is not the Pokemon you will encounter ;)
+    Thiefed items now go straight to the bag (Regardless of whether your Pokemon is holding an item or not)
+    Increased Power Items EV Yield from 8 to 24
+    Macho Brace EV boost multiplier increased to 4 from 2
+    Amulet Coin boost added even if the Pokemon with Amulet Coin doesn't participate in battle
+    Dexnav spawns don't disappear after the Repel Text shows up
+    DexNav chain no longer automatically resets to 0 when you reach 100 (will keep going down to 99, so you'll continously get the shiny bonus, although I will note I havent thoroughly tested this lol)
+    DexNav chain doesn't reset if you can't find the Pokemon in time
+    DexNav Pokemon no longer run away if you're biking/running
+    Costume/Cosplay Pikachus now have the move Happy Hour (Effect Stacks with Amulet Coin)
+    Costume/Cosplay Pikachus now come with 30 IVs in all stats
+    Small modifications to Ariana's team in Cerulean Cave, Clair's team, Archer's team in Silph Co Tag battle, Erika's team, Erika's Rematch team, Agatha's E4 team, Bruno's E4 Team, Lance's E4 team, Brock's team, Blaine's team
+    Changed Electrodes in Cerulean Cave B2 to Audinos
+    Added some new NPC dialogue that informs player of some new mechanics
+    Changed Solar Power description to reflect buffed effect
+    Shadow Tag/Arena Trap on Wild Pokemon no longer prevents the player fleeing from battle
+    Polished display text of Nature Changer's multichoice text and Fossil Vendor's multichoice text
+    Starters now hold Oran Berry
+
+AI Modifications:
+    More likely to click Teleport if it can pivot
+    Made it more likely to prioritize Taunt
+    Made it deprioritize Rapid Spin if opponent is Ghost
+    Made it deprioritize Quiver Dance/Dragon Dance if opponent has Dancer as an ability
+    Added randomness when prioritizing Sucker Punch
+    More likely to Explode if you are setting up on it
+    Made it deprioritize speed boosting moves if Trick Room is active
+    More likely to click Power Up Punch (I've never seen it click it before lol)
+    Will consider +Defense threatening if you have Body Press in moveset
+
+Pokemon Changes:
+    Replaced ability Illuminate with Gulp Missile
+    Ability Gulp Missile added with changed Behavior: Gulping Form reduces Speed instead of Defense
+        Removed Illuminate from Staryu/Starmie, Chinchou/Lanturn, Morelull/Shiinotic, Volbeat, Watchog
+    Machoke, Machamp can learn Drain Punch from TM
+    Mega Machamp Def 100->105, SpDef 105->110
+    Clamperl now gets Shell Smash as Egg Move (So it's still possible to learn as Gorebyss/Huntail)
+    Lapras Water/Ice->Water/Dragon (Draco Meteor compatible), learns Boomburst at Level 65
+    Mega Lapras Ability Shell Armor->Liquid Voice, Defense 90->85, SpA 105->115
+    Masquerain Water/Flying->Water/Bug
+    Chesnaught Ability Overgrow->Bulletproof, HA Bulletproof->Iron Barbs, can learn Close Combat from Move Tutor
+    Vikavolt learns Sticky Web at Level 60
+    Psyduck, Golduck can learn Teleport from TM
+    Eiscue Attack 80->100, SpA 65->45, learns Ice Shard at Level 65
+    Coalossal can learn Flash Cannon from TM
+    Mega Coalossal Rock/Fire->Steel/Fire, Defense 140->120, SpDef 110->100, SpA 130->125, Speed 30->45
+    Mega Toxtricity Attack 113->120
+    Cramorant Ability Gulp Missile, Attack 95->85, Defense 55->65, SpA 95->100, Speed 95->105
+
+Bug Fixes:
+    Randomizer and the Wonder Egg giver shouldn't have freezes anymore, but needs more testing
+    Temporarily removed current on Seafoam B3F to prevent soft locks, and removed boulders on first floor as they now serve no purpose(until I can find a fix)
+    Temporarily removed Decorate (Alcremie) until it's working properly
+    Fixed Randomizer randomizing E4 members teams
+    Fixed being able to Dexnav Pokemon in Pokemon Tower when you don't have Silph Scope
+    Fixed Amulet Coin continuously doubling prize money each time it's sent in
+    Fixed not being able to get Medichamite
+    Fixed Skwovet not appearing on Route 2 during the day
+    Fixed incorrect fossil Pokemon being sold by Celadon Fossil Giver
+    Fixed Diglett Cave Dexnav Pokemon spawning in unreachable areas
+    Fixed Vermilion City Dexnav Pokemon being in unreachable areas
+    Fixed Mud Slap description
+    Fixed Kommo-o not learning Dragon Dance from TM
+    Fixed Pikachu Cosplay giver having chance not to give you a pikachu
+    Fixed Poke BallS inconsistent decapitalization
+    Fixed Galar Meowth icon sprite palette
+    Fixed Skwovet icon sprite palette
+    Fixed May's Flygon having G-Max icon
+    Fixed a Hiker in Rock Tunnel having old sprite
+    Fixed TM Iron Tail not having the TM overworld sprite
+    Fixed Bug Catcher in Viridian not having Caterpie when he states "Caterpie can't hack it!"
+    Fixed NPC in Indigo Plateau stating Lance's Cousin (Clair) is a gym leader far away
+    Fixed Archer dialogue referring you as he when you're a chick
+    Updated King's Rock item text to reflect that it's only an evolution stone now
+
+Changelog 2.0d - 2.0e
+Removed Arceus-Normal, Palkia-Primal as a possible encounter in randomizer mode
+Fixed Nature Changer, Pokeball Switcher only affecting first Pokemon in the party
+Fixed randomizer turning off after boss battles; however, if you nab a gift Pokemon immediately after a boss battle it will still be the default Pokemon rather than a randomized one.
+
+
+Changelog 2.0c - 2.0d:
+Additions:
+
+ADDED RANDOMIZER MODE(!!!!):
+THIS MODE IS NOT THOROUGHLY TESTED SO PLEASE REPORT ANY ISSUES.
+Currently only randomize Pokemon option (No learnsets/abilities yet); to
+retain some semblance of the difficulty of this ROM hack, boss battles
+do not have their Pokemon randomized (Rival battles, gym leaders, E4/Champion, rocket admins, giovanni, etc)
+Legendaries that can be encountered in randomizer:
+Articuno, Zapdos, Moltres, Mew,
+Raikou, Entei, Suicune, Regirock, Regice, Registeel, Rotom, Azelf, Mesprit, Uxie,  Shaymin, Phione, Victini,
+Cobalion, Terrakion, Virizion, Meloetta, Tornadus, Thundurus, Landorus, Keldeo, Volcanion,
+Type:Null, Silvally-Normal,
+Guzzlord, Nihilego, Xurkitree, Buzzwole, Meltan
+Any legendary not listed is excluded from Randomizer possibilities.
+You cannot play with randomizer mode on an existing save file.
+You cannot turn off/on randomizer after proceeding past the randomizer check.
+
+Rock Blast, Icicle Spear, Tail Slap, Pin Missile, Body Slam move tutor added to the tutor in Saffron
+TM74 Gyro Ball added to Game Corner seller
+TM85 Future Sight in Route 13
+
+New ability:
+Bull Rush - First move deals 1.5x (Has to be first move used on each switch in, like how Fake Out/First Impression work)
+Given to Granbull, Bouffalant, Emboar as Hidden Abilities
+
+Buffs:
+Solar Power now reduces damage by 33% when in Sun on top of its current functionality.
+(Removed from Charizard line, buffs to Sunflora, Tropius, Heliolisk)
+Shell Side Arm 90 BP->100 BP. New effect: (Special attack) 10% chance to inflict poison and ignores opponents abilities.
+Snipe Shot, Octazooka, Flash Cannon gets boosted by Mega Launcher
+Snipe Shot, Flash Cannon, Spike Cannon now get blocked by Bulletproof
+Slowbro-G Attack 100->75, Defense 95->105, SpA 100->115
+Dedenne SpA 81->91
+Tranquill, Unfezant, Farfetch'd Galar, Sirfetch'd learn Drill Run from move tutor
+Grapploct learns Arm Thrust at Level 75, Flip Turn from TM
+Mega Garchomp Defense 115->105, Speed 92->102
+Toucannon learns Flare Blitz from Move Tutor
+Donphan learns Rock Blast, Drill Run from Move Tutor
+Grumpig learns Slack Off at Level 66
+Tropius Grass/Flying->Grass/Dragon, learns Weather Ball from Move Tutor
+Bouffalant HA Soundproof -> Bull Rush, HP 95->100, learns Slack Off at Level 70, Drill Run from Move Tutor
+Heracross learns Drill Run from Move Tutor
+Granbull learns Flare Blitz from Move Tutor, Hidden Ability Rattled->Bull Rush
+Emboar Blaze->Reckless, HA Reckless->Bull Rush
+Octillery Ability Suction Cup->Mega Launcher, learns Icicle Spear, Pin Missile, Aura Sphere from Move Tutor
+Clawitzer learns Snipe Shot at Level 70
+Kangaskhan gets Seismic Toss as Egg Move
+Gabite can learn Stomping Tantrum from move tutor
+
+Nerfs:
+Octazooka 95 BP->80 BP(now boosted by Mega Launcher)
+Court Change currently not working, so temporarily removed from Cinderace
+Charmander, Charmeleon, Charizard HA Solar Power->Flame Body
+
+Changes:
+Tweaked scripts for Nature Changer, Game Corner seller, Pokeball Switcher, Saffron/Cinnabar move tutors, Silph Co elevator to have a scrolling list
+Tweaked Hidden Ability giver to show what ability you're switching to
+DexNav Pokemon in Caves/Water do not move around anymore
+Moved Power Gem move tutor from Cinnabar to Saffron
+Removed Bright Powder as possible drop from Wurmple
+Removed King's Rock flinch chance
+Removed brief Pokemon animation that appears when you Surf/Fly for convinience
+Removed needing a Pokemon that could learn Surf to use Surf (only need HM surf in bag)
+Teleport now shows up as possible field move if you have the TM + a Pokemon capable of learning it
+TM34 Teleport now in Route 3 instead of Route 12 for earlier convinience
+Tweaked Fossil Giver script so it's not a random once a day thing, also moved Fossil Givers
+to Celadon for earlier access
+Modified Pokemon Mansion/Viridian Forest Raids(Archeops/Carracosta->Floatzel/Magcargo, Lileep/Anorith->GourgeistXL/Golurk)
+
+Bug Fixes:
+Updated Toxel Evo so that it now works as it does in Sword and Shield
+Fixed Grassy Terrain not healing at end of turn
+Fixed Appletun backsprite being too high
+Fixed Hatenna backsprite being too high
+Fixed AI always predicting you to Mega Evolve
+Fixed Slowbro-G not having any TM/Move Tutor compatibilities
+Fixed Cinnabar Scientist giving Latiosite for having Latias
+Fixed Wicked Blow/Surging Strikes not being boosted by Iron Fist (Slight buff to Pangoro)
+Fixed Old Man Raid Partner having Pokemon with shitty IVs
+Fixed DexNav mons spawning in innaccessible areas in Route 12/13 surfing area
+Fixed Mud Shot appearing twice in Swinub Egg Moves
+Fixed typo with Oak aid that procs roaming legends
+Fixed Amulet Coin sometimes being unobtainable
+Fixed Meteor Beam item drop not having TM color
+
+
+Changelog 2.0b - 2.0c:
+Buffs:
+Ampharos learns Tail Glow at Level 75
+Cleffa gets Softboiled as Egg Move
+Added Seismic Toss to Chansey egg moves
+Donphan HA Sand Veil->Technician
+Fixed Galarian Weezing not being able to learn TM Will-O-Wisp
+Fixed Pidgey line, Nidos line, Tentacrool line, Bulbasaur line, Aerodactyl, Butterfree, Beedrill,
+Dratini line, Growlithe line, Farfetchd, Oddish line, Omanyte line,
+Ponyta line, Eevee line, Doduo line, Venonat line, Chansey line,
+Gyarados, Articuno, Zapdus, Moltres, Kabuto line,  Electabuzz line not being able to learn TM Reflect (From Let's Go Pikachu/Eevee)
+
+Gligar, Gliscor, Lunatone, Solrock can learn Fly
+
+Nerfs:
+Frosmoth HP 85->70, Speed 80->65
+Dedenne SpA 91-81
+
+Additions:
+Lucky Egg boost bumped up again from 2x to 2.5x
+Added Exp Share item that toggles EXP share, Stat Scanner item that shows your
+Pokemon's IVs/EVs. Brendan gives both after first rival battle, if you've already done it
+the fat guy NPC in Pewter can also give it to you.
+Added TM54 Grassy Glide, TM55 Expanding Force, TM58 Rising Voltage in Safari Zone.
+Grassy Glide compatibility is all mons that get it in SwSh + most Grass mons
+Expanding Force compatibility is all mons that get it in SwSh + most Psychic mons
+Rising Voltage compatibility is all mons that get it in SwSh + most Electric mons
+Removed Grassy Glide, Expanding Force, Rising Voltage from learnsets
+Added TM64 Explosion in Game Corner
+Added TM96 Bulldoze in Route 5
+Added option to EV subtracter to reset EVs
+Oricorios now hold Nectars
+
+Bug Fixes:
+Fixed Morpeko Hangry not having the Attack buff (95->110 Attack)
+Fixed Route 12 having inaccurate Wild Pokemon
+Fixed Orbeetle doesnt show up in A-Z mode, weight mode in Pokedex
+Fixed Celadon Pond guy who doesnt face you
+Removed duplicate Hidden Power TM in Safari Zone replaced with Grassy Glide
+Fixed Giovanni not disappearing after Cerulean Cave event, and being able to catch Mewtwo before beating E4
+Fixed Stunfisk-G learning an incorrect move at Level 55
+Fixed Victory Road Dexnav Pokemon appearing in inaccessible parts
+Fixed issue with Level Scaling that could lead to Level 0 Pokemon
+Fixed Rocket Grunts Muk having Minimize
+Fixed Biker on Route 15 with Conversion 2 Muk
+Fixed Youngster first floor Pokemon Mansion having same Pokemon as vanilla Fire Red
+Fixed Dragon Dance TM having incorrect description
+Fixed Leavanny showing up instead of Swadloon in Route 14 at Night
+Fixed incorrect palette for Arctozolt icon
+Added Kantonian Cubone location in Rock Tunnel at Night
+Fixed Grassy Glide, Rising Voltage Attack Description
+Fixed Lance having Champion Rival name in the Tag Battle
+Removed Torchic from Pokemon Mansion
+Fixed E4 Nurse freezing game after beating the E4
+
+Changelog 2.0a - 2.0b:
+Bug Fixes:
+Fixed Cherish Ball being sold in Celadon Mart
+Fixed Rotom evolving to Rotom Fan with Leaf Stone
+Fixed Teleport TM having incorrect description
+Fixed Route 25 not raining (Can now evolve Sliggoo)
+Fixed Jynx not learning Aura Sphere from Move Tutor]
+Day care man now moves forward when he has an egg
+Fixed new Sabrina Teleport disappearing
+Fixed a glitch causing both Thunder Wave/Substitute not being obtainable
+Fixed New Mega Stones not sorting properly in bag
+Fixed dialogue with EV subtracter
+Fixed TM icon for Trick Room
+Fixed TM Teleport having incorrect description
+Fixed X-Scissor TM in Viridian Forest
+Fixed Dazzling Gleam TM description
+Fixed TM Defog incompatibility with Gen 8 Pokemon
+Fixed Hidden Ability guy not taking bottle cap
+Fixed Drapion being incompatible w TM Leech Life
+Added placeholder sprite for alternate Sinistea/Poltergeist form
+Fixed chick not blocking E4 upon completion
+
+
+Additions:
+Added Viridian Forest Raid
+Added Torchic in Cinnabar Mansion for this dumbass motherfucker Hail lmao (i am not kidding)
+Added Pokeball Switcher in the Saffron Fan Club
+
+Buffs:
+Reverted Mega Gallade defense 75->95
+Mega Kingler Attack 135->145
+Clefable learns Moonblast at Level 51
+Cursola can learn TM Trick Room
+Venomoth can Fly
+
+
+
+Changelog 2.0 - 2.0a:
+Bug Fixes:
+- Fixed being able to pickup TM Rest infinitely
+- Fixed being able to pickup Scope Lens infinitely
+- Fixed Route 11 Raid being battled indefinitely
+- Fixed Game Corner seller in the middle being buggy
+- Fixed Flame Charge TM having incorrect description
+- Fixed Gary's Staravia having Double Team
+- Removed Acupressure from Learnsets
+- Removed Minimize from Silicobra learnset
+- Fixed IV Checker checking EVs when asked for another go and some incorrect text
+- Slight tweak to the Archer/Ariana Tag battle
+- Removed X stat seller in Celadon Mart
+- Fixed incorrect text on Cinnabar Move Tutor
+
+New Move Tutor:
+Gunk Shot, Stored Power, Flare Blitz, Power Gem have been added to the Cinnabar Move Tutor
+
+Buffs:
+Pumkaboo Mega Drain at Level 16 instead of Razor Leaf, Magical Leaf at Level 26 instead of Bullet Seed,
+Hex at Level 36 instead of Shadow Ball
+Gourgeist learns, Giga Drain at Level 48 instead of Seed Bomb,
+Shadow Ball at Level 57 instead of Phantom Force
+Amaura, Aurorus learn Power Gem from Move Tutor
+Lileep, Cradily learn Power Gem from Move Tutor
+Gen 8 Buffs:
+Ponyta Psychic->Fire/Fairy, learns Flame Charge at Level 10 instead of Confusion, Flame Wheel at Level 25
+instead of Psybeam, Flamethrower at Level 50 instead of Psychic
+Rapidash Psychic/Fairy->Fire/Fairy, learns Fire Lash on Evolution & at Level 1, Flare Blitz at Level 70
+Falinks Fighting->Fighting/Bug
+
+
+
+
+
+
+
+
+
+
+Changelog 1.11 - 2.0:
+
+SAVES ARE NOT COMPATIBLE!!!!
+
+Additions from Leon's Base (Big thanks to Prof Leon!!!)
+Some new updated OWs
+Complete decapilization!!
+DPPt Font
+Many, many additional items
+
+Changes/Additions:
+Gen 8 Pokemon added (Wild locations doc has been updated to reflect that)
+Couple caveats: Ice Face does not come back in Noice mode when Hail starts
+  Gulp Missile currently does not work, Cramorant has Hydration for now
+  Sprites are very unpolished, some have placeholder cries
+ Wandering Spirit (Runerigus' sig ability) causes a softlock when transferring   Intimidate, so it is temporarily replaced with Mummy
+Raids throughout the entire region
+Added a Wonder Egg giver in Pewter, Cerulean, Vermillion
+Added Scorbunny, Sobble, Grookey as new possible hatches from Egg Vendor
+Dreepy, Toxel can be bought at Game Corner
+Added Sleep Clause (You cannot put more than 1 Pokemon to sleep at a time)
+Updated some trainer sprites
+Bag cannot be accessed in all trainer battles. Consequently, X Stat items
+are completely useless (they were basically useless in prev releases too) so their
+drops in routes have been replaced with more useful items.
+Modified trades
+Replaced Repel as possible Pickup drop with Max Repel
+Replaced Rare Candy as possible Pickup drop with Bottle Cap
+Replaced Kings Rock as possible Pickup drop with Dream Ball
+Replaced Escape Rope as possible Pickup drop with Tiny Mushroom
+Replaced Hyper Potion as possible Pickup drop with Big Mushroom
+Added more possible Raid Battle partners
+Feline Power renamed to Feline Prowess
+Added text to Wild Double Battle guy noting of possible soft locks
+Changes to Brock's text about HM Flash
+Earlier Fire Stone/Water Stone/Leaf Stone have been removed
+Nature Changer cost increased from 500 to 7500
+More boss trainers scale based on level
+Terrain Extender can be found on Dedenne/Pincurchin/IndeedeeM/F/Hypno for 5%/20% drops
+Weather Rocks can be found on Torkoal/Ninetales/A/Pelipper/Hippowdon for 5%/20% drops
+Lucky Egg now common drop on Pelipper
+
+TM/Move Tutor Changes:
+Changed TM Secret Power -> TM Defog
+Changed TM Water Pulse  -> TM Flip Turn
+Changed TM Attract      -> TM Draining Kiss
+TM69 Rock Polish in SS Anne
+Triple Axel has been removed from learnsets and has been added as a TM70
+TM70 Triple Axel in Seafoam Islands
+TM82 Sleep Talk in Game Corner
+TM93 Dragon Tail in Game Corner
+TM98 Work Up in Route 11
+TM109 Superpower in Power Plant
+TM114 Heat Crash Route 17
+TM115 Body Press Route 16
+Elemental Punch tutor in Vermillion now teaches Elemental Fangs as well
+Tutor in Cinnabar also teaches Phantom Force now
+Dark Pulse now in the Celadon Game Corner instead of Lavender Tower
+
+QOL Changes:
+Lucky Egg EXP boost bumped up to 2x from 1.5x
+Consumable items will always come back from trainer battles
+You do not need a Pokemon capable of learning Cut/Rock Smash/Strength/Flash to use the field HM.
+HM Actions are a lot quicker
+Nature changer lady now says which stats get boosted/decreased
+Shortened Repel wore off text
+Magma Armor/Steam Engine/Flame Body now reduce egg steps by 4x instead of 2x
+Keen Eye is now useless, so all Pokemon with Keen Eye now have Frisk
+Boosted Heart Scale spawn chance on Luvdisc
+Made Macho Brace/EV training items reduce speed by slightly less
+Chances of receiving Egg changed from 20/50/70% -> 90/90/90%
+SIGNIFICANTLY reduced the price of Potions (Potion->Full Restore, Revives, Paralyz Heal, etc)
+as they have much less use in this game. Price of Repels have also been reduced.
+Removed Poison damage in OW
+Added additional help text to the Flash128k/RTC warning
+Removed Fog in Lavender Tower for easier DexNaving
+Added 25th Box
+Getting to Sabrina creates a warp that goes straight to her
+More Pokemon can now learn Fly: Butterfree, Beedrill, Gyarados, Weezing, Weezing Galar, Scyther, Scizor, Mantine,Ninjask, Shedinja,
+Vespiquen, Haxorus, Emolga, Dartrix, Decidueye, Vivllon, Dragalge, Frosmoth, Appletun
+Moved Super Nerds for Ability Changer/EVs/etc to the front of Pokemon Fan Club
+E4 members now heal your Pokemon after defeating them
+
+Bug fixes:
+Now (should) work on any emulator(Including real hardware)!!
+Options menu works again! Game is forced to Set style.
+Crashes appear less frequent
+No more pink blob on Summary Screen
+Fixed Dexnav Stars sometimes not giving perfect IVs
+No more discoloration on ending credits
+Fixed Sweet Scent having a chance to proc double Wild battles
+Fixed Nugget Bridge exploit
+Fixed being able to buy from Elemental Punch tutor despite having below 2500
+Fixed Dex Nav spawns showing up on unreachable spots in some surf routes
+Fixed Weakness Berries having bad descriptions
+Fixed a couple of NPCs not facing you when you talk to them
+DexNav is inconsistent with telling you if the wild Pokemon will hold item, so that notification is temporarily removed.
+DexNav Pokemon will still have the same chances to hold items, the DexNav HUD just won't notify you at all.
+Fixed a glitch causing Amulet Coin not being obtainable.
+Fixed Game Corner guy telling you you chose shiny/HA option when you said no
+Fixed Cut trees sometimes not being able to be Cut
+Fixed OHKO moves still being possible to learn
+Fixed some NPCs having outdated text
+
+New Bugs:
+All relatively minor:
+Some lack of polish to Gen 8(Gen 8 Pokemon icons aren't super polished, some have placeholder cries, etc)
+Yellow Pokeballs show a brief black blob after disappearing
+PokeballS inconsistent decap
+Sometimes party screen may show a slightly bugged HP bar (Visual glitch only)
+Wandering Spirit causes a freeze when transfering Intimidate, temporarily replaced with Mummy
+
+Evolutionary modifs:
+Applin evolves to Flapple with Leaf Stone
+Evolves to Appletun with Sun Stone
+Farfetchd-G evolves to Sirfetch'd through High Friendship
+Galarian Slowpoke evolves to Galarian Slowbro at Level 37
+Sinistea evolves to Polteageist with Moon Stone
+Galarian Yamask evolves to Runerigus at Level 35
+Milcery evolves to Alcremie with Shiny Stone
+Toxel evolves to Toxtricity/Toxtricity-Lowkey based on personality value (cascoon/silcoon evo)
+
+New Megas:
+Mega Butterfree(Butterfreeite found in Viridian Forest with Rock Smash):
+Bug/Flying
+CompoundEyes
+60/45/100/140/100/80
+
+Mega Machamp (Machampite Power Plant)
+Fighting
+Raging Boxer
+90/145/100/65/105/75
+
+Mega Garbodor (Garbodorite Silph Co)
+Poison
+Parasitic Waste
+80/135/105/80/105/75
+
+Mega Kingler (Route 18)
+Water/Steel
+Tough Claws
+55/135/125/50/70/105
+
+Mega Snorlax (Route 23)
+Normal/Grass
+Thick Fat
+160/150/80/80/125/30
+
+Mega Lapras (Seafoam Islands)
+Water/Dragon
+Shell Armor
+130/105/90/105/105/70
+
+Mega Drednaw (Route 19)
+Water/Fighting
+Strong Jaw
+90/150/110/48/98/85
+
+Mega Coalossal (Rock Tunnel Rock Smash)
+Fire/Rock
+Mountaineer
+110/80/140/130/120/30
+
+Mega Orbeetle (Route 2 Rock Smash)
+Bug/Psychic
+Magic Guard
+60/45/115/135/120/95
+
+Mega Toxtricity (Mandatory event)
+Electric/Poison
+Punk Rock
+75/113/80/155/80/100
+
+Mega Duraludon (Mandatory event)
+Steel/Dragon
+Bad Company
+70/95/135/140/75/95
+
+New Abilities:
+Raging Boxer - Punch moves hit twice, with second hit dealing 0.5x (Mega Machamp)
+Bad Company - Prevents self lowering stat drops (Draco Meteor on Mega Duraludon)
+Parasitic Waste - Attacks that poison also heal for 50% (Mega Garbodor)
+Mountaineer - Immune to Rock attacks and Stealth Rocks (Mega Coalossal)
+
+Changes to Abilities:
+Shield Dust - Now also avoids damage from entry hazards
+
+Move changes:
+Tail Slap 85 acc -> 100 acc
+Snipe Shot crit rate increased to +2 from +1, reduced BP from 80 to 70
+
+Buffs:
+Manectric HA Minus->Intimidate
+Golem learns Body Press, Heat Crash from TM
+Golem-A learns Volt Tackle at Level 68, learns Body Press, Heat Crash from TM
+Snorlax learns Wood Hammer at Level 65
+Sandshrew-A learns Ice Shard from Egg Move
+Talonflame Attack 81->91
+Articuno HA Snow Cloak->Shield Dust
+Rampardos learns Accelrock at Level 75
+Bouffalant learns Heat Crash, Body Press from TM
+Pancham learns Sucker Punch as Egg Move
+Lycanroc Midnight learns Precipice Blades at Level 60
+Melmetal learns DynamicPunch at 68 instead of 72, Superpower at 72 instead of 76, Double
+Iron Bash at 76 instead of 85
+Machamp learns Close Combat at Level 65
+Dusknoir can learn Close Combat from Move Tutor
+Luxray learns Zing Zap at Level 56
+Klinklang HP 55->60 (back to original base HP)
+Lapras learns Dragon Hammer at Level 70, Outrage as Egg Move
+Kingler learns Iron Head from move tutor
+
+Gen 8 Buffs:
+Greedent learns Recycle at Level 65, Heat Crash from TM
+Thievul Speed 90->110, SpA 87->97
+Eldegoss HP 60->75, SpA 80->90
+Dubwool HP 72->82
+Boltund Attack 90->100, SpA 90->80
+Morpeko Attack 95->110
+Sirfetch'd Steadfast->Blademaster, HP 62->82. Leek Stick DOES NOT WORK ON SIRFETCH'D.
+Frosmoth HP 70->85, Defense 60->65, Speed 65->80
+Mr Rime Attack 85->65, SpDef 100->90, Speed 70->100
+Arctovish SpA 80->55, Speed 55->80
+Arctozolt Speed 55->80, SpDef 80->55
+Falinks HP 65->75, SpA 70->60
+Eiscue Noice Attack 80->100, SpA 65->45
+Cramorant Attack 70->85, Attack 85->95, SpA 85->95, Speed 80->95
+Clobbopus, Grapploct Fighting->Water/Fighting. Gets Aqua Jet, Mach Punch as Egg Move
+Clobbopus/Grapploct learn Low Sweep at Level 20 instead of Brick Break, Brutal Swing
+at Level 55
+Stonjourner SpDef 20->50, Speed 70->80
+Pincurchin HP 48->68, Attack 101->81
+Drednaw learns Aqua Fang at Level 72, can learn TM Brick Break
+Boltund can learn Ice Fang
+Meowth Galarian gets Bullet Punch as Egg Move
+Cursola HP 60->80, Attack 95->75
+Perrserker HP 70->90, SpA 50->30
+Obstagoon learns Sucker Punch at Level 63
+Galarian Stunfisk Ability Mimicry->Filter
+Boltund learns Ice Fang from Move Tutor
+Coalossal learn Power Gen at Level 60
+Rapidash-G learns Flare Blitz from Move Tutor
+Indeedee-M/F learn Expanding Force at Level 65
+Alcremie learns Moonblast at Level 60
+
+Nerfs:
+Huntail Strong Jaw->Defiant, Attack 94->104
+Hypno learns Expanding Force at Level 70 instead of 49
+Removed Surging Strikes from Swampert
+Removed Double Iron Bash from Aggron
+Kingdra HP 85->75(Back to vanilla)
+Removed Machop getting Close Combat as Egg Move
+Reverted Seaking to vanilla stats (HP 100->80, Defense 77->65
+Reverted Crabominable to vanilla stats(87 defense->77 def)
+Mega Blastoise SpA 135->125
+Kingler HP 65->55 (back to vanilla stats)
+Lapras Water/Dragon->Water/Ice (Back to vanilla typing)
+
+Gen 8 Nerfs:
+Dracovish Attack 90->80, SpDef 80->90
+Galarian Darmanitan Attack 140->130
+Cinderace Attack 116->111
+
+1.11 - 1.11a
+Bug fix:
+Fixed not being able to get Trick Room TM and some other poop
+Fixed the new TM/HM compatibility not being reflected in 1.11
+Fixed some raid battle rewards
+Fixed small bug with the Double Battle guy in Fuschia
+Can now view what version you're on when looking at the text in Options.
+
+Move changes:
+Smokescreen, Sand Attack, Flash, Mudslap no longer lower accuracy
+(Smokescreen, sand attack, Flash lower attack instead)'
+Mud Slap 20 BP -> 40 BP
+Night Daze: No longer has chance to lower accuracy. BP 85->95, Acc 95->100
+Muddy Water: No longer has chance to lower accuracy. Has 40% chance to lower Attack one stage.
+Mud Bomb: No longer has chance to lower accuracy. Accuracy 85->100
+Mirror Shot: No longer has chance to lower accuracy. Accuracy 85->100
+Octazooka: no longer has chance to lower accuracy. BP 65->90, Accuracy 85->100, 100% chance to lower Speed one stage.
+Leaf Tornado: no longer has chance to lower accuracy. Accuracy 95->100
+
+Buffs:
+Added Honchkrow learns Superpower at Level 75
+
+Nerfs:
+Removed Octazooka from Horsea as Egg Move
+
+Changelog from 1.10 to 1.11
+BUG FIXES:
+Fixed Mudkip kid giving Mudkip before defeating him
+Fixed Dusk Ball having a 0 catch rate when used outside of caves/nighttime
+Fixed being able to use the bag against Champion Gary
+Added locations for Bonsly, Minccino
+Fixed Gourgeist not having Flare Boost
+Fixed Meltan/Melmetal having Lycanroc learnset
+Fixed Sage Power not performing Struggle when locked into a move that ended up with 0 PP
+
+CHANGES TO BOSSES:
+Slight increase in Erika's difficulty
+Tweaked Giovanni's final boss team
+
+ADDITIONS:
+Next to Nurse Joy in every Pokemon Center is an assistant who can change natures for you for $500!
+(Doesn't have every nature, but pretty much all of the essential ones. Currently buggy with Minior,
+but none of yall using that trash)
+
+Raid battles is in its testing phase, only a couple available right now.
+Only available in: Route 4, Mt Moon, Cerulean Cave, Victory Road.
+More will be available in the next update.
+
+Pokemon caught in Raid Battles will have Hidden Ability, except for Legendaries.
+To get Dynamax Ring on an already progressed save file:
+Go to Pewter City and walk towards Route 3 to trigger an event that gives you the Dynamax Ring.
+
+New Pokeball: Dream Ball - Has 3x Multiplier on Pokemon that are asleep, 1x elsewise. Pokemon caught will have Hidden Ability.
+Can be bought for 5000 in Cinnabar Labs, there's one drop in Celadon City as well. Has placeholder picture atm.
+
+NPC in Fuchshia City can turn on wild double battles for even faster EV training.
+BUG: If you only have one Pokemon, a ? will appear as your partner for the wild Double Battles, although
+this does not seem to cause a freeze of any sorts. Just be wary.
+
+Decapitalized town names
+Drifloon has chance to hold Air Balloon
+Raid battles + Dynamax Ring (Can only Dmax in Raid battles currently)
+Removed need for incense to breed for Munchlax/Happiny/Bonsly etc
+Added Audinos to Victory Road
+Upgraded bonus Dusk Ball multiplier from 3x to 3.5x
+Type Null has a rare chance of being found in Cerulean Cave with Catch Rate of 5.
+NPC in Cinnabar can change Silvally typing for you.
+Added TM112 Trick Room, can be found in Route 12
+Added TM63 Venoshock, can be found in Route 6
+
+REMOVALS:
+Removed Baton Pass from the game
+Removed Double Team/Minimize from the game
+Removed Sheer Cold/Guillotine/Fissure from the game
+ - Sheer Cold replaced with Ice Beam in all Level Up Learnsets
+ - Guillotine replaced with Slash in all Level Up Learnsets
+
+BUFFS:
+Rivalry: Removed doing less damage if they're different gender (Now does 1x if they're not target gender, 1.25x if they're the same)
+Illusion: 1.3x damage boost when in Illusion mode as Zoroark
+Flare Boost: Now takes no damage from burn on top of its original effect
+Toxic Boost: Now takes no damage from poison on top of its original effect
+
+Silvally RKS Memory->Battle Armor
+Does NOT need to hold a memory to change typing(Silvally memory doesnt exist in this game)!
+NPC in Cinnabar can change typing for you.
+Silvally of any type can now hold items (!!)
+Multi Attack typing will depend on Silvally's typing rather than memory.
+Parabolic Charge 65 BP -> 75 BP
+Revelation Dance 90 BP -> 100 BP
+Milotic Defense 79->84, Speed 81->86
+Zubat/Golbat/Crobat Ability 2: Sniper
+Mr Mime learns Moonblast at Level 58, Psycho Boost at Level 66
+Lapras learns Dragon Pulse at Level 50 instead of Sheer Cold
+Kinger learns Aqua Jet at Level 1, Ice Punch from Move Tutor
+Articuno learns Aura Sphere from move tutor
+Ledian learns First Impression at Level 55
+Armaldo learns First Impression at Level 66
+Shiftry learns Sucker Punch at Level 1
+Masquerain learns Hurricane from Move Tutor
+Garchomp can learn HM Fly (just for HM purposes lol)
+Farfetched can learn TM Brick Break
+Sunflora learns Fiery Dance at Level 60
+Espeon learns Fiery Dance at level 65
+Garbodor can learn TM Poison Jab
+Farfetchd learns Sacred Sword at Level 60 instead of 68
+
+NERFS:
+Reduced Punk Rock boost from 1.3x to 1.2x
+Hitmonchan Attack 125->115
+Reverted Bellossom to vanilla stats
+Blaziken Attack 120->110, SpA 110->120
+Mega Blaziken Attack 160->130, SpA 130->160
+Mega Salamence Attack 145->135
+Mega Lucario Attack 145->135
+Castform all base 90 stats->85
+Removed Spore from Comfey as Egg Move
+Aqua Fang BP 90->85
+Leek Stick gives Farfetch'd +1 crit rate instead of +2
+
+Possible Raid Bosses:
+Route 4:
+(Electrike), Pansear, Pansage, Panpour, Mankey
+Common drops: ITEM_ETHER
+Uncommon:ITEM_SITRUS_BERRY, ITEM_LEPPA_BERRY,
+Rare: ITEM_PP_UP, ITEM_PP_UP,
+Ultra rare: ITEM_LUCKY_EGG,
+
+Mt Moon:
+(Swinub), (Magnemite), Nosepass, Tympole, Mawile
+Common drops: ITEM_ETHER
+Uncommon:ITEM_SITRUS_BERRY, ITEM_LEPPA_BERRY, ITEM_MOON_STONE
+Rare: ITEM_PP_UP
+Ultra Rare: ITEM_LUCKY_EGG
+
+Cerulean Cave:
+5 star: (7-8 gym badges or beat the elite four)
+Buzzwole, Xurkitree, Stakataka, Guzzlord, Nihilego, Celesteela
+Common drops: ITEM_BIG_NUGGET,
+Uncommon drops: ITEM_PP_UP, ITEM_PP_MAX
+Rare drops: ITEM_LUCKY_EGG, ITEM_CHOICE_BAND/ITEM_CHOICE_SPECS/ITEM_CHOICE_SCARF/ITEM_LIFE_ORB
+
+6 star (after beating elite four)
+
+Blacephalon, Kartana, Poipole, Pheromosa
+
+Victory Road:
+5 star: (7-8 gym badges or beat the elite four)
+Registeel, Regice, Regirock, Necrozma, Uxie, Azelf, Mesprit
+Common drops: ITEM_BIG_NUGGET,
+Uncommon drops: ITEM_PP_UP, ITEM_PP_MAX
+Rare drops: ITEM_LUCKY_EGG, ITEM_CHOICE_BAND/ITEM_CHOICE_SPECS/ITEM_CHOICE_SCARF/ITEM_LIFE_ORB
+
+6 star (after beating elite four)
+Jirachi, Cresselia, Shaymin, Mew, Volcanion, Hoopa, Zeraora
+Common drops: ITEM_BIG_NUGGET,
+Uncommon drops: ITEM_PP_UP, ITEM_PP_MAX
+Rare drops: ITEM_LUCKY_EGG, ITEM_CHOICE_BAND/ITEM_CHOICE_SPECS/ITEM_CHOICE_SCARF/ITEM_LIFE_ORB
+Changelog from 1.9 to 1.10
+
+Bug fixes:
+Fixed Rockruff evolution, now evolves to Lycanroc if leveled up from 4 AM->5pm, Lycanroc Dusk from 5pm->7pm, Lycanroc Midnight from 7pm->4am
+Fixed Elekid having chance to hold ????
+Fixed TM Flash Cannon costing 20 at the mart
+Shedinja evo appears to be broken, evolves from Nincada through Dusk Stone for now.
+Fixed Golduck not having Neuroforce
+Raised Meltan's catch rate but gave it a Safari Zone flee rate so that it is now possible to catch
+Added Up-Grade on 2nd floor Silph Co
+Modify trainer next to Power Plant so he has proper levels
+Fixed new berries having messed up indexes, causing them to not be usable
+Fixed Occa Berry costing 0
+Fixed incorrect text when getting Sawk from Fighting Dojo
+Fixed incorrect text when getting Rotom from Celadon (He says they can't change forms, when they can)
+Fixed EV subtracter guy disappearing after beating the Elite Four
+Updated Stick to reflect its new improved functionality, changed name to Leek Stick to avoid confusion (Now buffs crit rate AND farfetch'd speed by 1.5x)
+Fixed walking through trees in Pewter City
+Fixed Dexnav mons showing on walls in Rock Tunnel
+Fixed a lot of random items on floor giving OP shit
+Fixed Castform automatically setting weather even when it is stopped/changed. It will now set your weather again if you use Weather Ball.
+Fixed Alolan Raticate showing up during daytime in Route 8
+Fixed Egg from Egg vendor hatching into Dartrix
+Fixed incorrect encounters in Mt Moon at night
+Added Skitty in Route 10, previously unobtainable
+Removed Dragons needing to have max happiness to receive Draco Meteor tutor
+Added text on Options to indicate it’s not working properly
+
+New stuff:
+Corrosion now acts as a Poison type Scrappy(Poison moves can hit Steel types) on top of its current functionality
+Seviper Ability 2 NONE -> Shed Skin, HA Infiltrator->Corrosion
+Ekans, Arbok HA Unnerve->Corrosion
+
+Raised Iron Fist damage increase from 1.2x to 1.3x, removed ability for Melmetal
+
+Added Smart Strike, Razor Shell, Shadow Claw to Blademaster boosted moves
+
+New ability Blazing Soul: Fire type Gale Wings (Only procs at full HP). Given to Rapidash, Typhlosion as Hidden Abilities.
+Rapidash HA Flame Body->Blazing Soul
+Typhlosion Ability Blaze->Flash Fire, HA Flash Fire->Blazing Soul
+
+New ability Feline Power: Doubles Special Attack (special Huge Power)
+Skitty, Delcatty Normalize->Wonder Skin, HA Wonder Skin->Feline Power, SpA 55->65
+Meowstic Keen Eye->Prankster, HA Prankster->Feline Power, SpA 83->50
+Mewostic-Female Keen Eye->Competitive, HA Competitive->Feline Power, SpA 83->50
+Meowth HA Unnerve->Feline Power
+Persian HA Unnerve->Feline Power, SpA 65->55
+Alolan Meowth HA Rattled->Feline Power, SpA 50->40
+Alolan Persian HA Rattled->Feline Power, SpA 75->50
+
+Added Iron Head move tutor in Celadon
+Added a tutor in Saffron that teaches Hydro Pump, Drill Run, Blaze Kick, Pain Split,
+Zen Headbutt, Weather Ball, Air Slash, Hex, Mystical Fire, Seed Bomb, and Leaf Blade
+Teleport updated to Gen 8 move effect
+Changed TM34 Shock wave to TM34 Teleport, added in game location
+Changed TM32 Double Team to TM32 Solar Blade, can be found in same spot in Safari Zone
+Changed TM48 Skill Swap to TM48 Meteor Beam, still found in same spot
+Changed TM41 Torment to TM41 Dragon Dance
+Changed TM20 Safeguard to TM20 Hyper Voice
+Added TM42 Facade Location in Route 10(Lavender Town side)
+Scope Lens available in Mt Moon after attaining Rock Smash
+Removed TM Roar from Celadon Mart, replaced with TM Toxic
+Heart Scale sells for 4500 now
+Added Frisk to field abilities that boost chance of wild Pokemon holding items if in lead spot (On top of Super Luck, CompoundEyes)
+Fixed one of Blaine's teams Torkoal not having Drought, optimized some of the sets/EVs
+Slightly tweaked Koga's team
+Significantly buffed Erika's team
+Fixed Clair's Kingdra having Fishious Rend, slightly tweaked her team
+Buffed & tweaked Sabrina's team
+Buffed & tweaked Giovanni's final team
+Slightly modified Brock's rematch team
+Slightly modified every E4 member’s team
+
+CFRU Additions:
+Triple Axel now has new animation
+Using Continental Crush animation for Meteor Beam as placeholder
+
+New buffs:
+
+Move Buffs:
+Arm Thrust 15 BP -> 25 BP
+Dragon Hammer 90 BP->100 BP
+Skull Bash now raises both Attack and Defense on charging turn rather than just Defense
+Pokemon buffs:
+Meganium Grass->Grass/Fairy, can learn Play Rough from Move Tutor and Dazzling Gleam from TM, Strength Sap from Egg Moves, Draining Kiss on evolution & at Level 1. Reverted stats back to vanilla.
+Electivire can learn Bulk Up by TM, Aura Sphere Move Tutor
+Pidgeot can learn Focus Blast from TM, Hyper Voice from TM
+Jynx can learn Aura Sphere move tutor, learns Psycho Boost at Level 80
+Gothitelle learns Psycho Boost at Level 70
+Magmortar gets Mega Launcher as Hidden Ability. Now learns Aura Sphere by Move Tutor, Dark Pulse, Dragon Pulse by ™, Scald by TM
+Camerupt gets Scald by ™
+Magcargo gets Scald by TM
+Seel line gets Scald by TM
+Lapras gets Scald by TM
+Walrein line gets Scald by TM
+Basculin attack 92->110
+Bouffalant Speed 55->65, Head Smash as Egg Move
+Crustle Speed 45->55
+Carbink learns Recover at Level 65
+Drifblim learns Nasty Plot from move tutor
+Zangoose hidden Ability Toxic Boost->Tough Claws
+Gorebyss SpA 114->104, Water->Water Fairy, Hidden Ability Hydration->Regenerator, learns TM Dazzling Gleam, Moonblast at Level 65
+Huntail Attack 104->94, Water->Water Dark, Ability Swift Swim->Intimidate, Hidden Ability Water Veil->Strong Jaw, learns Aqua Fang at level 50 instead of Hydro Pump, Crunch at Level 65 instead of 34. Learns Psychic Fangs at Level 1. Can learn Psychic Fangs from Move Tutor.
+Kanto Marowak HP 60->80,SpA 50->30. Learns Head Smash through Egg Move
+Octillery Ability Sheer Force->Suction Cups, Hidden Ability Moody->Skill Link, Speed 45->75
+Sawsbuck can learn TM Earthquake, Rock Slide
+Sandslash Attack 100->110, Defense 110->120, SpA 45->25, SpDef 55->65
+Alolan Sandslash Attack 100->110
+Swoobat HP 67->75, Defense 55->65
+Throh Defense, SpDef 85->95
+Sawk Defense, SpDef 75->80, Speed 85->95
+Stoutland HP 85->90, Attack 110->115
+Turtwig learns Shell Smash, Grav Apple as Egg Move
+Kricketune Swarm->Technician, learns Pin Missile at level 22 instead of Focus Energy
+Infernape Attack 104->110, SpA 104->110, Speed 108->113 can learn Aura Sphere from Move Tutor, learns Pyro Ball at Level 68 instead of Flare Blitz
+Hitmonlee learns Pyro Ball at Level 66
+Toxicroak can learn Aura Sphere from Move Tutor
+Terrakion, Virizion, Cobalion can learn Aura Sphere from Move Tutor
+Toucannon HP 80->90
+Trevenant attack 110->120, Defense 76->82
+Hitmonchan Attack 105->125
+Cryogonal Special Attack 95->110
+Jellicent Hidden Ability Damp->Water Bubble, Defense 70->80, SpA 85->60
+Liepard Ability Limber->Moxie
+Lurantis Grass->Grass/Fighting, Speed 45->55
+Musharna Hidden Ability Telepathy->Unaware
+Comfey gets Spore as Egg Move
+Clawitzer Speed 59->72
+Delphox can learn Nasty Plot through Move Tutor
+Dhelmise learns Spirit Shackle at Level 64
+Decidueye Hidden Ability Long Reach->Tinted Lens
+Hariyama hidden ability Sheer Force->Gluttony
+Mismagius HP 60->70, Defense 60->70
+Pangoro Hidden Ability Scrappy->Quick Feet
+Samurott Water->Water/Steel, Hidden Ability Shell Armor->Blademaster, Learns Smart Strike at Level 1, Razor Shell at Level 70 instead of 18 (Same for Evos), Learns Scald at Level 18 instead of Razor Shell
+Jolteon, Vaporeon, Flareon can learn Calm Mind
+Flareon Speed 65->95, SpA 95->65, learns Sacred Fire at Level 70
+Typhlosion ability Blaze->Flash Fire, Hidden Ability Flash Fire->Blazing Soul, learns Scorching Sands at Level 61, can learn Grass Knot
+Whimsicott can learn Weather Ball from Move Tutor
+Swanna can learn Hydro Pump from Move Tutor
+Doublade learns Smart Strike on evolution
+Ledian can learn Close Combat from Move Tutor
+Vibrava Hidden Ability: Tinted Lens
+Flygon Ability 2->Compound Eyes, Hidden Ability: Tinted Lens, HP 80->100, Special Attack 80->100
+Kingdra HP 75->85
+Noctowl Ability 2 Tinted Lens->Keen Eye, still gets Tinted Lens as Hidden. Changed learning Oblivion Wing at 55 to Level 70
+Clefable learns Teleport at Level 1
+Slowbro, Slowking learn Teleport at Level 1
+Onix, Steelix learn Earthquake at Level 57
+Bellossom learns Moonblast at Level 1, Fiery Dance at Level 64
+Blitzle, Zebstrika Motor drive->Sap Sipper, Hidden Ability Sap Sipper->Flare Boost, can learn TM Flamethrower
+Victini learns Fusion Flare, Fusion Bolt at Level 1
+Sunflora learns Seed Flare at Level 50, can learn Overheat from TM
+Inverted all Pumkaboo, Gourgeist forms Attack, Special Attack.
+Gourgeist Hidden Ability Insomnia->Flare Boost
+Goomy gets Wish as Egg Move
+Goodra can learn Dragon Dance, Giga Drain, Scald, ,and Drain Punch from TM . Learns Dragon Hammer at Level 75
+Bagon gets Wish as Egg Move (Long ago there was a Japanese gift event that gave a wish Bagon)
+Oricorio learns Quiver Dance at Level 60
+Mudsdale learns Slack Off at Level 65
+Delphox HA Magician->Magic Guard
+Empoleon HA Defiant->Competitive, can learn TM Calm Mind, can learn Nasty Plot from move tutor
+Luxray can learn Nasty Plot from move tutor
+Oranguru HP 105->90, Hidden Ability Symbiosis->Sage Power
+Passimian learns Mach Punch at Level 1, Sucker Punch at level 56
+Swoobat can learn Hurricane from move tutor
+Sigilyph can learn Hurricane from move tutor
+Mothim can learn Hurricane from move tutor
+Vespiquen can learn Hurricane from move tutor
+Archeops can learn  Hurricane move tutor, ™ Meteor Beam
+Medicham can learn Close Combat from move tutor
+Audino learns Moonblast at Level 65
+Honedge, Doublade No Guard ->Blademaster
+Heliolisk learns Boomburst at Level 70
+Ambipom learns Arm Thrust at Level 60, Triple Axel at Level 65
+Bounsweet learns Grav Apple at Level 44
+Steenee learns Grav Apple at Level 48
+Tsareena learns Grav Apple at Level 66
+Gloom learns Apple Acid at Level 66
+Vileplume learns Apple Acid at Level 70
+Roserade learns Apple Acid at Level 70
+Lilligant learns Apple Acid at Level 65
+Druddigon learns Dragon Hammer at Level 70
+Electrode learns Flash Cannon by TM
+Gallade learns Shadow Claw by TM
+Dusknoir learns Shadow Claw by TM
+Noivern SpA 97->102, learns Aeroblast at Level 75 instead of Boomburst(still learns Boomburst at Level 1)
+Tyrogue gets Skull Bash as Egg Move
+Charmander gets Fire Lash as Egg Move
+Altaria learns Hurricane from move tutor, Calm Mind from ™
+
+Pokemon Nerfs:
+Primeape Attack 105->95
+Mega Sceptile SpA 135->130
+Melmetal Iron Fist -> Clear Body (Because of buff to Iron Fist, and hes already insanely strong)
+Removed Typhlosion learning Eruption at Level 1 (still learns at level 82)
+Removed Melmetal learning Double Iron Bash at Level 1 (still learns at level 85)
+Changed Swampert learning Surging Strikes from level 56 to level 82
+Changed Primeape learning Close Combat from level 39 to Level 70
+Removed Cross Chop from Mankey/Primeape learnsets
+Changed Pansear learning Fire Blast from 34 to Level 50
+Removed Simipour learning Scald at Level 1
+Removed Exploud learning Boomburst at Level 1 (still learns at Level 58)
+Wingull Ability Hydration->Raindish, HA Rain Dish->Hydration
+Pelipper Ability Drizzle ->Raindish, HA Rain Dish -> Drizzle
+Torkoal Ability Drought->Shell Armor, HA Shell Armor->Drought
+Sharpedo learning Aqua Fang at 58 to level 75
+Weavile learns Triple Axel at Level 60->Level 74
+Changed Kabutops attack from 85 back to 115, now gets Blademaster instead of Intrepid Sword. Learns Razor Shell on evolution instead of Slash, Sacred Sword at Level 63 instead of Wring Out.
+Did the Gen 8 nerfs to Aegislash (150->140 for Defenses in Shield Form, 150->140 to Attack in Sword Form)
+Removed Quick Claw as a possible held item for all Pokemon that used to hold it
+Replaced Quick Claw in Safari Zone with TM Iron Tail
+Electivire Attack 123->113, Special Attack 95->105, now learns Plasma Fists at Level 70 instead of 62
+Floatzel Attack 105->95, SpA 85->90, HP 80->85, learns Surging Strikes at Level 80 instead of 57
+Accelgor SpA 100->95, Sheer Force->Unburden, HA Unburden->Sheer Force
+Removed Boomburst from Taillow’s Egg Moves, Swellow learns Boomburst at Level 65
+
+CHANGELOG 7/20/20
+1.	Reverted Fearow’s Attack from 105->90
+2.	Reverted Vespiquen’s speed from 30->40
+3.	Changed Floatzel’s Attack from 105->100, base HP 85->80, Technician-> Swift Swim, HA Water Veil-> Technician
+4.	Revert Klinklang Steelworker, Steelworker->Plus, Minus, HA Clear Body->Steelworker
+5.	Inserting images for every new item except Mega Stones
+6.	Added drop locations for Scizorite, Salamencite, Pinsirite
+7.	Added additional Rival battle
+CHANGELOG 7/21/20
+1.	Added Keldeo legendary encounter
+2.	Added a Yellow Shard exchanger for Cosplay Pikachus
+3.	Added item images for all Mega Stones, and other new items
+CHANGELOG 7/28/20
+1.	Added new abilities
+a.	Striker - Boosts kicking moves by 1.3x, given to Tsareena and Hitmonlee as HAs
+b.	Blademaster - Boosts sword/cutting moves by 1.2x and increases their crit rate by +1, given to Mega Gallade
+c.	Sage Power - Gorilla Tactics but for Special Attack, given to the Simis as HAs
+2.	Buffs to existing abilities
+a.	Can now use healing moves on loafing around turns for Pokemon with Truant
+b.	Defeatist activates at ⅓ health instead of ½
+3.	Changed aid in Fuschia to give two battle items
+4.	Added weather rock seller
+5.	Can encounter Castform in Safari Zone 2
+6.	Slightly modified Sabrina’s team
+7.	Slightly modified Lt Surge’s team
+8.	Fixed some cut trees
+9.	CFRU fixes:
+a.	Flying mons can now flee from Arena Trap
+b.	Triple Kick/Triple Axel fixed
+
+Changelog 7/29/20
+1.	Entei learns Extremespeed at level 1
+2.	Houndoom learns Dark Pulse at level 56 instead of Crunch
+3.	Hail chip damage increased from 1/16 -> 1/12
+4.	New ability introduced: Icy Veil: If hailing on switch in, create a mini Aurora Veil(Lasts 3 turns, not boosted by Light Clay). Given to Glaceon and Lapras as Hidden Abilities
+5.	Cannot Thief/Magician trainers
+6.	New move: Aqua Fang. 90 BP with 10% chance to flinch, boosted by Strong Jaw. Sharpedo learns it at level 62 instead of Night Slash, Bruxish learns it at level 48, Gyarados learns it at Level 42 instead of Hydro Pump, Basculin learns it at level 42 instead of Thrash
+7.	Fixed Deerling/Sawsbuck alternate forms having bugged level up learnset
+8.	New ability: Surprise! Does one of 5 random effects on switch in. Signature hidden ability of Delibird.
+Changelog 7/30/20
+1.	Modified Champion Gary’s team a little
+2.	Fixed the Aid Mega Starter stone bug
+3.	Fixed the Game Corner spawning Shiny/Hidden Ability Exploit
+4.	Added wimpod location in Route 12 fishing w/Good Rod for this dumbass Xan
+Changelog 7/31/20
+1.	Lapras Water/Ice->Water/Dragon
+2.	Granbull Fairy->Fairy/Fighting, HP 90->100
+3.	Raichu HP 60->70, Attack 90->80, SpA 90->100
+4.	Luvdisc Ability Hydration->Soul-Heart, SpA 40->110
+5.	Mega Aggron Steel->Steel/Dragon, Ability Filter->Clear Body
+6.	Stick along with boosting Farfetch’d crit rate chance also boosts speed by 1.5x. Farfetch’d Normal/Flying->Flying/Fighting, speed 85->65
+
+Changelog 8/6/20
+1.	Added happiness checker + groomer in Cerulean
+2.	Added Mega Stone locations for Latios, Latias, Medicham
+3.	Fixed bug relating to infinite Slowbronite, Moltres
+4.	Did a bunch of wild Pokemon tweaking
+5.	Change Chuck giving 5 focus sashes to 1
+6.	Reduced Walrein base HP 110->90
+7.	Added TM locations for Focus Blast, Roost, Dark Pulse
+8.	Whismur line have rare chance of holding Throat Spray
+9.	Graveler, Golem have common chance of holding Weakness Policy
+10.	Hawlucha has common chance of holding Power herb
+11.	Shelmet has rare chance of holding Rocky Helmet
+12.	Added Nasty Plot move tutor by Fuschia
+13.	Mega Absol gets Blademaster, Leavanny gets Blade master as HA
+14.	Changed Blademaster boost from 1.2x to 1.1x
+15.	Added some Meteor Beam distribution
+16.	Added sacred sword to Leavanny and Farfetch’d level up learnset
+17.	Reduced Kabutops attack 90->85
+18.	Electivire can learn Close Combat from move tutor, Iron Fist as Hidden Ability
+19.	Icy Protector not working properly, so removed temporarily
+20.	Added guy who gives random fossil Pokemon in Cinnabar
+
+Changelog from 1.7 to 1.8:
+Fixed bug relating to Shard Collector
+Fixed Darmanitan-Zen level up learnset
+
+Changelog from 1.8 to 1.9:
+Charge Beam 10% accuracy ->100% acc
+Shellos evolving at Level 32 -> 30
+Absorb Bulb key item ->regular item
+Fixed Seafoam Islands strength boulders not working
+Fix Fuschia Egg Move Tutor Heart Scale text
+Removed Pixilate from Dunsparce and reverted to Serene Grace, Run Away
+Fixed incorrect Cubone Spawn in Pokemon Tower
+Fixed happinesss groomer so that he only grooms once a day. Also only gives 30 happiness points instead of 50.
+
+Additions:
+Added Fury Cutter, Solar Blade to moves boosted by Blademaster
+Kingdra learns Snipe Shot at Level 70
+Can now evolve Rockruff to Lycanroc Dusk using Dusk Stone

@@ -1,0 +1,84 @@
+Severe:
+●	Freezes can happen randomly, although it’s extremely rare. Save often!
+●	Trying to catch a Pokemon in a Double wild battle while your other Pokemon is locked into a Choice move will lead to an infinite loop, soft locking the game
+●	Your game may get soft locked in Double battles with the text “There’s no PP left for this move” if your other Pokemon has run out of PP.
+●	Enemy Pokémon using encore in double battle may soft lock your game saying “X move has to be selected after the Encore.”
+●	Using Skill Swap/Wandering Spirit on Intimidate will freeze the game.
+●	Activating Flash in Rock Tunnel may cause the game to freeze when playing on Eclipse emulator.
+
+Medium:
+●	New Stat Scanner has a spanish word in the top right corner. Remaining steps for eggs are only approximate, not accurate.
+●	Dexnav Hidden Abilities and Egg moves do not work in randomizer mode.
+●	DexNav Egg Move feature can sometimes give a Pokémon the same move twice.
+●	Boss AI can act really stupid from time to time.
+●	A lot of new DLC/Gen 8 moves have placeholder animations atm.
+●	Start menu will slow down if you set L=A in the Options menu.
+●	Selecting Sensu Oricorio at Egg Move Tutor causes a blackscreen or shows incorrect moves.
+●	Sometimes, not very often, the game may start slowing down because of random stuff. Restart the game if it happens.
+●	In minimal grinding mode, vitamins increase your EVs even tho EVs should be disabled in that mode.
+●	If you set up 3 Dragon Dances (reported with Gyarados), your opponent switches with Flip Turn (Dumbass Kid, or rematch Misty battles), you kill one of opponent’s Pokémon, a member of your team levels up, the game freezes.
+
+Mild:
+●	[Improved for v2.2] Gen 8 Pokémon’s cries and sprites aren’t final. Some sprites may show up incorrectly with weird colours and odd positions on screen and some of them have placeholder cry.
+●	DexNav spawning Pokémon in places that’s hard to get to from your current location. (Mostly in caves, Mt. Moon and Seafoam Islands for example.)
+●	Signposts interrupt DexNav chain.
+●	Pressing R in the safari zone doesn’t make you automatically run away.
+●	DexNav’s black bar may start glitching out (graphics wise) after extended use or fast-spamming use.
+●	Bottom part of Route 21 shows ONLY Tangela in the DexNav’s grass section.
+●	The Receptionist in Safari Zone only checks if you have free slots to catch Pokémon in the first 14 boxes (Vanilla FR amount).
+●	There isn't an option to give a nickname when receiving my scripted gift Pokemon, and it won't give you a notification of it being sent to a box if your party is full either. This was out of laziness.
+●	Overworld palettes can get messed up from time to time, showing placeholder sprites for items. It usually happens after picking an item, the NPCs in OW appear as a white square.
+●	Using Itemfinder on hidden Leftovers on Route 16 will mess up your character’s appearance. Walking into a building fixes it.
+●	When using Stat Scanner in E4 chambers, it only shows the stats of your first Pokémon in the party, even when you choose a different one.
+●	Rocket Grunts are still in the Game Corner Hideout even after you become Champion.
+●	Taking away your starters’ Oran Berry into the bag and then getting Oran Berries from the Scientist that gives you DexNav, you will only have 5 Oran Berries in your bag instead of 6.
+●	Viridian City’s Gym still has Giovanni listed as gym leader on the statue at the entrance.
+●	Volcanion’s Pokédex data has no weight and height entered.
+●	A Super Nerd in Cinnabar’s gym has green lines below him in OW.
+
+Other bugs (CFRU related bugs or other bugs that may not be fixed anytime soon)
+●	Court Change does nothing at the moment.
+●	No Retreat prevents you from fleeing in and after a Raid Battle.
+●	When you use Skull Bash after +6 Defense boost, it raises your Attack, but doesn’t attack the next turn.
+●	Steel Roller works without terrain active.
+●	When your Pokémon has Sage Power or Gorilla Tactics, and you select a move that isn’t the move you are locked into, it says you can’t use the move that you are locked into.
+●	Stat Scanner shows the other genders sprite.
+●	Female Combee’s sprite is incorrect.
+●	[More info needed] Game counts caught Pokémon differently in the PokéDex menu and in the TrainerCard/saving box. (The caught number may differ in these places.)
+●	Sheer Force ignores the effect of Weakness Policy.
+●	Berry animation popping up when triggered, but not healing.
+●	Grammar error on EV Resetter Nerd.
+●	Cursed Body does not work properly.
+●	Catching an Alolan Pokémon will mark it’s Kantonian form caught in the PokéDex, same thing happens if you catch Kantonian form.
+●	Nihilego palette does not blend well with the summary screen.
+●	Ally HP bar might break when you KO your ally with Surf (possibly with other multi target moves as well).
+●	D-Max moves that are normally multi-target moves display the white glow on your ally even if they aren’t really targeted by it.
+●	When entering a wild double battle or a raid battle, the game might sometimes send a fainted Pokémon from your party.
+●	Galarian Ponyta’s sprite is floating.
+●	Snorlax in the overworld might have a shadow visible below him.
+●	Snorlax’s hitbox in the OW is smaller than what it looks like, you can get under it.
+●	Max Phantasm/Astral Barrage causes the HP palette to go purple.
+●	Neutralizing Gas doesn’t affect Mirror Armor.
+●	Encountering a wild Zoroark causes Zoroark to disguise himself as Zoroark. (Only for randomizer)
+●	During Oak’s tutorial battle, your Pokémon might have a status condition without the battle UI having the status condition icon shown.
+●	Cotton Spore affects grass type even though it shouldn’t since gen 6.
+●	Terrain change in Raid Battles can change your Pokémon’s type.
+●	Castform’s sprite glitches out in Raid battle after reverting from Dynamax.
+●	Parting Shot into a Pokémon with Throat Spray activates Throat Spray.
+●	Expanding force hits both opponents when there is no terrain active or when non-psychic terrain is active.
+●	Cotton Down’s effect doesn’t trigger after being hit. (The report had Punishment used as a damaging move)
+●	When using an evolution item and then cancelling the evolution, the item still gets consumed.
+●	Eiscue’s Ice Face doesn’t get restored when it’s hailing.
+●	Poltegeist’s PokéDex info is a little bit messed up graphics wise (no freeze) and the area shows it’s unknown.
+●	If your opponent uses Destiny Bond against you and your Pokémon kills him in the same round with a multi-hit move, your Pokémon won’t faint.
+
+Unconfirmed bugs (you can test these yourself and let us know on discord what you found out)
+
+●	When Misty Terrain is created in a raid battle, Water Absorb and Flash Fire change the user’s type to Fairy.
+●	Using Strange Steam in battle causes Swampert’s sprite (and possibly other mons) to glitch out.
+●	If Ferroseed knocks out an opponent with Iron Barbs and uses Self Destruct, he might not take any damage from it and the game may ask you if you want to select another Pokémon.
+●	Unnerve may not stop an opponent from eating it’s own berry.
+●	Passimian’s Receiver ability doesn’t work properly.
+●	Male Kirlia and Male Applin can have egg.
+●	If your Pokémon dies to Stealth Rock, your other Party Pokémon get EXP if EXP. Share is enabled.
+●	Registering a male Indeedee won’t allow you to auto search for female Indeedee.

@@ -1,0 +1,667 @@
+Notable buffs are denoted with a (!), (!!) being an insane change
+Assuming Version: 2.3
+Ability Changes
+Illuminate - Boosts accuracy by 1.2x. Also has its existing field effect.
+Flame Body/Steam Engine/Magma Armor – Field effect reduces amount of steps needed to hatch eggs by 4x instead of 2x
+Frisk – Now also has the functionality of boosting item spawn chances for wild Pokemon (like Compound Eyes/Super Luck).
+Truant – Can now use healing moves on turns where you loaf around.
+Emergency Exit - Now only forces the switch at the END of the turn (Normally, if you reach the threshold for Emergency Exit to proc you must switch out immediately). Also doesn't force a flee in Wild Battles
+Defeatist – Activates at 1/3 health instead of ½.
+Corrosion – Now also has the functionality of allowing Poison moves to damage Steel types.
+Iron Fist – Raised Iron Fist boost from 1.2x to 1.3x. Now also boosts Sucker Punch, but does not boost Wicked Blow.
+Toxic Boost – Now immune to poison status damage on top of its existing functionality.
+Flare Boost – Now immune to burn status damage on top of its existing functionality .
+Illusion – 1.3x damage boost when in Illusion mode.
+Forecast – Now sets weather depending on what weather rock is being held (Castform), and will set weather again when using Weather Ball.
+Rivalry – 0.75x damage when attacking non–target gender –>1x damage when attacking non–target gender.
+Shield Dust – Now also avoids damage from entry hazards.
+Solar Power – No longer decreases HP at end of every sun turn.
+Strong Jaw - No longer buffs Fishious Rend
+Gulp Missile – Now reduces Speed instead of Defense in Gulping Form
+Mega Launcher – Now also boosts Snipe Shot, Octazooka and Flash Cannon.
+Bulletproof – Now also blocks Snipe Shot, Flash Cannon and Spike Cannon.
+Water Compaction - reduces Water type damage by 50% on top of its current functionality
+Flower Gift - boosts Speed by 1.5x in Sun instead of Special Defense, no longer boosts partner in Double Battles (1.5x Attack and 1.5x Speed in Sun)
+Quick Feet - boosts Speed by 2x when statused instead of 1.5x
+Liquid Voice - Now also gives 1.2x boost to Sound Moves
+Zen Mode - Changes form regardless of health (So, becomes Zen Mode as soon as Darmanitan is switched in)
+New Abilities
+Blademaster – Boosts sword/cutting moves by 1.2x and gives them +1 crit ratio.
+Moves affected by Blademaster: Sacred Sword, Secret Sword, Psycho Cut, Cut, Slash, Leaf Blade, Night Slash, False Swipe, X–Scissor, Solar Blade, Fury Cutter, Razor Shell, Shadow Claw.
+Striker – Boosts kicking moves by 1.3x.
+Moves affected by Striker: Blaze Kick, Jump Kick, High Jump Kick, Triple Axel, Triple Kick, Stomp, Mega Kick, Low Kick, Rolling Kick, Trop Kick, Pyro Ball, High Horsepower, Double Kick.
+Feline Prowess – Doubles Special Attack (special Huge Power).
+Flaming Soul – If at full HP, fire type moves have +1 priority (Fire type Gale Wings).
+Sage Power – Automatically locked into the first move chosen, but boosts Special Attack by 1.5x (Gorilla Tactics for Special moves) .
+Surprise! – Random Effect on switch in (Delibird signature ability).
+ORAORAORAORA/Raging Boxer – Punch moves hit twice, with second hit deals 0.5x (Mega Machamp signature ability).
+Bad Company – Prevents self lowering stat drops and recoil (Mega Duraludon signature ability, combos with Draco Meteor/Steel Beam).
+Parasitic Waste – Attacks that can poison also heal for 50% (Mega Garbodor signature ability).
+Mountaineer – Immune to Rock attacks and Stealth Rocks
+Bull Rush – Boosts Speed by 1.5x, Attack by 1.2x on first turn (same activation requirements as Fake Out)
+Primal Armor - Reduces damage received from Super Effective Attacks by 50%
+Self Sufficient - Heals 1/16 at the end of every turn.
+Fatal Precision - Super Effective Moves from this Pokemon can’t miss and receive a 20% damage boost.
+
+Bone Zone - Bone-Based moves ignore immunities and also deal double damage on not very effective. (Cubone, Marowak, Alolan Marowak signature ability)
+
+
+
+
+
+
+
+
+
+
+
+Move Changes
+Drill Peck has an increased crit rate.
+Shadow Punch 60BP –> 80 BP
+Chatter 65 BP –> 80 BP
+Lovely Kiss 75 Accuracy –> 85 Accuracy
+Triple Kick 10BP –> 20 BP
+Charge Beam 90 Accuracy –> 100 Accuracy, 100% chance to boost SpA instead of 70
+Explosion, Selfdestruct halves defense of the target again, but BP is reduced to 150, 100 respectively.
+Head Smash 80 Accuracy –> 85 Accuracy
+Poison Fang 50BP –> 75 BP
+Diamond Storm Physical–> Special
+Tail Slap 85 Accuracy –> 100 Accuracy
+Fly 95 Accuracy –> 100 Accuracy
+Shadow Claw 70 BP –> 80 BP
+Attack Order 90 BP –> 120 BP
+Slam 75 Accuracy –> 90 Accuracy
+Arm Thrust 15 BP –> 25 BP
+Dragon Hammer 90 BP –> 100 BP
+Skull Bash now raises both Attack and Defense on charging turn rather than just Defense.
+Parabolic Charge 65 BP –> 75 BP
+Revelation Dance 90 BP –> 100 BP
+Snipe Shot Crit rate increase to +2 from +1, 80 BP –> 70
+Octazooka 65 –> 80 BP, 85 Acc –> 100 Acc, 100% chance to lower speed. Boosted by Mega Launcher.
+Overheat 90 Accuracy –> 100 Accuracy
+Draco Meteor 90 Accuracy –> 100 Accuracy
+Psycho Boost 90 Accuracy –> 100 Accuracy
+Fleur Cannon 90 Accuracy –> 100 Accuracy
+Leaf Storm 90 Accuracy –> 100 Accuracy
+Inferno 100 BP –> 120 BP
+Mega Drain 40 BP –> 60 BP
+Jaw Lock Dark –> Fighting , 80 BP –> 90 BP
+Misty Explosion Now also halves target’s SpDef
+Beat Up Now a 2-5 multi-hit move with 25BP
+Revelation Dance Normal –> Fairy
+Flash Now an Electric Attacking Move with 60BP, 100 Accuracy, 50% chance to lower Attack
+Rock Smash 40 BP –> 60 BP
+Cut Normal –> Steel with 75BP, 100 Accuracy
+Razor Shell 95 Accuracy –> 100 Accuracy, has a high chance of critical hits instead of 50% chance to lower Defense
+King’s Shield Does not lower attack anymore
+Wide Guard Now can fail on consecutive usage (Same formula as Protect)
+Strength Sap PP 10 -> 5
+Needle Arm BP 50->95
+Roar of Time Now a 80 BP 100 accuracy Special Dragon Tail (negative priority that forces the opponent out if it lands), currently not obtainable in a normal playthrough
+Shell Side Arm 90 BP->100 BP Special New effect: Bypasses abilities and has a 10% chance to inflict poison.
+Volt Tackle - Now does 25% recoil damage rather than 33%
+Gear Grind Acc 85->100
+Head Charge - Now has a 10% chance to lower Defense (so that it gets boosted by Sheer Force for Tauros)
+Jaw Lock - No longer traps the user from switching out
+Ice Hammer - Accuracy 90->100, No longer lowers the user's Speed
+Low Sweep 65 BP->60 BP (Technician boosted)
+Luster Purge BP 70->85 5 PP->10 PP (Meloetta, Latios)
+Mist Ball BP 70->85, 5 PP->10 PP (Meloetta, Latias)
+Snap Trap - Type Grass->Steel, 35 BP->100 BP, 100 Acc->85 Accuracy, PP 15->5 (Physical Steel Magma Storm)
+
+New Moves:
+Dark Hole  100 BP Special Dark Move 5 PP with a 40% chance to sleep, bypasses Substitute (Not currently obtainable in a normal playthrough)
+Forbidden Spell  5 PP move that can call one of 8 random moves: Shell Smash, Healing Wish, Dark Hole, Tail Glow, Roar of Time, Quiver Dance, No Retreat, Soul Robbery
+Aqua Fang - 80 BP 10 PP Physical Water Move with no secondary effect, boosted by Strong Jaw
+Soul Robbery - 100 BP 5 PP Special Psychic Spectral Thief (steal opponents boosts before attacking) Currently not obtainable in a normal playthrough
+Sonic Slash (New signature ninjask move) - 10 PP move Single Target Flying Physical Move: 140 BP if the user's speed is 3* the target's speed or greater, 120 BP if 2* the target's speed, 80 BP if less than 2* the target's speed
+- Sappy Seed - 95 BP 100 Acc 5 PP Single Target Grass Physical Move: Deals damage and leaves Leech Seed(if applicable) on its target (Cradily, Parasect, Leafeon, Maractus)
+- Zippy Zap - 50 BP 100 Acc  5 PP Single Target Electric Physical Move: +1 Priority move that always results in a critical hit (Pikachu/Raichu, Zebstrika, Togedemaru, Morpeko)
+- Freezy Frost - 95 BP 100 Acc 5 PP Single Target Ice Special Move: Eliminates stat change after dealing damage. This effect occurs even if they are behind a sub, or if it faints the enemy Pokemon. (Cryogonal, Pikachu-Belle, Regice, Mr. Mime-G/Mr. Rime)
+- Sparkly Swirl - 95 BP 100 Acc 5 PP Single Target Fairy Special Move: Eliminates status conditions in the user's party after dealing damage. This effect occurs even if they are behind a sub, or if it faints the enemy Pokemon. (Aromatisse, Comfey, Shiinotic, Mr. Mime, Pikachu-Pop Star)
+- Bouncy Bubble - 90 BP 100 Acc 5 pp Single Target Water Special Move: Deals damage and 50% of the damage is restored to the user (Wailord, Milotic, Pikachu-Surfing, Pincurchin)
+
+
+MEGA EVOLUTION CHANGES:
+Camerupt HP 70->90, Mega Camerupt HP 70->90, Attack 120->100, Def 100->110, SpDef 105->115
+Mega Audino Ability Healer->Regenerator
+Mega Glalie Attack 120->135, SpA 120->105
+Mega Abomasnow Ability Snow Warning->Slush Rush Speed 30->60 (!)
+Mega Steelix Ability Sand Force->Heatproof
+Mega Banette Ghost -> Ghost/Normal
+Mega Ampharos Ability Mold Breaker->Thick Fat
+Mega Houndoom Ability Solar Power if base Ability is Flash Fire, Dark Aura is base Ability is Early Bird/Unnerve, Attack 90 -> 110
+Mega Slowbro Ability Regenerator if base Ability is Oblivious/Own Tempo, Battle Armor if base Ability is Regenerator
+Mega Sceptile Ability Lightningrod -> Technician, Attack 110 -> 135, SpA 130 -> 110 (!!)
+Mega Blaziken Attack 160->130, SpA 130->160
+Mega Gallade Ability Blademaster if base Ability is Steadfast, Inner Focus if base Ability is Justified
+Mega Absol Type Dark->Dark/Fairy, Ability Magic Bounce if base Ability is Pressure, Blademaster if base Ability is Super Luck/Justified
+Altaria HP 75->85, Mega Altaria HP 75->85
+Mega Salamence Attack 145->135
+Mega Garchomp Defense 115->105, Speed 92->102
+NEW MEGAS:
+Mega Butterfree (Butterfreeite found in Viridian Forest with Rock Smash):
+Bug/Flying
+CompoundEyes
+60/45/100/140/100/80
+
+Mega Machamp (Machampite Power Plant)
+Fighting
+Raging Boxer
+90/145/110/65/115/75
+
+
+Mega Garbodor (Garbodorite Silph Co)
+Poison
+Parasitic Waste
+80/135/105/105/105/75
+
+Mega Kingler (Route 18)
+Water/Steel
+Tough Claws
+55/150/125/50/70/110
+
+
+Mega Snorlax (Route 23)
+Normal/Grass
+Thick Fat
+160/160/85/80/125/30
+
+Mega Lapras (Seafoam Islands)
+Water/Dragon
+Liquid Voice
+130/105/90/115/105/70
+
+Mega Drednaw (Route 19)
+Water/Fighting
+Strong Jaw
+90/155/125/48/98/85
+
+Mega Coalossal (Rock Tunnel Rock Smash)
+Steel/Fire
+Mountaineer
+110/80/125/125/105/45
+
+Mega Orbeetle (Route 2 Rock Smash)
+Bug/Psychic
+Magic Guard
+60/45/125/135/130/100
+
+Mega Toxtricity (Mandatory event)
+Electric/Poison
+Punk Rock
+75/120/80/155/80/111
+
+Mega Duraludon (Mandatory event)
+Steel/Dragon
+Bad Company
+85/95/140/140/90/95
+
+
+Mega Copperajah (Surf in Vermillion)
+Steel/Fighting
+Sheer Force
+122/155/94/100/94/20
+
+
+Mega Centiskorch (Beat Ace Trainer in Route 8 after you get Mega Ring)
+Fire/Bug
+Mountaineer
+100/150/80/90/110/85
+
+
+Mega Sandaconda (Beat Ace Trainer in Route 15)
+Ground/Flying
+Aerilate
+72/140/160/85/90/81
+
+
+Mega Flapple (Beat Trainers in Celadon Hotel after Mega Ring)
+Grass/Dragon
+Dragon’s Maw
+70/145/90/135/70/105
+
+
+Mega Appletun (Beat Trainers in Celadon Hotel after Mega Ring)
+Grass/Dragon
+Contrary
+110/105/100/135/100/40
+
+
+Mega Alcremie (Get ingredients for a girl’s cake in Saffron)
+Fairy
+Self Sufficient
+65/70/90/140/131/84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TYPE/STAT/ABILITY/LEARNSET CHANGES:
+Any move Bolded indicates a new compatibility compared to Vanilla Gen 8
+Not listed but are also present are the stat buffs from the latest gens!
+I've changed some Pokemon to be able to have their hidden abilities as normal abilities; this is so you don't have to go through the DexNav/Bottle Cap grind in order to obtain their HA.
+Also, you can view Base_stats.c to view the base stats, possible held items, and abilities for all Pokemon, and the learnsets.c to view the level-up learnsets of all Pokemon as well.
+-------------------------------------------------------------------------------------------------------------------------------------------
+All Pokemon with Pickpocket->Infiltrator
+All Pokemon with Keen Eye->Frisk
+All Pokemon with Shell Armor -> Battle Armor
+All Pokemon with White Smoke -> Clear Body
+All Pokemon with Air Lock -> Cloud Nine
+All Pokemon with Power of Alchemy -> Receiver
+All Pokemon with Poison Point -> Poison Touch
+Ability Illuminate Removed
+Rattled has been removed from the game (to make room for Unseen Fist).
+ - Cubchoo Rattled-> Swift Swim, Yamper Rattled->Competitive, Toxel Rattled->Lightningrod, Magikarp Rattled->Hydration, Bonsly/Sudowoodo Rattled->none, Dunsparce Rattled->None, Snubbull Rattled->defiant, Poochyena Rattled->Moxie, Whismur Rattled->Scrappy, Clamperl Rattled->Hydration
+KANTO:
+Bulbasaur, Ivysaur, Venusaur learn Sludge at level 15 instead of Sweet Scent, Sludge Bomb at Level 39 instead of Worry Seed, can learn Dig from ™
+Charmander gets Fire Lash as Egg Move
+Blastoise learns Shell Smash at Level 82
+Butterfree SpA 90->95
+Pidgeot can learn Focus Blast from TM, Hyper Voice from ™
+Raticate HP 55->60, Attack 81->91
+A-Raticate Attack 71->86
+Fearow Keen Eye->Sniper, Hidden Ability Sniper->Technician, Attack 90->100, Speed 100->115, learns Double Hit on evolution, Brave Bird at Level 48 and from TM
+Arbok Poison->Poison/Dark, HP 60->75, Defense 69->75, HA Unnerve -> Strong Jaw, learns Jaw Lock at Level 44
+Pikachu learns Fake Out at Level 1, ExtremeSpeed at Level 36, Zippy Zap at Level 57
+Pikachu-Belle Electric -> Electric/Ice, can learn Icicle Spear from Move Tutor
+Pikachu-Rock Star Electric -> Electric/Steel, can learn Iron Head from Move Tutor
+Pikachu-Pop Star Electric -> Electric/Fairy, can learn Dazzling Gleam from TM
+Pikachu-Libre Electric -> Electric/Fighting, can learn Close Combat from Move Tutor
+Pikachu-Flying Electric->Electric/Flying, can learn Hurricane from Move Tutor
+Pikachu-PhD Electric->Electric/Psychic, can learn Zen Headbutt from Move Tutor
+Raichu HP 60->70, Attack 90->100, SpA 90->100
+Sandslash Attack 100->110, Defense 110->120, SpA 45->25, SpDef 55->65, learns Spikes, Spiky Shield at level 1
+Sandshrew-A learn Ice Shard from Egg move and at Level 5
+A-Sandslash Ability Snow Cloak->Slush Rush, Hidden Ability Slush Rush->Ice Scales (!), Attack 100->110
+A-Sandslash learns Spikes, Spiky Shield at level 1
+A-Ninetales learns Aurora Veil at Level 75
+Wigglytuff Cute Charm->Sheer Force, learns Moonblast at Level 50, Lovely Kiss at Level 65
+Zubat, Golbat Ability 1 Inner Focus->Infiltrator, Ability 2 None -> Sniper, Hidden Ability Infiltrator->Corrosion
+Oddish learns Strength Sap at Level 54
+Gloom learns Strength Sap at Level 62, Apple Acid at Level 66
+Vileplume learns Strength Sap at Level 67, Apple Acid at Level 70
+Parasect HP 60->80, Attack 95->110, Defense 80->100, learns Crabhammer at Level 47, Sappy Seed at Level 44
+Venomoth Type Bug/Poison->Bug Psychic Defense 60->65, SpA 90->95
+A-Dugtrio Attack 100->110
+Meowth-G learns Bullet Punch as Egg move
+Persian Attack 70->80, SpA 55 -> 60, HA Feline Power, can learn Dazzling Gleam from TM, Surf from HM
+Persian-A SpA 75->55, HA Feline Power, can learn Dazzling Gleam from TM, Surf from HM
+Golduck Type Water -> Water/Psychic , ability Damp -> Swift Swim, HA Cloud Nine -> Neuroforce, SpA 95 -> 100, Speed 85 -> 100, learns Nasty Plot at Level 41 and from Move Tutor, Teleport from ™
+Poliwrath learns Surging Strikes at Level 66, can learn Flip Turn from TM
+Machamp can learn Drain Punch from TM
+Victreebel Defense 65->70, SpDef 70->75, can learn Gunk Shot from Move Tutor
+Tentacruel Attack 70->60, Defense 65->80, SpA 80->90, can learn Flip Turn from TM, Nasty Plot from Move Tutor
+Golem, Golem learns Head Smash at Level 60 instead of Heavy Slam, learn Body Press and Heat Crash from TM
+Geodude-A, Graveler-A Magnet Pull->Rock Head
+ Golem-A Sturdy->Magnet Pull learns Head Smash at Level 60 instead of Heavy Slam, learns Volt Tackle at level 68, can learn Body Press and Heat Crash from ™
+Ponyta-G, Rapidash-G Psychic/Fairy->Fire/Fairy, learn Flame Charge at Level 10 instead of Confusion, Flame Wheel at Level 25 instead of Psybeam, Flare Blitz at Level 50 instead of Psychic
+Rapidash-G SpA 80->60, Speed 105->125, learns Fire Lash on Evolution & at Level 1
+Rapidash Ability Run Away->Reckless, HA Flame Body -> Flaming Soul, SpA 80->60, Speed 105->125, can learn Fire Lash at Level 1 and Evolution, Jump Kick at Level 55 (!)
+Slowbro-G Attack 100->75, Defense 95->105, SpA 100->115
+Dodrio Ability Run Away->Rock Head, can learn U-turn from TM
+Dewgong Ability Hydration->Ice Scales (!) Attack 70->50, SpA 70->90, can learn Scald from TM
+Muk Ability Stench->Regenerator
+Muk-A learns Parting Shot at Level 1, Sucker Punch at Level 63
+Gengar Ability 1 Cursed Body->Levitate
+Kingler learns Aqua Jet at Level 1, Meteor Mash at Level 69, Ice Hammer at Level 75, Ice Punch, Iron Head, Close Combat from Move Tutor
+Voltorb Hidden Ability Aftermath->Galvanize
+Electrode Hidden Ability Aftermath>Galvanize, Attack 50->55, SpA 80->100,  learns Tri Attack at Level 1, Flash Cannon, Hyper Voice, Focus Blast, Weather Ball from ™
+Exeggutor can learn Earth Power, Weather Ball from Move Tutor
+Exeggutor-A can learn Weather Ball from Move Tutor
+Cubone Ability Lightning Rod -> Battle Armor, Hidden Ability Battle Armor -> Bone Zone
+Kanto Marowak Ability Lightning Rod -> Battle Armor, Hidden Ability Battle Armor -> Bone Zone, HP 60->80, SpA 50->30, learns Head Smash through Egg Move
+Marowak-A Ability Cursed Body -> Lightning Rod, Hidden Ability Lightning Rod -> Bone Zone
+Hitmonchan Attack 105->115, learns Sucker Punch at Level 50 instead of Detect
+Hitmonlee Limber->Unburden, Hidden Ability Unburden->Striker,  learns Sucker Punch at Level 29 instead of Brick Break, learns Pyro Ball at Level 66
+Farfetch'd Type Normal/Flying->Fighting/Flying, Hidden Ability Blademaster, HP 52->75, Defense 55->70, SpDef 62->77, learns Sacred Sword at 60, learns Drill Peck at Level 72 , can learn ™ Brick Break. Signature item change:
+Stick: Boost Farfetch’d Crit rate +2 -> Boost Farfetch’d Crit Rate +1 + Boost Speed by 1.5x
+Farfetch’d-G can learn Roost from ™,  Drill Run from Move Tutor
+Primeape Hidden Ability Defiant->Gorilla Tactics (!!)
+Onix HP 35->50, Attack 45->60, Defense 160->150, Speed 70->65, Onix learns Earthquake at Level 57
+Hypno Hidden Ability Inner Focus -> Psychic Surge (!)
+Kangaskhan gets Seismic Toss as Egg Move
+Seaking Swift Swim->Lightningrod, Hidden Ability Lightningrod->Rain Dish, learns Aqua Jet at level 1, Fishious Rend at Level 60
+Mr Mime Hidden Ability Technician->Misty Surge, HP 40->50, learns Sparkly Swirl at Level 62
+Mr Mime-G learns Freezy Frost at Level 62
+Pinsir learns Megahorn at Level 60, Double-Edge at level 69
+Lapras Water/Ice->Water/Dragon, Ability Shell Armor->Hydration, learns Dragon Pulse at Level 50 instead of Sheer Cold, Wish at Level 60, Dragon Hammer at Level 70, Outrage as Egg Move, gets Scald by TM
+Tauros SpA 40->70, learns Head Charge at Level 76, can learn Play Rough, Flare Blitz from Move Tutor
+Vaporeon can learn Calm Mind from TM
+Jolteon learns Spikes at Level 1, can learn Calm Mind from TM
+Flareon SpDef 110->100, SpA 95->65, Speed 65->95, learns Sacred Fire at Level 70, can learn TM Calm Mind, Stomping Tantrum from Move Tutor
+Jynx Ability Oblivious->Dry Skin Defense 35->50, Speed 95->100, learns Psystrike at Level 65, Psycho Boost at Level 80, Aura Sphere from move Tutor
+Kabutops Ability Swift Swim -> Weak Armor, Hidden Ability Swift Swim -> Blademaster, learns Razor Shell on Evolution, Sacred Sword at Level 63
+Aerodactyl can learn U-turn from TM
+Snorlax learns Wood Hammer at Level 65
+Zapdos learns Bolt Beak at level 1
+Articuno HA Snow Cloak->Shield Dust, Attack 85->70, Speed 85->105, can learn Calm Mind, Focus Blast from ™, learns Aura Sphere from Move Tutor
+Articuno-G Attack 85->70, Defense 85->95, Speed 95->100, can learn Roost, Defog, Focus Blast from TM
+Zapdos-G can learn Defog, Dig, Roost from TM
+Moltres-G can learn Roost, Scorching Sands, Defog from TM
+JOHTO:
+Meganium Grass->Grass/Fairy, Hidden Ability Overgrow->Triage (!), can learn Play Rough from Move Tutor, Dazzling Gleam from TM, Draining Kiss on Evolution & at Level 1
+Typhlosion Ability Blaze ->Flash Fire, Hidden Ability Flash Fire->Flaming Soul (!!), learns Scorching Sands at Level 61 and from TM
+Totodile, Croconaw, Feraligatr Ability Torrent -> Sheer Force, Hidden Ability Sheer Force -> Strong Jaw
+Feraligatr learns Aqua Fang at Level 69, Jaw Lock at Level 72
+Furret Ability Run Away->Adaptability, Attack 76->86 (!), learns Sucker Punch at Level 32 instead of Rest, 36 Extreme Speed, 56 DoubleEdge instead of Hyper Voice
+Noctowl HP 100->110,  learns Oblivion Wing at Level 70 instead of Dream Eater
+Ledian Bug/Flying->Bug/Fighting Ability Early Bird->Iron Fist Attack 35->90, SpA 55->35, SpDef 110->100 (!), learns Power Up Punch on evolution & at Level 1, Lunge at Level 38, Drain Punch instead of Double Edge at Level 47, First Impression at Level 55, Close Combat at Level 70 and from Move Tutor. Learns Bulk Up by TM
+Ariados Ability Insomnia->No Guard, Attack 90->95, Speed 40->70,  learns Gunk Shot at Level 46 and from Move Tutor, Megahorn at Level 49
+Crobat Ability 2: Sniper, SpA 70->90
+Lanturn Attack 58->50, Defense 58->65 SpA 76->90, learns Parabolic Charge at Level 43 instead of Take Down
+Xatu SpA 95->105, Speed 95->105
+Ampharos learns Tail Glow at Level 75
+Bellossom Type Grass->Grass/Fairy, HP 75->85, Attack 80->70,  learns Moonblast at Level 1, Fiery Dance at Level 64
+Sudowoodo Type Rock->Rock Grass, HP 70->90
+Politoed can learn ™ Flip Turn
+Jumpluff Ability Hidden Ability Infiltrator->Aerilate, Attack 55->85, SpA 55->35, can learn Solar Blade from ™
+Aipom learns Quick Attack at Level 1 instead of Scratch
+Sunflora Grass -> Grass/Fire HP 75->95, SpA 105->135, Speed 30 -> 55, learns Flame Burst at Level 1 and on Evolution, Seed Flare at Level 50, Fiery Dance at Level 60, can learn Overheat, Flamethrower, Fire Blast from TM, Mystical Fire from Move Tutor
+Quagsire HP 95->100, Def 85->90
+Espeon learns Fiery Dance at Level 65, can learn TM Teleport
+Umbreon can learn Knock Off from Move Tutor
+Murkrow can learn U-turn from ™, Knock Off from Move Tutor,
+Girafarig Inner Focus->Sap Sipper, Hidden Ability Sap Sipper->Parental Bond, learns Boomburst at level 56
+Forretress Level 42 learns Lunge instead of Iron Defense
+Dunsparce Defense 70->80, SpDef 65->75m learns No Retreat at Level 41 instead of Endeavor
+Granbull Type Fairy->Fairy/Fighting, Ability 2 Quick Feet->Strong Jaw, HA Rattled->Bull Rush, HP 90->100, learns Hammer Arm at Level 55, Flare Blitz from Move Tutor
+Qwilfish Ability 1 Poison Point-> Prankster,  Attack 95->105, cannot learn Haze from Egg Moves (Too powerful with Prankster)
+Scizor learns Curse at Level 65
+Delibird Hidden ability insomnia->Surprise!, Attack 55->100, Speed 75->105 (!), learns Extreme Speed at Level 60
+Shuckle Ability Gluttony->Solid Rock
+Heracross learns Drill Run from Move Tutor
+Ursaring Base HP 90->100, Def 75->80, SpDef 75->80, SpA 75->55, learns Sucker Punch at Level 1
+Magcargo Ability Magma Armor->Simple (!!), learns Power Gem at Level 29 instead of Rock Slide, No Retreat at level 64. Is not able to learn Shell Smash anymore.
+Corsola Natural Cure->Regenerator, HP 65->85, Def 95->100, SpDef 95->100
+Corsola-G Ability 2 None -> Unburden
+Octillery Suction Cups->Mega Launcher, Hidden Ability Moody->Skill Link, Speed 45->75,  Level 58 learns Snipe Shot instead of Hyper beam, learns Icicle Spear, Pin Missile, Aura Sphere from move tutor
+Mantine SpA 80->90
+Houndoom learns Fiery Wrath at Level 56
+Kingdra learns Snipe Shot at level 70
+Donphan HA Sand Veil->Technician,  can learn Rock Blast, Drill Run from Move Tutor, Bonemerang at Level 65.
+Stantler Frisk->Reckless, HP 73 -> 80, Attack 95 -> 100, Def 62 -> 70, SpA 85 -> 100, SpDef 65 -> 73, Speed 90 -> 100, learns Horn Leech at Level 33 instead of Role Play, Hyper Voice from TM, Play Rough from Move Tutor
+Miltank Attack 80->85
+Tyrogue learns Skull Bash, Fake Out as Egg Move
+Hitmontop learns Sucker Punch at Level 28 instead of Counter
+Entei can learn Earthquake from ™, Close Combat from Move Tutor
+Tyranitar can learn Power Gem from Move Tutor
+HOENN:
+Sceptile Grass -> Grass/Dragon, Attack 85 -> 105, SpA 105 -> 85, learns Scale Shot at Level 80
+Mightyena Ability Quick Feet->Strong Jaw Attack 90->95, learns Psychic Fangs at Level 1 instead of Thief, Jaw Lock at Level 48 instead of Take Down
+Zigzagoon-G learns Pursuit from Egg Moves
+Linoone HP 78->85, Attack 70-85
+Beautifly SpA 100->105, Speed 65->75
+Dustox HP 60->80, Attack 50->40, SpA 50->60
+Shiftry Attack 100->120, SpA 90->110, learns Parting Shot on Evolution
+Swellow Hidden Ability Scrappy->Aerilate, learns Boomburst at Level 65
+Wingull Ability Hydration->Rain Dish, HA Rain Dish->Hydration
+Pelipper Ability Drizzle->Rain Dish, HA Rain Dish -> Drizzle
+Masquerain Bug/Flying->Water/Bug HP 70->80, learns Hurricane from Move Tutor
+Slakoth, Slaking Buff to Ability Truant: Can now use healing moves on turns they loaf around (!) Slakoth, Vigoroth, Slaking can learn Knock Off from Move Tutor, Slaking learns Double Edge at Level 66
+Ninjask learns First Impression at Level 36, Sonic Slash at Level 54, can learn Drill Run from Move Tutor
+Whismur Ability 2 None->Oblivious
+Loudred HA Scrappy->Punk Rock
+Exploud Ability Ability 2 None->Scrappy, HA Scrappy->Punk Rock, Attack 91->81, Speed 68->73, learns Overdrive at Level 63
+Hariyama can learn Drain Punch from ™
+Delcatty Ability Normalize->Wonder Skin, Hidden Ability Wonder Skin->Feline Power, SpA 55->65, can learn Draining Kiss from TM
+Medicham can learn Close Combat from move tutor
+Manectric HA Minus->Intimidate
+Plusle Ability 2 None->Lightningrod, HA Lightningrod->Transistor, Speed 95->110, can learn Weather Ball from Move Tutor, Surf from TM, can learn Knock Off from Move Tutor
+Minun Ability 2 None->Lightningrod, HA Lightningrod->Galvanize, Attack 40->85, Defense 50->75, SpA 75->50, SpDef- 85>40, Speed 95->110, learns Double Edge at Level 43 instead of Thunder, Extreme Speed at Level 50, can learn Surf from TM, can learn Knock Off from Move Tutor
+Volbeat Bug->Bug/Electric,  Ability Swarm->Prankster HP 65->85, Attack 73->47, SpA 47->90, Speed 85->100, can learn Volt Switch from TM
+Illumise Bug->Bug Fairy, HP 65->85, Attack 47->90, SpA 73->47, Speed 85->100
+Swalot Hidden Ability Gluttony -> Magic Guard, Attack 83 -> 88, Defense 83 -> 88 SpA 73 -> 93, SpDef 83 -> 88, learns Blizzard, Focus Blast, Hydro Pump from TM, Earth Power from Move Tutor
+Sharpedo learns Aqua Fang at Level 75
+Wailord Ability Oblivious->Multiscale, HP 170->150, Attack 90->50, Def 45->80, SpA 90->105, SpDef 45->80, Speed 60->50, learns Bouncy Bubble at Level 55, can learn Focus Blast from Move Tutor
+Camerupt HP 70->90, learns Slack Off at Level 63, Steam Eruption at Level 66, Magma Storm at Level 72 Scald through ™
+Grumpig HP 80->90, learns Slack Off at Level 66
+Spinda all stats 60->80
+Glalie HA Moody -> Refrigerate, learns Quick Attack at Level 1, Fake Out at Level 45, can learn Hyper Voice from TM
+Vibrava Hidden Ability Tinted Lens
+Flygon Ability 2: Compound Eyes, Hidden Ability Tinted Lens, HP 80->100, SpA 80->100
+Cacnea, Cacturne secondary ability->Water Absorb, Hidden Ability Water Absorb->Sand Rush
+Cacturne Attack 115->120, SpA 115->120, can learn Knock Off from Move Tutor
+Altaria HP 75->85, Calm Mind, Brave Bird from ™, Hurricane from Move Tutor
+Zangoose Ability Immunity->Tough Claws, Defense 60->70, SpDef 60->70, Speed 90->100, learns Fake Out at Level 40
+Seviper Ability Shed Skin -> Merciless, HA Corrosion -> Fatal Precision, HP 73 -> 83, Defense 60 -> 83, SpDef 60 -> 83, Speed 80 -> 100, learns Gunk Shot at Level 53, Hypnosis at Level 65, Fire Blast from TM, Gunk Shot, Power Whip, Ice Fang, Fire Fang, Thunder Fang from Move Tutor
+Lunatone SpA 95->105 Speed 70->90, learns Future Sight at Level 33 instead of Heal Block, Photon Geyser at Level 41 instead of Future Sight
+Solrock Attack 95->105 Speed 70->90, learns Photon Geyser at Level 41 instead of Solarbeam, can learn Flare Blitz from Move Tutor
+Whiscash Oblivious->Water Bubble
+Torkoal Ability Drought->Shell Armor, HA Shell Armor->Drought Attack 85->75, SpA 85->95
+Claydol SpA 70->80, learns Shore Up at Level 1 and on Evolution
+Lileep, Cradily learn Power Gem from Move Tutor
+Cradily Ability Suction Cups->Storm Drain, learns Sappy Seed at Level 68
+Armaldo learns First Impression at Level 66
+Milotic Defense 79->84, Speed 81->86
+Castform All stats 70->85, along with changing form Forecast also activates weather depending on what weather rock Castform is holding
+Kecleon HP 60->85, Attack 90->100
+Banette learns Poltergeist at Level 64 instead of Phantom Force
+Tropius Grass/Flying->Grass/Dragon, SpA 72->92, Speed 51->81, can learn Weather Ball from Move Tutor
+Chimecho HP 75->90, Speed 65->80, learns Forbidden Spell at Level 50
+Walrein Hidden Ability Oblivious->Fur Coat, HP 110->90 (!!), learns Scald by ™
+Clamperl gets Shell Smash as an Egg Move
+Huntail Water->Water/Dark, Ability Swift Swim->Intimidate, Hidden Ability Water Veil->Defiant, learns Psychic Fangs at Level 1, Aqua Fang at Level 50 instead of Hydro Pump, Crunch at Level 65, Liquidation from Move Tutor
+Gorebyss Water->Water/Fairy, SpA 114->104, Ability Swift Swim ->Dazzling, Hidden Ability Hydration->Regenerator,  learns Moonblast at Level 65, can learn TM Dazzling Gleam
+Relicanth Attack 90->105, Defense 130->115
+Luvdisc Type Water->Water/Fairy, Ability Hydration->Soul-Heart, SpA 40->100, learns Lovely Kiss at Level 40 instead of Aqua Ring, Dazzling Gleam from TM (!)
+Bagon can learn Wish from Egg Move
+Salamence learns Refresh at Level 1
+Regirock Hidden Ability Sturdy->Solid Rock
+Regice Hidden Ability Ice Body->Filter, learns Freeze Dry at Level 71, Freezy Frost at Level 75
+Registeel learns Double Iron Bash at Level 1 (!)
+SINNOH:
+Turtwig learns Shell Smash, Grav Apple as Egg Move
+Turtwig line Ability 2 None->Self-Sufficient, HA Battle Armor->Rock Head
+Torterra can learn Head Smash at Level 65, High Horsepower from Move Tutor
+Infernape Attack 104->110, SpA 104->110, Speed 108->113, learns Pyro ball at Level 68, can learn Aura Sphere from Move Tutor
+Empoleon Hidden Ability Defiant->Competitive, can learn Roost, Brave Bird, Calm Mind from TM, Nasty Plot from Move Tutor
+Staraptor learns Double Edge at Level 65
+Bibarel Def 60->80, SpDef 60->80, Speed 71->50
+Kricketune Ability Swarm->Technician, Attack 85->95, Def 51->71, SpDef 51->71, Speed 65->80,  learns Pin Missile at Level 22 instead of Focus Energy, can learn Bullet Seed, Rock Tomb, Bulldoze from TM
+Luxray Electric->Electric/Dark, learns Sucker Punch at Level 49 instead of Scary Face, Zing Zap at Level 56, Volt Tackle at level 63 instead of Wild Charge, Nasty Plot from Move Tutor
+Roserade learns Ancient Power at Level 50, Apple Acid at Level 70, Silver Wind, Draining Kiss from TM, Clear Smog from Egg Move
+Rampardos learns Accelerock at Level 70
+Bastiodon Ability Sturdy->Dauntless Shield
+Wormadam-Sandy Attack 79->59, SpA 59->79
+Wormadam-Trash Attack 69->59, SpA 69->79
+Mothim Attack 94->84, Speed 66->80, can learn Hurricane from Move Tutor
+Vespiquen Ability Pressure->Queenly Majesty, HP 70->85, can learn Hurricane from move tutor
+Pachirisu Ability Run Away->Prankster, HP 60->75, SpDef 90->95, can learn TM Reflect
+Floatzel Ability Swift Swim->Water Veil, Hidden Ability Water Veil->Technician (!!) HP and Attack 105->90,  learns Fake Out on Evolution, Hydro Pump at Level 51 instead of Agility, Surging Strikes at Level 80
+Cherrim Signature Ability received buff, Attack 60->100, SpA 87->60, learns Solar Blade at Level 43, can learn X-Scissor from ™
+Ambipom  learns Arm Thrust at Level 60
+Drifblim learns Air Slash at level 34 instead of Swallow/Spitup, Hurricane at Level 1, Strength Sap at Level 58, learns Nasty Plot, Air Slash, Hurricane from move tutor (!)
+Lopunny Normal->Normal/Fighting, can learn Brick Break from TM
+Mismagius Ghost->Ghost/Fairy, HP 60->70, Defense 60->70, learns Moonblast at Level 70
+Honchkrow Speed 71->96, can learn U-Turn from TM, Knock Off from Move Tutor
+Purugly HP 71->100, Defense 64->79, SpDef 59->74, learns Slack Off on Evolution, can learn Bulk Up from TM
+Skuntank SpA 71->91, can learn Knock Off from Move Tutor
+Bronzong learns Teleport from ™
+Chatot Speed 91->101, learns Boomburst at Level 45 instead of Uproar
+Gabite can learn Stomping Tantrum from Move Tutor
+Garchomp learns Earthquake at Level 70, can learn HM Fly
+Drapion Attack 90->80 (Stat nerf, but he has access to Wicked Blow; Overall a buff), Drapion learns Wicked Blow at Level 64
+Toxicroak can learn Aura Sphere, Close Combat from Move Tutor
+Carnivine HP 74->89, Defense 72->82, SpDef 72->82, SpA 90->55
+Lumineon Ability Swift Swim->Dazzling, HP 69->79, Attack 69->59, SpA 69->96, SpDef 86->69, Speed 91->101, learns Tail Glow at Level 59 (!), Hurricane at Level 64, and can learn Hurricane, Hydro Pump from Move Tutor
+Abomasnow learns Aurora Veil at Level 1,  Ice Hammer at level 58 instead of Sheer Cold
+Lickilicky Ability Thick Fat -> Unaware, Attack 85->95, Speed 50->30
+Electivire Type Electric->Electric/Fighting, Hidden Ability Vital Spirit->Iron Fist, Attack 123->113, Special Attack 95->105, learns Mach Punch at Level 1, Plasma Fists at level 70 instead of Thunder. Can learn Close Combat, Aura Sphere from Move Tutor, and Bulk Up from TM.
+Magmortar Hidden Ability Vital Spirit->Mega Launcher, Attack 95->80, Speed 83->98, learns Magma Storm at Level 66, Steam Eruption at Level 70, gets Aura Sphere from Move Tutor, Dragon Pulse, Dark Pulse, Scald, Meteor Beam from ™
+Togekiss learns Brave Bird from ™
+Leafeon Attack 110->130, Defense 130->110, Ability 2 Leaf Guard->Sap Sipper, learns Jump Kick at Level 1, learns Sappy Seed at Level 70, learns Stomping Tantrum from Move Tutor
+Glaceon Ability 1: Snow Cloak, Ability 2: Snow Cloak->Ice Body, Hidden Ability Ice Body->Slush Rush, Base Hp 65->80, Attack 65->45, Defense 110->100, Speed 65->75, learns Freeze Dry at level 41 instead of Last Resort, learns Earth Power from Move Tutor
+Gallade learns Sacred Sword at Level 59 instead of Stored Power, Psycho Cut at Level 72, Shadow Claw from ™
+Probopass Hidden Ability Sand Force->Levitate, Hp 60->65, Attack 55->45, SpA 75->80
+Dusknoir Hidden Ability Frisk->Hustle, learns Hammer Arm at 64 instead of Future Sight, Shadow Claw from ™, Close Combat from Move Tutor
+Froslass Attack 80->95, SpA 80->95, learns Freeze Dry at Level 58
+Spiritomb Hidden Ability Infiltrator->Intimidate, learns Parting Shot at Level 65
+Rotom Defense 77->70, SpDef 77->70 (Can utilize Eviolite in this game, hence why it's nerfed)
+Rotom-Fan Ability Levitate -> Motor Drive, learns Hurricane instead of Air Slash
+UNOVA:
+Emboar Blaze->Reckless, HA Reckless->Bull Rush,  learns Jump Kick at level 55 instead of Roar, can learn Close Combat from Move Tutor
+Samurott Water->Water/Steel, Hidden Ability Shell Armor->Blademaster, Attack 100->108, SpA 108->95, Speed 70->100, learns Razor Shell at Level 70 instead of 18, Learns Scald at Level 18 instead of Razor Shell
+Watchog Ability Keen Eye->Analytic, Hidden Ability Analytic->No Guard, HP 60->80, Attack 85->100, Defense 69->74, SpDef 69->74, learns Mega Kick at Level 36 instead of Hyper Fang, Dynamic Punch at Level 50 instead of Slam
+Stoutland HP 85->90, Attack 110->115
+Liepard Ability Limber->Moxie, Attack 88->98, SpA 88->78
+Simisage, Simisear, Simipour Hidden Ability is now Sage Power, a Gorilla Tactics but for Special Attack (!)
+Simisage can learn Power Gem from Move Tutor
+Musharna Hidden Ability Telepathy->Unaware
+Unfezant Speed 93->108, learn Slash at Level 23 instead of Detect, learns Drill Peck on Evolution, can learn Drill Run from Move Tutor
+Blitzle, Zebstrika Motor Drive->Sap Sipper, Hidden Ability Sap Sipper->Flare Boost, learns Flame Wheel at level 31 instead of Stomp, Flare Blitz at level 53 instead of Thrash, Zippy Zap at Level 58, Bolt Strike at level 65 instead of Ion Deluge, can learn ™ Flamethrower
+Swoobat HP 67->75, Defense 55->65, can learn Hurricane from Move Tutor
+Audino learns Moonblast at Level 65
+Throh Ability Inner Focus -> Technician, Defense 85->95, SpDef 85->95
+Sawk Hidden Ability Mold Breaker->Contrary, learns Hammer Arm at Level 55
+Leavanny Hidden Ability Overcoat->Blademaster (!), learns Sacred Sword at Level 60
+Whimsicott can learn Weather Ball from Move Tutor
+Lilligant learns Apple Acid at Level 65, Seed Flare at Level 70, can learn Power Gem from Move Tutor
+Basculin Attack 92->110
+Krookodile learns Wicked Blow at Level 60
+Darmanitan can learn Trick Room, Teleport from TM (for Zen Mode)
+Darmanitan-G Attack 140->130
+Maractus Hidden ability Storm Drain->Grassy Surge, Attack 86->106, SpA 106->85, learns Sappy Seed at Level 52
+Crustle Speed 45->55
+Sigilyph can learn Hurricane from Move Tutor
+Yamask, Cofagrigus, Yamask-G, Runerigus Hidden Ability None->Shadow Shield
+Archeops Ability Defeatist buff: Half Attack/Special Attack when below half HP changed to Half Attack/Special Attack when below 1/3 HP, can learn Meteor Beam, Brave Bird from TM, Hurricane from Move Tutor
+Garbodor Ability Stench->Gooey, Attack 95->115, Speed 75->60, can learn ™ Poison Jab, Earthquake, Superpower from TM, Ice Punch, Fire Punch, and Thunder Punch from Move Tutor
+Gothitelle learns Psycho Boost at Level 70
+Reuniclus can learn TM Teleport
+Swanna Hidden Ability Hydration->No Guard Attack 87->77, SpA 87->97,  Speed 98->108, can learn Hydro Pump at Level 47 and from Move Tutor
+Vanilluxe Attack 95->90, Speed 79->84
+Sawsbuck Attack 100->110, Speed 95 -> 105,  can learn ™ Bullet Seed, Earthquake, Rock Slide
+Emolga Ability Static->Motor Drive, Attack 75->55, SpA 75->95
+Escavalier learns Double Iron Bash at Level 67 (!)
+Jellicent Hidden Ability Damp->Water Bubble, Defense 70->80, SpA 85->75 (!)
+Alomomola can learn Flip Turn from TM
+Klinklang Hidden Ability Clear Body -> Steelworker (!), learns Volt Tackle at Level 64, can learn Superpower from TM
+Eelektross Hidden Ability None -> Fatal Precision, Attack 115->105, SpA 105->115, can learn Fire Blast from TM, Hydro Pump from Move Tutor
+Beheeyem Ability Telepathy->Analytic, HP 75->95
+Chandelure Hidden Ability Infiltrator -> Shadow Tag
+Haxorus can learn Scale Shot at Level 74 instead of Giga Impact
+Beartic Type Ice->Ice/Fighting Attack 130->140, learns Ice Hammer at Level 65, can learn Close Combat from Move Tutor
+Cryogonal Special Attack 95->110, learns Freezy Frost at Level 63
+Accelgor Ability Sticky Hold->Unburden, HA Unburden->Sheer Force (!), can learn Taunt from TM
+Stunfisk Ability Limber->Water Absorb (!), can learn Volt Switch from TM
+Stunfisk-G Ability Mimicry->Filter
+Druddigon HP 77->90, Speed 48->41, learns Dragon Hammer at Level 70, Roost from ™
+Golurk HP 89->100, Defense 80->90, SpDef 80->90
+Heatmor Hidden Ability White Smoke -> Fatal Precision, Attack 97 -> 90, Speed 85 -> 100, learns Dynamic Punch at Level 73, Stone Edge from TM, Power Whip from Move Tutor
+Bouffalant Speed 55->65, learns Head Smash as Egg Move, Heat Crash and Body Press from TM
+Terrakion learns Aura Sphere from Move Tutor
+Virizion learns Aura Sphere from Move Tutor
+Cobalion learns Aura Sphere from Move Tutor
+Kyurem and its forms can learn Ice Punch from ™
+
+Meloetta will keep her Form changes outside of battle (can stay in Pirouette form). Learns Extrasensory at Level 46, Luster Purge and Mist Ball at Level 68, can learn Rock Slide, Bulk Up from TM, Body Slam, Aura Sphere from Move Tutor
+KALOS:
+Chesnaught Ability Overgrow->Bullet Proof, HA Bulletproof->Iron Barbs, learns Horn Leech at Level 41 instead of Mud Shot, Close Combat from Move Tutor
+Delphox Hidden Ability Magician->Magic Guard, learns Future Sight at Level 74 instead of Fire Blast, Mind Blown at Level 85 instead of Future Sight, Nasty Plot from Move Tutor (!!)
+Talonflame Attack 81->91
+Pyroar Hidden Ability Moxie->Adaptability (!)
+Floette line (including Floette-Eternal) Ability 2 None->Natural Cure
+Floette, Florges can learn Draining Kiss from TM
+Gogoat Defense 62->72, SpA 97->67, SpDef 81->87, Speed 68->74
+Furfrou Attack 80->90
+Pancham learns Sucker Punch as Egg Move
+Pangoro Hidden Ability Scrappy->Quick Feet, learns Wicked Blow at Level 70
+Meowstic HA Feline Power, Sp Attack 50 -> 55, can learn Mystical Fire from Move Tutor
+Honedge, Doublade No Guard->Blademaster
+Aromatisse Ability Healer->Fairy Aura, Attack 72->62, Defense 72->82, learns Sparkly Swirl at Level 61
+Slurpuff Attack 80->90, SpA 85->75
+Barbaracle can learn Ice Punch from Move Tutor
+Clawitzer Speed 59->72, learns Snipe Shot at Level 70
+Heliolisk learns Boomburst at Level 70
+Tyrantrum learns Accelerock at Level 52, Scale Shot at Level 64
+Aurorus learns Boomburst at Level 1, Diamond Storm at Level 63 instead of Hyper Beam, Power Gem from Move Tutor
+Dedenne Hidden Ability Plus->Electric Surge, SpA 81->91, learns Draining Kiss from TM
+Carbink learns Recover at Level 65
+Goomy learns Wish as Egg Move
+Goodra can learn Dragon Dance, Giga Drain, Scald, and Drain Punch from ™. Learns Dragon Hammer at Level 75.
+Trevenant Attack 110->120, Defense 76->82
+Swapped all Pumpkaboo, Gourgeist forms Attack, Special Attack.
+Gourgeist Hidden Ability Insomnia->Flare Boost
+Avalugg Own Tempo->Filter, learns Icicle Crash on Evolution
+Noivern SpA 97->102, learns Aeroblast at Level 75
+Diancie can learn Draining Kiss from ™
+
+ALOLA:
+Decidueye Hidden Ability Long Reach->Tinted Lens, SpA 100->95, SpDef 100->85, Speed 70->100, learns Thousand Arrows at Level 65
+Toucannon HP 80->90, learns Flare Blitz from Move Tutor
+Gumshoos HP 88->98
+Crabominable learns Ice Shard and Mach Punch at Level 1
+Oricorio learns Quiver Dance at Level 60
+Lycanroc Midnight learns Precipice Blades at Level 60
+Toxapex learns Recover at Level 90
+Mudsdale learns Slack Off at Level 65
+Lurantis Grass->Grass Fighting, Speed 45->55
+Shiinotic HP 60->75,  learns Sparkling Swirl at Level 60
+Tsareena Hidden Ability Sweet Veil->Striker, learns Grav Apple at Level 66
+Comfey learns Sparkly Swirl at Level 58
+Oranguru Hidden Ability Symbiosis->Sage Power, Def 80->110, SpDef 110->80
+Passimian SpDef 60->75, can learn Mach Punch at Level 1, Sucker Punch at Level 56
+Silvally - Does not need to hold memory for typing, uses form changer in Cinnabar Labs. Therefore, it can now use any hold item! RKS System->Battle Armor, All Stats 95->100 (!!)
+Komala HP 65->75
+Turtonator Shell Armor->Dauntless Shield HP 60->70, Attack 78->58
+Togedemaru Ability Lightning Rod->Motor Drive Attack 98->108, learns Zippy Zap at Level 47
+Drampa Hidden Ability Cloud Nine -> Fatal Precision, HP 88->103, Attack 60->50
+Dhelmise learns Spirit Shackle at Level 64
+Tapu Lele, Fini, Koko, Bulu can learn Play Rough from Move Tutor
+Xurkitree Attack 89->74, Speed 83->98
+Guzzlord Ability 2 None->Dark Aura, HP 223->203, Defense 53->73, SpDefense 53->73, Speed 43->23, learns Pursuit at Level 1, Parting Shot at Level 50, Sucker Punch at Level 63, Dragon Hammer at Level 73 instead of Dragon Rush
+Melmetal Ability Iron Fist->Clear Body
+GALAR:
+Scorbunny Hidden Ability Libero -> Protean
+Cinderace Attack 116->111
+Greedent learns Recycle at Level 65, Heat Crash from ™
+Thievul SpA 87->97, Speed 90->110, learns Mystical Fire at Level 42, can learn Mystical Fire from Move Tutor
+Eldegoss HP 60->75, SpA 80->90
+Dubwool HP 72->82
+Chewtle/Drednaw learns Aqua Jet, can learn Flip Turn from TM
+Drednaw learns Aqua Fang at level 72, can learn ™ Brick Break
+Boltund Attack 90->100, SpA 90->80, learns Ice Fang from Move Tutor
+Coalossal learns Power Gem at Level 60
+Flapple learns Scale Shot at Level 72
+Appletun learns Leaf Storm at Level 66
+Cramorant Defense 55->65, SpA 85->100, Speed 80->105, learns Surf at Level 49 instead of Thrash
+Barraskewda Hidden Ability Propeller Tail -> Swift Swim
+Clobbopus, Grapploct Fighting->Water/Fighting, learn Low Sweep at Level 20 instead of Brick Break, Brutal Swing at Level 55, Arm Thrust at Level 75, Aqua Jet, Mach Punch as Egg moves, Flip Turn from ™
+Obstagoon learns Sucker Punch at Level 63
+Perrserker HP 70->90, SpA 50->30 learns Bullet Punch from Meowth-G as an Egg Move
+Cursola Ability 2 None -> Unburden, HP 60->80, Attack 95->75, Speed 30 -> 55, can learn Mystical Fire from Move Tutor
+Sirfetch’d Steadfast->Blademaster, HP 62->82, learns Sacred Sword at Level 75,can learn Roost, Cut from TM/HM, can learn Drill Run from move tutor. Leek Stick gives +2 to Crit Ratio like it does in Vanilla Gen 8.
+Mr Rime attack 85->65, SpDef 100->90, Speed 70->100, learns Freezy Frost at Level 62
+Alcremie learns Moonblast at Level 60
+Falinks Fighting -> Fighting/Bug, HP 65->75, SpA 70->60
+Pincurchin Electric->Electric/Water, HP 48->68, Attack 101->81, learns Bouncy Bubble at Level 63, can learn Volt Switch from TM
+Frosmoth Defense 60->65
+Stonjourner SpDef 20->50, Speed 70->80
+Eiscue, Eiscue-NoIce Attack 80->100, SpA 65->45,  learns Ice Shard at Level 65
+Indeedee M/F learn Expanding Force at Level 65
+Morpeko Attack 95->110, learns Zippy Zap at Level 65
+Cufant Ability Sheer Force -> Heavy Metal, Hidden Ability Heavy Metal -> None
+Copperajah Ability Sheer Force -> Heavy Metal, Hidden Ability Heavy Metal -> None Defense 69 -> 79, SpDef 69 -> 79, learns Double Iron Bash at Level 80, Flamethrower, Fire Blast, Focus Blast from TM (!!)
+Arctovish SpA 80->55, Speed 55->80
+Arctozolt Speed 55->80, SpDef 80->55
+Dracovish Strong Jaw does not boost Fishious Rend
+Duraludon HP 70->85, Hidden Ability Stalwart -> Clear Body, learns Steel Beam at Level 75
+Zarude Ability 2 None->Defiant,  learns Pursuit at Level 1, Sucker Punch at Level 70, Knock Off from Move Tutor
+ Glastrier learns Ice Hammer at Level 68
+
+
+
+
